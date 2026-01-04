@@ -65,7 +65,7 @@ function initCurrentTimeVars_asq() {
 
       
     default:
-      total_quota_asq = 350 ;
+      total_quota_asq = 350;
       break;
   }
 }
@@ -109,7 +109,7 @@ function prepareInterviewData_asq() {
   var dest_quota_asq_temp = JSON.parse(Dest_quota_ASQ);
   
   var interview_data_asq_temp  = JSON.parse(interview_statistics_asq);
-  var flight_list_temp  = JSON.parse(departuresFlightList);
+  var flight_list_temp  = JSON.parse(flightlistraw);
     
   initCurrentTimeVars_asq();	
   
@@ -194,21 +194,21 @@ function prepareInterviewData_asq() {
     var flight_number = flight.Flight.substring(3,8);
     flight.Flight_Show = flight.Flight;
 
-    //speciall mapping ICAO - IATA code
-    if ((flight_letters == "EZS") || (flight_letters == "EZY") || (flight_letters == "EJU"))
-    {
-      var new_flight_letters = flight_letters;
-      if (flight_letters == "EZY") new_flight_letters = "U2";
-      if (flight_letters == "EZS") new_flight_letters = "DS";
-      if (flight_letters == "EJU") new_flight_letters = "EC";
+    // //speciall mapping ICAO - IATA code
+    // if ((flight_letters == "EZS") || (flight_letters == "EZY") || (flight_letters == "EJU"))
+    // {
+    //   var new_flight_letters = flight_letters;
+    //   if (flight_letters == "EZY") new_flight_letters = "U2";
+    //   if (flight_letters == "EZS") new_flight_letters = "DS";
+    //   if (flight_letters == "EJU") new_flight_letters = "EC";
       
-      flight.Flight_Show = new_flight_letters + " " + flight_number;
-      flight.AirlineCode = new_flight_letters;
+    //   flight.Flight_Show = new_flight_letters + " " + flight_number;
+    //   flight.AirlineCode = new_flight_letters;
       
-      flight.Flight_Show = flight.Flight_Show + " (" +  flight.Flight + ")";
-    }
+    //   flight.Flight_Show = flight.Flight_Show + " (" +  flight.Flight + ")";
+    // }
 
-    flight.Dest = flight.Airport_code; //speciall for BER
+    // flight.Dest = flight.Airport_code; //speciall for BER
     flight.Airline_Dest = flight.AirlineCode + "-" + flight.Dest;//code for compare
 
     //for sorting: YYYY-MM-DD
@@ -228,7 +228,7 @@ function prepareInterviewData_asq() {
       
       //only get today & not departed flight
       if (((currentDate == flight.Date) && notDeparted_asq(flight.Time))
-          || (flight.Date == nextDate)
+          || (flight.Date >= currentDate)
         )
       { 
         flight.Date_Time = flight.Date.substring(6,10) + flight.Date.substring(3,5) + flight.Date.substring(0,2) + flight.Time;
@@ -272,10 +272,9 @@ function prepareInterviewData_asq() {
 
     if (flight.Quota>0) {
       //special for BER
-      var hide_routes = ["KL-AMS", "AF-CDG", "UA-EWR", "LH-FRA", "BA-LHR", 
-      "LH-MUC", "LY-TLV", "OS-VIE","LX-ZRH"];
+      var hide_routes = ["99-999"];
 
-      var hide_dest = ["LCY"];
+      var hide_dest = ["999"];
 
       if (!hide_routes.includes(flight.AirlineCode + "-" + flight.Dest))
       {
