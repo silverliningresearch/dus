@@ -60,12 +60,12 @@ function initCurrentTimeVars_asq() {
  
   switch(currentQuarter) {
     case "2026-Q1":       
-      total_quota_asq = 350;
+      total_quota_asq = 310;
       break;   
 
       
     default:
-      total_quota_asq = 350;
+      total_quota_asq = 310;
       break;
   }
 }
@@ -119,7 +119,7 @@ function prepareInterviewData_asq() {
   for (i = 0; i < dest_airline_quota_asq_temp.length; i++) {
     if (dest_airline_quota_asq_temp[i].Quarter == currentQuarter)
     {
-      if (dest_airline_quota_asq_temp[i].Quota >=4) //temp condition, requested on 4-Apr-24 
+      if (dest_airline_quota_asq_temp[i].Quota >=2) //DUS: >=2, not >=4 
       {
         dest_airline_quota_asq.push(dest_airline_quota_asq_temp[i]);
       }
@@ -194,19 +194,19 @@ function prepareInterviewData_asq() {
     var flight_number = flight.Flight.substring(3,8);
     flight.Flight_Show = flight.Flight;
 
-    // //speciall mapping ICAO - IATA code
-    // if ((flight_letters == "EZS") || (flight_letters == "EZY") || (flight_letters == "EJU"))
-    // {
-    //   var new_flight_letters = flight_letters;
-    //   if (flight_letters == "EZY") new_flight_letters = "U2";
-    //   if (flight_letters == "EZS") new_flight_letters = "DS";
-    //   if (flight_letters == "EJU") new_flight_letters = "EC";
+    //speciall mapping ICAO - IATA code
+    if ((flight_letters == "EZS") || (flight_letters == "EZY") || (flight_letters == "EJU"))
+    {
+      var new_flight_letters = flight_letters;
+      // if (flight_letters == "EZY") new_flight_letters = "U2";
+      // if (flight_letters == "EZS") new_flight_letters = "DS";
+      if (flight_letters == "EJU") new_flight_letters = "EC";
       
-    //   flight.Flight_Show = new_flight_letters + " " + flight_number;
-    //   flight.AirlineCode = new_flight_letters;
+      flight.Flight_Show = new_flight_letters + " " + flight_number;
+      flight.AirlineCode = new_flight_letters;
       
-    //   flight.Flight_Show = flight.Flight_Show + " (" +  flight.Flight + ")";
-    // }
+      flight.Flight_Show = flight.Flight_Show + " (" +  flight.Flight + ")";
+    }
 
     // flight.Dest = flight.Airport_code; //speciall for BER
     flight.Airline_Dest = flight.AirlineCode + "-" + flight.Dest;//code for compare
