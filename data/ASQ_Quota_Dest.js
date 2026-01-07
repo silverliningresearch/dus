@@ -1,6 +1,6 @@
      let Dest_quota_ASQ = ` 
 [
-   {
+ {
   "Dest": "ACE",
   "Quota": 3,
   "Quarter": "2026-Q1"
@@ -68,6 +68,11 @@
  {
   "Dest": "BEG",
   "Quota": 2,
+  "Quarter": "2026-Q1"
+ },
+ {
+  "Dest": "BER",
+  "Quota": 6,
   "Quarter": "2026-Q1"
  },
  {
@@ -141,6 +146,11 @@
   "Quarter": "2026-Q1"
  },
  {
+  "Dest": "DRS",
+  "Quota": 1,
+  "Quarter": "2026-Q1"
+ },
+ {
   "Dest": "DUB",
   "Quota": 4,
   "Quarter": "2026-Q1"
@@ -186,6 +196,11 @@
   "Quarter": "2026-Q1"
  },
  {
+  "Dest": "FRA",
+  "Quota": 8,
+  "Quarter": "2026-Q1"
+ },
+ {
   "Dest": "FUE",
   "Quota": 7,
   "Quarter": "2026-Q1"
@@ -206,8 +221,18 @@
   "Quarter": "2026-Q1"
  },
  {
+  "Dest": "GWT",
+  "Quota": 1,
+  "Quarter": "2026-Q1"
+ },
+ {
   "Dest": "GZT",
   "Quota": 1,
+  "Quarter": "2026-Q1"
+ },
+ {
+  "Dest": "HAM",
+  "Quota": 4,
   "Quarter": "2026-Q1"
  },
  {
@@ -298,6 +323,11 @@
  {
   "Dest": "MLA",
   "Quota": 1,
+  "Quarter": "2026-Q1"
+ },
+ {
+  "Dest": "MUC",
+  "Quota": 20,
   "Quarter": "2026-Q1"
  },
  {

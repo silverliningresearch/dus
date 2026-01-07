@@ -60,12 +60,12 @@ function initCurrentTimeVars_asq() {
  
   switch(currentQuarter) {
     case "2026-Q1":       
-      total_quota_asq = 310;
+      total_quota_asq = 350;
       break;   
 
       
     default:
-      total_quota_asq = 310;
+      total_quota_asq = 350;
       break;
   }
 }

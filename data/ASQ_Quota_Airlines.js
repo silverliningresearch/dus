@@ -1,6 +1,5 @@
      let Airline_quota_ASQ = ` 
 [
-  
  {
   "Airline": "5F",
   "Quota": 1,
@@ -87,7 +86,7 @@
  },
  {
   "Airline": "EW",
-  "Quota": 111,
+  "Quota": 127,
   "Quarter": "2026-Q1",
   "Notes": ""
  },
@@ -136,6 +135,12 @@
  {
   "Airline": "KM",
   "Quota": 1,
+  "Quarter": "2026-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "LH",
+  "Quota": 21,
   "Quarter": "2026-Q1",
   "Notes": ""
  },
@@ -232,6 +237,12 @@
  {
   "Airline": "VF",
   "Quota": 5,
+  "Quarter": "2026-Q1",
+  "Notes": ""
+ },
+ {
+  "Airline": "VL",
+  "Quota": 3,
   "Quarter": "2026-Q1",
   "Notes": ""
  },
