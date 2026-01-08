@@ -56,7 +56,7 @@
         data.addColumn('string', 'Notes');
         data.addColumn('number', 'Priority Score');
         data.addColumn('number', 'Priority');
-        
+
         //sort ascending
         daily_plan_data_asq.sort(function(a, b) {
           return (parseFloat(a.Date_Time) - parseFloat(b.Date_Time));
@@ -71,7 +71,7 @@
           {
             var row = daily_plan_data_asq[i];
             data.addRows([[
-                row.Date, 
+                row.DateID, 
                 row.Time, 
                 row.Terminal, 
                 row.Flight_Show, row.Dest, 
@@ -151,7 +151,7 @@
         dashboard.bind([tableFilter_Terminal, tableFilter_date], tableChart);
 
         var view = new google.visualization.DataView(data);
-        view.hideColumns([priority_col, priority_col-1]); //unncessary columns: Date_Tome & priority
+        view.hideColumns([priority_col, priority_col-1]); //unncessary columns: Date_Time & priority
         //document.getElementById("filter_div").style.display = "none";
         dashboard.draw(view);
 
