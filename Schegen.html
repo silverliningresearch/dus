@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Schengen-Länder Übersicht</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid #eee;
+            margin-bottom: 30px;
+            padding-bottom: 10px;
+        }
+        .row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+        .column {
+            flex: 1;
+            min-width: 300px;
+        }
+        h2 {
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .schengen-title { color: #2e7d32; }
+        .non-schengen-title { color: #c62828; }
+        
+        .icon {
+            margin-right: 10px;
+            font-size: 1.6rem;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #edf2f7;
+        }
+        tr:hover { background-color: #f9fbff; }
+        .country-name { font-weight: bold; }
+        .city-list { color: #666; font-size: 0.9rem; }
+
+        @media (max-width: 768px) {
+            .column { flex: 100%; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Europäische Länder Übersicht</h1>
+        <p>Aktualisiert am: 23.01.2026</p>
+    </header>
+
+    
+    <div class="row">
+        <div class="column">
+            <h2 class="schengen-title"><span class="icon">✅</span>Schengen-Länder in Europa</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Land & Beispielstädte</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td><span class="country-name">Frankreich</span> — <span class="city-list">Paris, Nizza, Lyon, Marseille, Toulouse</span></td></tr>
+                    <tr><td><span class="country-name">Spanien</span> — <span class="city-list">Madrid, Barcelona, Palma de Mallorca, Málaga, Alicante</span></td></tr>
+                    <tr><td><span class="country-name">Italien</span> — <span class="city-list">Rom, Mailand, Venedig, Bologna, Neapel</span></td></tr>
+                    <tr><td><span class="country-name">Niederlande</span> — <span class="city-list">Amsterdam, Eindhoven, Rotterdam</span></td></tr>
+                    <tr><td><span class="country-name">Belgien</span> — <span class="city-list">Brüssel, Charleroi, Antwerpen</span></td></tr>
+                    <tr><td><span class="country-name">Österreich</span> — <span class="city-list">Wien, Salzburg, Innsbruck, Graz, Linz</span></td></tr>
+                    <tr><td><span class="country-name">Schweiz</span> — <span class="city-list">Zürich, Genf, Basel, Bern</span></td></tr>
+                    <tr><td><span class="country-name">Polen</span> — <span class="city-list">Warschau, Krakau, Danzig, Kattowitz, Breslau</span></td></tr>
+                    <tr><td><span class="country-name">Schweden</span> — <span class="city-list">Stockholm, Göteborg, Malmö, Luleå, Umeå</span></td></tr>
+                    <tr><td><span class="country-name">Norwegen</span> — <span class="city-list">Oslo, Bergen, Trondheim, Stavanger, Tromsø</span></td></tr>
+                    <tr><td><span class="country-name">Dänemark</span> — <span class="city-list">Kopenhagen, Billund, Aalborg, Aarhus</span></td></tr>
+                    <tr><td><span class="country-name">Finnland</span> — <span class="city-list">Helsinki, Tampere, Turku, Oulu, Rovaniemi</span></td></tr>
+                    <tr><td><span class="country-name">Portugal</span> — <span class="city-list">Lissabon, Porto, Faro, Funchal</span></td></tr>
+                    <tr><td><span class="country-name">Griechenland</span> — <span class="city-list">Athen, Thessaloniki, Heraklion (Kreta), Chania, Rhodos</span></td></tr>
+                    <tr><td><span class="country-name">Tschechien</span> — <span class="city-list">Prag, Brünn</span></td></tr>
+                    <tr><td><span class="country-name">Ungarn</span> — <span class="city-list">Budapest</span></td></tr>
+                    <tr><td><span class="country-name">Rumänien</span> — <span class="city-list">Bukarest, Cluj-Napoca, Timișoara</span></td></tr>
+                    <tr><td><span class="country-name">Bulgarien</span> — <span class="city-list">Sofia, Varna, Burgas</span></td></tr>
+                    <tr><td><span class="country-name">Kroatien</span> — <span class="city-list">Zagreb, Split, Dubrovnik, Zadar, Pula</span></td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="column">
+            <h2 class="non-schengen-title"><span class="icon">🚫</span>Nicht-Schengen-Länder</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Land</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr><td>England (UK)</td></tr>
+                    <tr><td>Irland</td></tr>
+                    <tr><td>Zypern</td></tr>
+                    <tr><td>Serbien</td></tr>
+                    <tr><td>Montenegro</td></tr>
+                    <tr><td>Bosnien und Herzegowina</td></tr>
+                    <tr><td>Albanien</td></tr>
+                    <tr><td>Nordmazedonien</td></tr>
+                    <tr><td>Moldau</td></tr>
+                    <tr><td>Ukraine</td></tr>
+                    <tr><td>Belarus</td></tr>
+                    <tr><td>Russland</td></tr>
+                    <tr><td>Türkei</td></tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
