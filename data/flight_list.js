@@ -2,16936 +2,6 @@
 [
  {
   "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "ZTH",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1148"
- },
- {
-  "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1622"
- },
- {
-  "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0550",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "0600",
-  "Date": "02-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0600",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0600",
-  "Date": "02-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2814"
- },
- {
-  "Time": "0600",
-  "Date": "02-08-2026",
-  "Dest": "SID",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  7102"
- },
- {
-  "Time": "0605",
-  "Date": "02-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9500"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9558"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9958"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "0610",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0615",
-  "Date": "02-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   868"
- },
- {
-  "Time": "0620",
-  "Date": "02-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0620",
-  "Date": "02-08-2026",
-  "Dest": "OTP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9792"
- },
- {
-  "Time": "0620",
-  "Date": "02-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1326"
- },
- {
-  "Time": "0620",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0625",
-  "Date": "02-08-2026",
-  "Dest": "KVA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9684"
- },
- {
-  "Time": "0625",
-  "Date": "02-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "02-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9570"
- },
- {
-  "Time": "0630",
-  "Date": "02-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9654"
- },
- {
-  "Time": "0630",
-  "Date": "02-08-2026",
-  "Dest": "TIV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9918"
- },
- {
-  "Time": "0630",
-  "Date": "02-08-2026",
-  "Dest": "PUY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9972"
- },
- {
-  "Time": "0640",
-  "Date": "02-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "0640",
-  "Date": "02-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9644"
- },
- {
-  "Time": "0645",
-  "Date": "02-08-2026",
-  "Dest": "TRS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2724"
- },
- {
-  "Time": "0650",
-  "Date": "02-08-2026",
-  "Dest": "BGO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9252"
- },
- {
-  "Time": "0650",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9574"
- },
- {
-  "Time": "0650",
-  "Date": "02-08-2026",
-  "Dest": "VCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9810"
- },
- {
-  "Time": "0655",
-  "Date": "02-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "02-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9542"
- },
- {
-  "Time": "0655",
-  "Date": "02-08-2026",
-  "Dest": "JTR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9662"
- },
- {
-  "Time": "0700",
-  "Date": "02-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9242"
- },
- {
-  "Time": "0700",
-  "Date": "02-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "0700",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "02-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   291"
- },
- {
-  "Time": "0705",
-  "Date": "02-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5702"
- },
- {
-  "Time": "0705",
-  "Date": "02-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9670"
- },
- {
-  "Time": "0705",
-  "Date": "02-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "0710",
-  "Date": "02-08-2026",
-  "Dest": "ZTH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9626"
- },
- {
-  "Time": "0715",
-  "Date": "02-08-2026",
-  "Dest": "SVQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9568"
- },
- {
-  "Time": "0715",
-  "Date": "02-08-2026",
-  "Dest": "FLR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9830"
- },
- {
-  "Time": "0715",
-  "Date": "02-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "0720",
-  "Date": "02-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0720",
-  "Date": "02-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "0720",
-  "Date": "02-08-2026",
-  "Dest": "KRK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9732"
- },
- {
-  "Time": "0720",
-  "Date": "02-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0725",
-  "Date": "02-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9552"
- },
- {
-  "Time": "0725",
-  "Date": "02-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1329"
- },
- {
-  "Time": "0730",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0730",
-  "Date": "02-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8225"
- },
- {
-  "Time": "0800",
-  "Date": "02-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9814"
- },
- {
-  "Time": "0800",
-  "Date": "02-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   450"
- },
- {
-  "Time": "0800",
-  "Date": "02-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   085 P"
- },
- {
-  "Time": "0805",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0815",
-  "Date": "02-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0830",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2001"
- },
- {
-  "Time": "0830",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0835",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9578"
- },
- {
-  "Time": "0845",
-  "Date": "02-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "5F",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "5F  5686"
- },
- {
-  "Time": "0845",
-  "Date": "02-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9676"
- },
- {
-  "Time": "0855",
-  "Date": "02-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1392"
- },
- {
-  "Time": "0855",
-  "Date": "02-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3942"
- },
- {
-  "Time": "0905",
-  "Date": "02-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0925",
-  "Date": "02-08-2026",
-  "Dest": "VNO",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   934"
- },
- {
-  "Time": "0930",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2005"
- },
- {
-  "Time": "0930",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0940",
-  "Date": "02-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0950",
-  "Date": "02-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "0955",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0955",
-  "Date": "02-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "0955",
-  "Date": "02-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   969"
- },
- {
-  "Time": "1000",
-  "Date": "02-08-2026",
-  "Dest": "MLA",
-  "DestName": "",
-  "AirlineCode": "KM",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KM   353"
- },
- {
-  "Time": "1000",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5678"
- },
- {
-  "Time": "1000",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2007"
- },
- {
-  "Time": "1000",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1000",
-  "Date": "02-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   505"
- },
- {
-  "Time": "1005",
-  "Date": "02-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3581"
- },
- {
-  "Time": "1010",
-  "Date": "02-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1010",
-  "Date": "02-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK  1630"
- },
- {
-  "Time": "1010",
-  "Date": "02-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "1025",
-  "Date": "02-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "02-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "1030",
-  "Date": "02-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1035",
-  "Date": "02-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   073"
- },
- {
-  "Time": "1040",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1055",
-  "Date": "02-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1105",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1105",
-  "Date": "02-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "1115",
-  "Date": "02-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "02-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1115",
-  "Date": "02-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1125",
-  "Date": "02-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1125",
-  "Date": "02-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9752"
- },
- {
-  "Time": "1130",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9580"
- },
- {
-  "Time": "1130",
-  "Date": "02-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "UD",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "UD   438"
- },
- {
-  "Time": "1135",
-  "Date": "02-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1607"
- },
- {
-  "Time": "1135",
-  "Date": "02-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9816"
- },
- {
-  "Time": "1155",
-  "Date": "02-08-2026",
-  "Dest": "GDN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9736"
- },
- {
-  "Time": "1155",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "FH",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "FH  1194"
- },
- {
-  "Time": "1155",
-  "Date": "02-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1205",
-  "Date": "02-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9988"
- },
- {
-  "Time": "1205",
-  "Date": "02-08-2026",
-  "Dest": "SSH",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6752"
- },
- {
-  "Time": "1210",
-  "Date": "02-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   207"
- },
- {
-  "Time": "1210",
-  "Date": "02-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   215"
- },
- {
-  "Time": "1210",
-  "Date": "02-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1456"
- },
- {
-  "Time": "1220",
-  "Date": "02-08-2026",
-  "Dest": "JMK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9660"
- },
- {
-  "Time": "1225",
-  "Date": "02-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1428"
- },
- {
-  "Time": "1225",
-  "Date": "02-08-2026",
-  "Dest": "SPC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  5522"
- },
- {
-  "Time": "1225",
-  "Date": "02-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   712"
- },
- {
-  "Time": "1235",
-  "Date": "02-08-2026",
-  "Dest": "MAH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9504"
- },
- {
-  "Time": "1235",
-  "Date": "02-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "1240",
-  "Date": "02-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "02-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9526"
- },
- {
-  "Time": "1240",
-  "Date": "02-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2114"
- },
- {
-  "Time": "1250",
-  "Date": "02-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1250",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9582"
- },
- {
-  "Time": "1250",
-  "Date": "02-08-2026",
-  "Dest": "ACE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2292"
- },
- {
-  "Time": "1300",
-  "Date": "02-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9442"
- },
- {
-  "Time": "1305",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9584"
- },
- {
-  "Time": "1305",
-  "Date": "02-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "1310",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1315",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9586"
- },
- {
-  "Time": "1315",
-  "Date": "02-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   541"
- },
- {
-  "Time": "1320",
-  "Date": "02-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9672"
- },
- {
-  "Time": "1330",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2015"
- },
- {
-  "Time": "1330",
-  "Date": "02-08-2026",
-  "Dest": "LCA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  4552"
- },
- {
-  "Time": "1330",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1335",
-  "Date": "02-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1414"
- },
- {
-  "Time": "1335",
-  "Date": "02-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1340",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9460"
- },
- {
-  "Time": "1345",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1350",
-  "Date": "02-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9762"
- },
- {
-  "Time": "1410",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   921"
- },
- {
-  "Time": "1415",
-  "Date": "02-08-2026",
-  "Dest": "MJI",
-  "DestName": "",
-  "AirlineCode": "BM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BM   561"
- },
- {
-  "Time": "1415",
-  "Date": "02-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1614"
- },
- {
-  "Time": "1415",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9086"
- },
- {
-  "Time": "1430",
-  "Date": "02-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1435",
-  "Date": "02-08-2026",
-  "Dest": "PMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9864"
- },
- {
-  "Time": "1440",
-  "Date": "02-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "1450",
-  "Date": "02-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1455",
-  "Date": "02-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1455",
-  "Date": "02-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2852"
- },
- {
-  "Time": "1500",
-  "Date": "02-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9502"
- },
- {
-  "Time": "1505",
-  "Date": "02-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9642"
- },
- {
-  "Time": "1505",
-  "Date": "02-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9680"
- },
- {
-  "Time": "1505",
-  "Date": "02-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "MS",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "MS   734"
- },
- {
-  "Time": "1505",
-  "Date": "02-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   164"
- },
- {
-  "Time": "1505",
-  "Date": "02-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "02-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "1510",
-  "Date": "02-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "NE   721"
- },
- {
-  "Time": "1510",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1515",
-  "Date": "02-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1525",
-  "Date": "02-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1525",
-  "Date": "02-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   086"
- },
- {
-  "Time": "1530",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2017"
- },
- {
-  "Time": "1535",
-  "Date": "02-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9532"
- },
- {
-  "Time": "1535",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   501"
- },
- {
-  "Time": "1550",
-  "Date": "02-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ  2973"
- },
- {
-  "Time": "1550",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9588"
- },
- {
-  "Time": "1600",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1600",
-  "Date": "02-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1610",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1610",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   281"
- },
- {
-  "Time": "1620",
-  "Date": "02-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1625",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1640",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1640",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1645",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1650",
-  "Date": "02-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "1650",
-  "Date": "02-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1700",
-  "Date": "02-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9518"
- },
- {
-  "Time": "1710",
-  "Date": "02-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9886"
- },
- {
-  "Time": "1710",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1715",
-  "Date": "02-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "1735",
-  "Date": "02-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9422"
- },
- {
-  "Time": "1745",
-  "Date": "02-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9756"
- },
- {
-  "Time": "1745",
-  "Date": "02-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9784"
- },
- {
-  "Time": "1750",
-  "Date": "02-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1755",
-  "Date": "02-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9344"
- },
- {
-  "Time": "1755",
-  "Date": "02-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9764"
- },
- {
-  "Time": "1755",
-  "Date": "02-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1800",
-  "Date": "02-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "TU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TU   527"
- },
- {
-  "Time": "1815",
-  "Date": "02-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1815",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   109"
- },
- {
-  "Time": "1825",
-  "Date": "02-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9468"
- },
- {
-  "Time": "1825",
-  "Date": "02-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9846"
- },
- {
-  "Time": "1825",
-  "Date": "02-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5306"
- },
- {
-  "Time": "1830",
-  "Date": "02-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9334"
- },
- {
-  "Time": "1830",
-  "Date": "02-08-2026",
-  "Dest": "BLQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9834"
- },
- {
-  "Time": "1830",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2021"
- },
- {
-  "Time": "1835",
-  "Date": "02-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL   077"
- },
- {
-  "Time": "1840",
-  "Date": "02-08-2026",
-  "Dest": "GOT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9220"
- },
- {
-  "Time": "1845",
-  "Date": "02-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "02-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   166"
- },
- {
-  "Time": "1845",
-  "Date": "02-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1850",
-  "Date": "02-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9244"
- },
- {
-  "Time": "1900",
-  "Date": "02-08-2026",
-  "Dest": "GWT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9008"
- },
- {
-  "Time": "1900",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1905",
-  "Date": "02-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1025"
- },
- {
-  "Time": "1910",
-  "Date": "02-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8045"
- },
- {
-  "Time": "1910",
-  "Date": "02-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9774"
- },
- {
-  "Time": "1915",
-  "Date": "02-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "1920",
-  "Date": "02-08-2026",
-  "Dest": "BJV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3181"
- },
- {
-  "Time": "1925",
-  "Date": "02-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "02-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4339"
- },
- {
-  "Time": "1930",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1945",
-  "Date": "02-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "02-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1324"
- },
- {
-  "Time": "2000",
-  "Date": "02-08-2026",
-  "Dest": "BZO",
-  "DestName": "",
-  "AirlineCode": "BQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BQ  1953"
- },
- {
-  "Time": "2005",
-  "Date": "02-08-2026",
-  "Dest": "RIX",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   234"
- },
- {
-  "Time": "2005",
-  "Date": "02-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2005",
-  "Date": "02-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "2015",
-  "Date": "02-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   030"
- },
- {
-  "Time": "2020",
-  "Date": "02-08-2026",
-  "Dest": "LGW",
-  "DestName": "",
-  "AirlineCode": "EZ",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EZY 8650"
- },
- {
-  "Time": "2020",
-  "Date": "02-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2025",
-  "Date": "02-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4677"
- },
- {
-  "Time": "2025",
-  "Date": "02-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   363"
- },
- {
-  "Time": "2025",
-  "Date": "02-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2025",
-  "Date": "02-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5012"
- },
- {
-  "Time": "2030",
-  "Date": "02-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2027"
- },
- {
-  "Time": "2035",
-  "Date": "02-08-2026",
-  "Dest": "OGU",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1648"
- },
- {
-  "Time": "2040",
-  "Date": "02-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1899"
- },
- {
-  "Time": "2040",
-  "Date": "02-08-2026",
-  "Dest": "SZF",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1351"
- },
- {
-  "Time": "2045",
-  "Date": "02-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "2045",
-  "Date": "02-08-2026",
-  "Dest": "TZX",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1341"
- },
- {
-  "Time": "2050",
-  "Date": "02-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1321"
- },
- {
-  "Time": "2050",
-  "Date": "02-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR   701"
- },
- {
-  "Time": "2100",
-  "Date": "02-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3944"
- },
- {
-  "Time": "2105",
-  "Date": "02-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   699"
- },
- {
-  "Time": "2115",
-  "Date": "02-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "2130",
-  "Date": "02-08-2026",
-  "Dest": "KZR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9540"
- },
- {
-  "Time": "2130",
-  "Date": "02-08-2026",
-  "Dest": "CMN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9896"
- },
- {
-  "Time": "0550",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "0550",
-  "Date": "03-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1614"
- },
- {
-  "Time": "0550",
-  "Date": "03-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0550",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0550",
-  "Date": "03-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4588"
- },
- {
-  "Time": "0555",
-  "Date": "03-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0600",
-  "Date": "03-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1434"
- },
- {
-  "Time": "0600",
-  "Date": "03-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3   116"
- },
- {
-  "Time": "0600",
-  "Date": "03-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2252"
- },
- {
-  "Time": "0600",
-  "Date": "03-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2914"
- },
- {
-  "Time": "0605",
-  "Date": "03-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "0605",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0610",
-  "Date": "03-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0610",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0610",
-  "Date": "03-08-2026",
-  "Dest": "GRZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9724"
- },
- {
-  "Time": "0610",
-  "Date": "03-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0610",
-  "Date": "03-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   291"
- },
- {
-  "Time": "0615",
-  "Date": "03-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9330"
- },
- {
-  "Time": "0620",
-  "Date": "03-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9712"
- },
- {
-  "Time": "0620",
-  "Date": "03-08-2026",
-  "Dest": "TLL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9738"
- },
- {
-  "Time": "0620",
-  "Date": "03-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1326"
- },
- {
-  "Time": "0620",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0625",
-  "Date": "03-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0625",
-  "Date": "03-08-2026",
-  "Dest": "VAR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9914"
- },
- {
-  "Time": "0625",
-  "Date": "03-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "03-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9422"
- },
- {
-  "Time": "0635",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9576"
- },
- {
-  "Time": "0635",
-  "Date": "03-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9782"
- },
- {
-  "Time": "0640",
-  "Date": "03-08-2026",
-  "Dest": "NCL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9338"
- },
- {
-  "Time": "0640",
-  "Date": "03-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9340"
- },
- {
-  "Time": "0640",
-  "Date": "03-08-2026",
-  "Dest": "KVA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9684"
- },
- {
-  "Time": "0640",
-  "Date": "03-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "0645",
-  "Date": "03-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9840"
- },
- {
-  "Time": "0650",
-  "Date": "03-08-2026",
-  "Dest": "CGN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  6960"
- },
- {
-  "Time": "0650",
-  "Date": "03-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9516"
- },
- {
-  "Time": "0650",
-  "Date": "03-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9654"
- },
- {
-  "Time": "0655",
-  "Date": "03-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9082"
- },
- {
-  "Time": "0655",
-  "Date": "03-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9760"
- },
- {
-  "Time": "0700",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0700",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "03-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "0700",
-  "Date": "03-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   503"
- },
- {
-  "Time": "0705",
-  "Date": "03-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9750"
- },
- {
-  "Time": "0705",
-  "Date": "03-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6568"
- },
- {
-  "Time": "0710",
-  "Date": "03-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9242"
- },
- {
-  "Time": "0710",
-  "Date": "03-08-2026",
-  "Dest": "FLR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9830"
- },
- {
-  "Time": "0715",
-  "Date": "03-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   406"
- },
- {
-  "Time": "0720",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0720",
-  "Date": "03-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9814"
- },
- {
-  "Time": "0720",
-  "Date": "03-08-2026",
-  "Dest": "CAG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9868"
- },
- {
-  "Time": "0720",
-  "Date": "03-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0725",
-  "Date": "03-08-2026",
-  "Dest": "EDO",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1349"
- },
- {
-  "Time": "0730",
-  "Date": "03-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5702"
- },
- {
-  "Time": "0730",
-  "Date": "03-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
- },
- {
-  "Time": "0730",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2035"
- },
- {
-  "Time": "0750",
-  "Date": "03-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9882"
- },
- {
-  "Time": "0800",
-  "Date": "03-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9500"
- },
- {
-  "Time": "0805",
-  "Date": "03-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "0805",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0805",
-  "Date": "03-08-2026",
-  "Dest": "GZT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1391"
- },
- {
-  "Time": "0810",
-  "Date": "03-08-2026",
-  "Dest": "SZF",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1351"
- },
- {
-  "Time": "0815",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9578"
- },
- {
-  "Time": "0815",
-  "Date": "03-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0830",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2001"
- },
- {
-  "Time": "0830",
-  "Date": "03-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0835",
-  "Date": "03-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8041"
- },
- {
-  "Time": "0855",
-  "Date": "03-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1392"
- },
- {
-  "Time": "0855",
-  "Date": "03-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4201"
- },
- {
-  "Time": "0900",
-  "Date": "03-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3942"
- },
- {
-  "Time": "0905",
-  "Date": "03-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0910",
-  "Date": "03-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "0925",
-  "Date": "03-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9030"
- },
- {
-  "Time": "0930",
-  "Date": "03-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   361"
- },
- {
-  "Time": "0930",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2005"
- },
- {
-  "Time": "0930",
-  "Date": "03-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5306"
- },
- {
-  "Time": "0930",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0935",
-  "Date": "03-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "0935",
-  "Date": "03-08-2026",
-  "Dest": "LGW",
-  "DestName": "",
-  "AirlineCode": "EZ",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EZY 8650"
- },
- {
-  "Time": "0940",
-  "Date": "03-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0945",
-  "Date": "03-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "0950",
-  "Date": "03-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "0955",
-  "Date": "03-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9958"
- },
- {
-  "Time": "0955",
-  "Date": "03-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   969"
- },
- {
-  "Time": "1000",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  6895"
- },
- {
-  "Time": "1000",
-  "Date": "03-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9510"
- },
- {
-  "Time": "1000",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2009"
- },
- {
-  "Time": "1000",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5002"
- },
- {
-  "Time": "1000",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1000",
-  "Date": "03-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   403"
- },
- {
-  "Time": "1005",
-  "Date": "03-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1010",
-  "Date": "03-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3581"
- },
- {
-  "Time": "1020",
-  "Date": "03-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "1025",
-  "Date": "03-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1025",
-  "Date": "03-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "03-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "1030",
-  "Date": "03-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9960"
- },
- {
-  "Time": "1030",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2007"
- },
- {
-  "Time": "1030",
-  "Date": "03-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK  1630"
- },
- {
-  "Time": "1030",
-  "Date": "03-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1035",
-  "Date": "03-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   073"
- },
- {
-  "Time": "1040",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   919"
- },
- {
-  "Time": "1040",
-  "Date": "03-08-2026",
-  "Dest": "KRK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9732"
- },
- {
-  "Time": "1050",
-  "Date": "03-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   207"
- },
- {
-  "Time": "1050",
-  "Date": "03-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1055",
-  "Date": "03-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "1105",
-  "Date": "03-08-2026",
-  "Dest": "GWT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9008"
- },
- {
-  "Time": "1105",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1110",
-  "Date": "03-08-2026",
-  "Dest": "MRS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9424"
- },
- {
-  "Time": "1110",
-  "Date": "03-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "1110",
-  "Date": "03-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "1115",
-  "Date": "03-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "03-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1120",
-  "Date": "03-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "UD",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "UD   838"
- },
- {
-  "Time": "1125",
-  "Date": "03-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1130",
-  "Date": "03-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1130",
-  "Date": "03-08-2026",
-  "Dest": "LCA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9902"
- },
- {
-  "Time": "1135",
-  "Date": "03-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1607"
- },
- {
-  "Time": "1155",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "FH",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "FH  1194"
- },
- {
-  "Time": "1155",
-  "Date": "03-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1200",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   196"
- },
- {
-  "Time": "1210",
-  "Date": "03-08-2026",
-  "Dest": "RJK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9962"
- },
- {
-  "Time": "1215",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9580"
- },
- {
-  "Time": "1220",
-  "Date": "03-08-2026",
-  "Dest": "OUD",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "AT   687"
- },
- {
-  "Time": "1225",
-  "Date": "03-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   112"
- },
- {
-  "Time": "1230",
-  "Date": "03-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1428"
- },
- {
-  "Time": "1230",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9582"
- },
- {
-  "Time": "1235",
-  "Date": "03-08-2026",
-  "Dest": "TIV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9918"
- },
- {
-  "Time": "1240",
-  "Date": "03-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "03-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2114"
- },
- {
-  "Time": "1245",
-  "Date": "03-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9600"
- },
- {
-  "Time": "1250",
-  "Date": "03-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1250",
-  "Date": "03-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9752"
- },
- {
-  "Time": "1250",
-  "Date": "03-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2116"
- },
- {
-  "Time": "1300",
-  "Date": "03-08-2026",
-  "Dest": "LCA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE  1684"
- },
- {
-  "Time": "1300",
-  "Date": "03-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9672"
- },
- {
-  "Time": "1310",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9588"
- },
- {
-  "Time": "1310",
-  "Date": "03-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1315",
-  "Date": "03-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   541"
- },
- {
-  "Time": "1320",
-  "Date": "03-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9734"
- },
- {
-  "Time": "1330",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2015"
- },
- {
-  "Time": "1330",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1335",
-  "Date": "03-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1340",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9460"
- },
- {
-  "Time": "1345",
-  "Date": "03-08-2026",
-  "Dest": "SUF",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1142"
- },
- {
-  "Time": "1345",
-  "Date": "03-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "1345",
-  "Date": "03-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1350",
-  "Date": "03-08-2026",
-  "Dest": "AGA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   138"
- },
- {
-  "Time": "1350",
-  "Date": "03-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9762"
- },
- {
-  "Time": "1400",
-  "Date": "03-08-2026",
-  "Dest": "SMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1756"
- },
- {
-  "Time": "1400",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "1405",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1410",
-  "Date": "03-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "1415",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   921"
- },
- {
-  "Time": "1415",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   501"
- },
- {
-  "Time": "1420",
-  "Date": "03-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9670"
- },
- {
-  "Time": "1425",
-  "Date": "03-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9442"
- },
- {
-  "Time": "1430",
-  "Date": "03-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9822"
- },
- {
-  "Time": "1430",
-  "Date": "03-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1440",
-  "Date": "03-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9046"
- },
- {
-  "Time": "1440",
-  "Date": "03-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "1450",
-  "Date": "03-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1455",
-  "Date": "03-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1500",
-  "Date": "03-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "1500",
-  "Date": "03-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4572"
- },
- {
-  "Time": "1505",
-  "Date": "03-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4675"
- },
- {
-  "Time": "1505",
-  "Date": "03-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   164"
- },
- {
-  "Time": "1505",
-  "Date": "03-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "03-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9644"
- },
- {
-  "Time": "1510",
-  "Date": "03-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   075"
- },
- {
-  "Time": "1510",
-  "Date": "03-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1895"
- },
- {
-  "Time": "1510",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1510",
-  "Date": "03-08-2026",
-  "Dest": "BJV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3181"
- },
- {
-  "Time": "1520",
-  "Date": "03-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "NE   721"
- },
- {
-  "Time": "1525",
-  "Date": "03-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1525",
-  "Date": "03-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5518"
- },
- {
-  "Time": "1525",
-  "Date": "03-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   086"
- },
- {
-  "Time": "1530",
-  "Date": "03-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1530",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2017"
- },
- {
-  "Time": "1535",
-  "Date": "03-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "1540",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1545",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1550",
-  "Date": "03-08-2026",
-  "Dest": "RMF",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2983"
- },
- {
-  "Time": "1555",
-  "Date": "03-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9656"
- },
- {
-  "Time": "1555",
-  "Date": "03-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1600",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1600",
-  "Date": "03-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9816"
- },
- {
-  "Time": "1600",
-  "Date": "03-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1605",
-  "Date": "03-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9502"
- },
- {
-  "Time": "1605",
-  "Date": "03-08-2026",
-  "Dest": "AMM",
-  "DestName": "",
-  "AirlineCode": "RJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "RJ   130"
- },
- {
-  "Time": "1620",
-  "Date": "03-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1635",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1635",
-  "Date": "03-08-2026",
-  "Dest": "OTP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9792"
- },
- {
-  "Time": "1645",
-  "Date": "03-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1650",
-  "Date": "03-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9754"
- },
- {
-  "Time": "1655",
-  "Date": "03-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "1655",
-  "Date": "03-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9444"
- },
- {
-  "Time": "1705",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5012"
- },
- {
-  "Time": "1710",
-  "Date": "03-08-2026",
-  "Dest": "MAH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9504"
- },
- {
-  "Time": "1710",
-  "Date": "03-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1710",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   287"
- },
- {
-  "Time": "1720",
-  "Date": "03-08-2026",
-  "Dest": "BZO",
-  "DestName": "",
-  "AirlineCode": "BQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BQ  1953"
- },
- {
-  "Time": "1735",
-  "Date": "03-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9518"
- },
- {
-  "Time": "1740",
-  "Date": "03-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "1745",
-  "Date": "03-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9784"
- },
- {
-  "Time": "1755",
-  "Date": "03-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9764"
- },
- {
-  "Time": "1755",
-  "Date": "03-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1800",
-  "Date": "03-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9048"
- },
- {
-  "Time": "1800",
-  "Date": "03-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "TU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TU   527"
- },
- {
-  "Time": "1815",
-  "Date": "03-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1825",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9088"
- },
- {
-  "Time": "1825",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9468"
- },
- {
-  "Time": "1825",
-  "Date": "03-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9846"
- },
- {
-  "Time": "1830",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2021"
- },
- {
-  "Time": "1835",
-  "Date": "03-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   923"
- },
- {
-  "Time": "1835",
-  "Date": "03-08-2026",
-  "Dest": "GOT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9220"
- },
- {
-  "Time": "1835",
-  "Date": "03-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9344"
- },
- {
-  "Time": "1840",
-  "Date": "03-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ  2023"
- },
- {
-  "Time": "1840",
-  "Date": "03-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL   077"
- },
- {
-  "Time": "1845",
-  "Date": "03-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "03-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9244"
- },
- {
-  "Time": "1845",
-  "Date": "03-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1845",
-  "Date": "03-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "1850",
-  "Date": "03-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9334"
- },
- {
-  "Time": "1900",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1905",
-  "Date": "03-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1025"
- },
- {
-  "Time": "1915",
-  "Date": "03-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1920",
-  "Date": "03-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
- },
- {
-  "Time": "1925",
-  "Date": "03-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1945",
-  "Date": "03-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "03-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1324"
- },
- {
-  "Time": "1955",
-  "Date": "03-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   281"
- },
- {
-  "Time": "2000",
-  "Date": "03-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2005",
-  "Date": "03-08-2026",
-  "Dest": "RIX",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   234"
- },
- {
-  "Time": "2005",
-  "Date": "03-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2005",
-  "Date": "03-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "2020",
-  "Date": "03-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2025",
-  "Date": "03-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4677"
- },
- {
-  "Time": "2030",
-  "Date": "03-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2027"
- },
- {
-  "Time": "2030",
-  "Date": "03-08-2026",
-  "Dest": "DIY",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1361"
- },
- {
-  "Time": "2035",
-  "Date": "03-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1620"
- },
- {
-  "Time": "2040",
-  "Date": "03-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   543"
- },
- {
-  "Time": "2040",
-  "Date": "03-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "AT   697"
- },
- {
-  "Time": "2045",
-  "Date": "03-08-2026",
-  "Dest": "GZP",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   245"
- },
- {
-  "Time": "2050",
-  "Date": "03-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   267"
- },
- {
-  "Time": "2050",
-  "Date": "03-08-2026",
-  "Dest": "SZF",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   345"
- },
- {
-  "Time": "2050",
-  "Date": "03-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1321"
- },
- {
-  "Time": "2050",
-  "Date": "03-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR   701"
- },
- {
-  "Time": "2100",
-  "Date": "03-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3944"
- },
- {
-  "Time": "2105",
-  "Date": "03-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "DY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DY  1151"
- },
- {
-  "Time": "2105",
-  "Date": "03-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   699"
- },
- {
-  "Time": "2115",
-  "Date": "03-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "2120",
-  "Date": "03-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4339"
- },
- {
-  "Time": "2125",
-  "Date": "03-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9890"
- },
- {
-  "Time": "2130",
-  "Date": "03-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9898"
- },
- {
-  "Time": "0550",
-  "Date": "04-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "04-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1620"
- },
- {
-  "Time": "0550",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0550",
-  "Date": "04-08-2026",
-  "Dest": "PVK",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1780"
- },
- {
-  "Time": "0550",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0550",
-  "Date": "04-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4588"
- },
- {
-  "Time": "0555",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "0600",
-  "Date": "04-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0600",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0600",
-  "Date": "04-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0600",
-  "Date": "04-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4428"
- },
- {
-  "Time": "0605",
-  "Date": "04-08-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0610",
-  "Date": "04-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "0610",
-  "Date": "04-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0610",
-  "Date": "04-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9958"
- },
- {
-  "Time": "0610",
-  "Date": "04-08-2026",
-  "Dest": "TLV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9974"
- },
- {
-  "Time": "0610",
-  "Date": "04-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "0615",
-  "Date": "04-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   868"
- },
- {
-  "Time": "0620",
-  "Date": "04-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "0620",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0625",
-  "Date": "04-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0625",
-  "Date": "04-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9642"
- },
- {
-  "Time": "0625",
-  "Date": "04-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9654"
- },
- {
-  "Time": "0625",
-  "Date": "04-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "04-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "0630",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9576"
- },
- {
-  "Time": "0635",
-  "Date": "04-08-2026",
-  "Dest": "SMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9638"
- },
- {
-  "Time": "0640",
-  "Date": "04-08-2026",
-  "Dest": "PVK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9664"
- },
- {
-  "Time": "0645",
-  "Date": "04-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5702"
- },
- {
-  "Time": "0645",
-  "Date": "04-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9040"
- },
- {
-  "Time": "0645",
-  "Date": "04-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9840"
- },
- {
-  "Time": "0650",
-  "Date": "04-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "0650",
-  "Date": "04-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9680"
- },
- {
-  "Time": "0650",
-  "Date": "04-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9712"
- },
- {
-  "Time": "0655",
-  "Date": "04-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "04-08-2026",
-  "Dest": "KLX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9668"
- },
- {
-  "Time": "0655",
-  "Date": "04-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9760"
- },
- {
-  "Time": "0700",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9082"
- },
- {
-  "Time": "0700",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "04-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "0700",
-  "Date": "04-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9978"
- },
- {
-  "Time": "0700",
-  "Date": "04-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR  6597"
- },
- {
-  "Time": "0705",
-  "Date": "04-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9750"
- },
- {
-  "Time": "0705",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0710",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0710",
-  "Date": "04-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9242"
- },
- {
-  "Time": "0710",
-  "Date": "04-08-2026",
-  "Dest": "KVA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9684"
- },
- {
-  "Time": "0710",
-  "Date": "04-08-2026",
-  "Dest": "PUY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9972"
- },
- {
-  "Time": "0715",
-  "Date": "04-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   406"
- },
- {
-  "Time": "0720",
-  "Date": "04-08-2026",
-  "Dest": "BRI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9872"
- },
- {
-  "Time": "0720",
-  "Date": "04-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0725",
-  "Date": "04-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "0725",
-  "Date": "04-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1329"
- },
- {
-  "Time": "0730",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2035"
- },
- {
-  "Time": "0730",
-  "Date": "04-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6122"
- },
- {
-  "Time": "0755",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0805",
-  "Date": "04-08-2026",
-  "Dest": "GOT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9220"
- },
- {
-  "Time": "0805",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0810",
-  "Date": "04-08-2026",
-  "Dest": "GRZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9724"
- },
- {
-  "Time": "0815",
-  "Date": "04-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0815",
-  "Date": "04-08-2026",
-  "Dest": "EZS",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1335"
- },
- {
-  "Time": "0820",
-  "Date": "04-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "5F",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "5F  5686"
- },
- {
-  "Time": "0830",
-  "Date": "04-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
- },
- {
-  "Time": "0830",
-  "Date": "04-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0850",
-  "Date": "04-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3942"
- },
- {
-  "Time": "0850",
-  "Date": "04-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  7061"
- },
- {
-  "Time": "0855",
-  "Date": "04-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1392"
- },
- {
-  "Time": "0855",
-  "Date": "04-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8041"
- },
- {
-  "Time": "0900",
-  "Date": "04-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4201"
- },
- {
-  "Time": "0905",
-  "Date": "04-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0905",
-  "Date": "04-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "0920",
-  "Date": "04-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   088"
- },
- {
-  "Time": "0930",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2005"
- },
- {
-  "Time": "0930",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0935",
-  "Date": "04-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "0940",
-  "Date": "04-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "0940",
-  "Date": "04-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0950",
-  "Date": "04-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "0950",
-  "Date": "04-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "1000",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5002"
- },
- {
-  "Time": "1000",
-  "Date": "04-08-2026",
-  "Dest": "GZP",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   243"
- },
- {
-  "Time": "1000",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1000",
-  "Date": "04-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "1005",
-  "Date": "04-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1010",
-  "Date": "04-08-2026",
-  "Dest": "RMF",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6642"
- },
- {
-  "Time": "1015",
-  "Date": "04-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "1015",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2007"
- },
- {
-  "Time": "1025",
-  "Date": "04-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1025",
-  "Date": "04-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9814"
- },
- {
-  "Time": "1025",
-  "Date": "04-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "04-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK  1630"
- },
- {
-  "Time": "1030",
-  "Date": "04-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1040",
-  "Date": "04-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1050",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   919"
- },
- {
-  "Time": "1050",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9578"
- },
- {
-  "Time": "1100",
-  "Date": "04-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   073"
- },
- {
-  "Time": "1105",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1105",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9580"
- },
- {
-  "Time": "1110",
-  "Date": "04-08-2026",
-  "Dest": "ZAD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9970"
- },
- {
-  "Time": "1110",
-  "Date": "04-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "1115",
-  "Date": "04-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "04-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1115",
-  "Date": "04-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "1115",
-  "Date": "04-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1125",
-  "Date": "04-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1130",
-  "Date": "04-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "UD",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "UD   438"
- },
- {
-  "Time": "1135",
-  "Date": "04-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1607"
- },
- {
-  "Time": "1135",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9582"
- },
- {
-  "Time": "1135",
-  "Date": "04-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   591"
- },
- {
-  "Time": "1145",
-  "Date": "04-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9542"
- },
- {
-  "Time": "1155",
-  "Date": "04-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1200",
-  "Date": "04-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9500"
- },
- {
-  "Time": "1200",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   107"
- },
- {
-  "Time": "1205",
-  "Date": "04-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9558"
- },
- {
-  "Time": "1210",
-  "Date": "04-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1220",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9584"
- },
- {
-  "Time": "1225",
-  "Date": "04-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   212"
- },
- {
-  "Time": "1230",
-  "Date": "04-08-2026",
-  "Dest": "BZO",
-  "DestName": "",
-  "AirlineCode": "BQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BQ  1953"
- },
- {
-  "Time": "1230",
-  "Date": "04-08-2026",
-  "Dest": "ACE",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1420"
- },
- {
-  "Time": "1230",
-  "Date": "04-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1456"
- },
- {
-  "Time": "1235",
-  "Date": "04-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9546"
- },
- {
-  "Time": "1235",
-  "Date": "04-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2118"
- },
- {
-  "Time": "1240",
-  "Date": "04-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "04-08-2026",
-  "Dest": "AOK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9678"
- },
- {
-  "Time": "1250",
-  "Date": "04-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1255",
-  "Date": "04-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "1305",
-  "Date": "04-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9518"
- },
- {
-  "Time": "1310",
-  "Date": "04-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1315",
-  "Date": "04-08-2026",
-  "Dest": "NQY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9346"
- },
- {
-  "Time": "1315",
-  "Date": "04-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   541"
- },
- {
-  "Time": "1320",
-  "Date": "04-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9676"
- },
- {
-  "Time": "1320",
-  "Date": "04-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2852"
- },
- {
-  "Time": "1330",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1335",
-  "Date": "04-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1340",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9460"
- },
- {
-  "Time": "1345",
-  "Date": "04-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1355",
-  "Date": "04-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9752"
- },
- {
-  "Time": "1405",
-  "Date": "04-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "1410",
-  "Date": "04-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1556"
- },
- {
-  "Time": "1410",
-  "Date": "04-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9670"
- },
- {
-  "Time": "1420",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1430",
-  "Date": "04-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1435",
-  "Date": "04-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1622"
- },
- {
-  "Time": "1435",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5992"
- },
- {
-  "Time": "1445",
-  "Date": "04-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9532"
- },
- {
-  "Time": "1445",
-  "Date": "04-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9644"
- },
- {
-  "Time": "1450",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1450",
-  "Date": "04-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1455",
-  "Date": "04-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1455",
-  "Date": "04-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   439"
- },
- {
-  "Time": "1500",
-  "Date": "04-08-2026",
-  "Dest": "GPA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4762"
- },
- {
-  "Time": "1505",
-  "Date": "04-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "04-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   075"
- },
- {
-  "Time": "1510",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1515",
-  "Date": "04-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "MS",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "MS   734"
- },
- {
-  "Time": "1525",
-  "Date": "04-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1530",
-  "Date": "04-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  4791"
- },
- {
-  "Time": "1530",
-  "Date": "04-08-2026",
-  "Dest": "MLA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9690"
- },
- {
-  "Time": "1530",
-  "Date": "04-08-2026",
-  "Dest": "VAR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9914"
- },
- {
-  "Time": "1535",
-  "Date": "04-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1535",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1535",
-  "Date": "04-08-2026",
-  "Dest": "CAG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9868"
- },
- {
-  "Time": "1535",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "1545",
-  "Date": "04-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9960"
- },
- {
-  "Time": "1555",
-  "Date": "04-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   215"
- },
- {
-  "Time": "1555",
-  "Date": "04-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9656"
- },
- {
-  "Time": "1600",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1605",
-  "Date": "04-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "H7",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "H7   404"
- },
- {
-  "Time": "1615",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   921"
- },
- {
-  "Time": "1615",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2017"
- },
- {
-  "Time": "1620",
-  "Date": "04-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1640",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1645",
-  "Date": "04-08-2026",
-  "Dest": "BDS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9854"
- },
- {
-  "Time": "1645",
-  "Date": "04-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1645",
-  "Date": "04-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1650",
-  "Date": "04-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "1650",
-  "Date": "04-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9754"
- },
- {
-  "Time": "1650",
-  "Date": "04-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1655",
-  "Date": "04-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9444"
- },
- {
-  "Time": "1700",
-  "Date": "04-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "1705",
-  "Date": "04-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "1710",
-  "Date": "04-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1715",
-  "Date": "04-08-2026",
-  "Dest": "TIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9916"
- },
- {
-  "Time": "1720",
-  "Date": "04-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9886"
- },
- {
-  "Time": "1720",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2019"
- },
- {
-  "Time": "1735",
-  "Date": "04-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9422"
- },
- {
-  "Time": "1740",
-  "Date": "04-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "1745",
-  "Date": "04-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9782"
- },
- {
-  "Time": "1755",
-  "Date": "04-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9764"
- },
- {
-  "Time": "1815",
-  "Date": "04-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1820",
-  "Date": "04-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9038"
- },
- {
-  "Time": "1820",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5012"
- },
- {
-  "Time": "1825",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9468"
- },
- {
-  "Time": "1825",
-  "Date": "04-08-2026",
-  "Dest": "VCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9810"
- },
- {
-  "Time": "1825",
-  "Date": "04-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9846"
- },
- {
-  "Time": "1835",
-  "Date": "04-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9344"
- },
- {
-  "Time": "1840",
-  "Date": "04-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL   077"
- },
- {
-  "Time": "1845",
-  "Date": "04-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9088"
- },
- {
-  "Time": "1845",
-  "Date": "04-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1845",
-  "Date": "04-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1850",
-  "Date": "04-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9334"
- },
- {
-  "Time": "1855",
-  "Date": "04-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   923"
- },
- {
-  "Time": "1900",
-  "Date": "04-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
- },
- {
-  "Time": "1900",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1905",
-  "Date": "04-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1025"
- },
- {
-  "Time": "1910",
-  "Date": "04-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ  2345"
- },
- {
-  "Time": "1915",
-  "Date": "04-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3581"
- },
- {
-  "Time": "1920",
-  "Date": "04-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8047"
- },
- {
-  "Time": "1920",
-  "Date": "04-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
- },
- {
-  "Time": "1920",
-  "Date": "04-08-2026",
-  "Dest": "BJV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3181"
- },
- {
-  "Time": "1925",
-  "Date": "04-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2023"
- },
- {
-  "Time": "1930",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1945",
-  "Date": "04-08-2026",
-  "Dest": "BEN",
-  "DestName": "",
-  "AirlineCode": "BM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BM   563"
- },
- {
-  "Time": "1945",
-  "Date": "04-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "04-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB   756"
- },
- {
-  "Time": "1955",
-  "Date": "04-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   281"
- },
- {
-  "Time": "2000",
-  "Date": "04-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2005",
-  "Date": "04-08-2026",
-  "Dest": "RIX",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   234"
- },
- {
-  "Time": "2020",
-  "Date": "04-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2020",
-  "Date": "04-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2025",
-  "Date": "04-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4677"
- },
- {
-  "Time": "2025",
-  "Date": "04-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   363"
- },
- {
-  "Time": "2030",
-  "Date": "04-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2027"
- },
- {
-  "Time": "2035",
-  "Date": "04-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1688"
- },
- {
-  "Time": "2040",
-  "Date": "04-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1371"
- },
- {
-  "Time": "2040",
-  "Date": "04-08-2026",
-  "Dest": "HTY",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1425"
- },
- {
-  "Time": "2050",
-  "Date": "04-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   265"
- },
- {
-  "Time": "2050",
-  "Date": "04-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   311"
- },
- {
-  "Time": "2100",
-  "Date": "04-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3944"
- },
- {
-  "Time": "2115",
-  "Date": "04-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "0550",
-  "Date": "05-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0550",
-  "Date": "05-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2814"
- },
- {
-  "Time": "0550",
-  "Date": "05-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "0555",
-  "Date": "05-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0555",
-  "Date": "05-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1794"
- },
- {
-  "Time": "0600",
-  "Date": "05-08-2026",
-  "Dest": "OTP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9792"
- },
- {
-  "Time": "0600",
-  "Date": "05-08-2026",
-  "Dest": "TIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9916"
- },
- {
-  "Time": "0600",
-  "Date": "05-08-2026",
-  "Dest": "ACE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2292"
- },
- {
-  "Time": "0600",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0605",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0605",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0610",
-  "Date": "05-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0610",
-  "Date": "05-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9988"
- },
- {
-  "Time": "0610",
-  "Date": "05-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0615",
-  "Date": "05-08-2026",
-  "Dest": "SPC",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1426"
- },
- {
-  "Time": "0620",
-  "Date": "05-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1428"
- },
- {
-  "Time": "0620",
-  "Date": "05-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9040"
- },
- {
-  "Time": "0620",
-  "Date": "05-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "0620",
-  "Date": "05-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1326"
- },
- {
-  "Time": "0620",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0620",
-  "Date": "05-08-2026",
-  "Dest": "SID",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  7102"
- },
- {
-  "Time": "0625",
-  "Date": "05-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "05-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9330"
- },
- {
-  "Time": "0630",
-  "Date": "05-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9654"
- },
- {
-  "Time": "0630",
-  "Date": "05-08-2026",
-  "Dest": "CAG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9868"
- },
- {
-  "Time": "0635",
-  "Date": "05-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "0635",
-  "Date": "05-08-2026",
-  "Dest": "BIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9432"
- },
- {
-  "Time": "0635",
-  "Date": "05-08-2026",
-  "Dest": "RAK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9894"
- },
- {
-  "Time": "0640",
-  "Date": "05-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9340"
- },
- {
-  "Time": "0640",
-  "Date": "05-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9570"
- },
- {
-  "Time": "0645",
-  "Date": "05-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9814"
- },
- {
-  "Time": "0645",
-  "Date": "05-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9840"
- },
- {
-  "Time": "0650",
-  "Date": "05-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9030"
- },
- {
-  "Time": "0650",
-  "Date": "05-08-2026",
-  "Dest": "PMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9864"
- },
- {
-  "Time": "0655",
-  "Date": "05-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "05-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "0655",
-  "Date": "05-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9680"
- },
- {
-  "Time": "0655",
-  "Date": "05-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9760"
- },
- {
-  "Time": "0655",
-  "Date": "05-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "0700",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9082"
- },
- {
-  "Time": "0700",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "05-08-2026",
-  "Dest": "JMK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9660"
- },
- {
-  "Time": "0700",
-  "Date": "05-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   405"
- },
- {
-  "Time": "0705",
-  "Date": "05-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9750"
- },
- {
-  "Time": "0705",
-  "Date": "05-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8225"
- },
- {
-  "Time": "0710",
-  "Date": "05-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9242"
- },
- {
-  "Time": "0710",
-  "Date": "05-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9978"
- },
- {
-  "Time": "0715",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0715",
-  "Date": "05-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   406"
- },
- {
-  "Time": "0720",
-  "Date": "05-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "0720",
-  "Date": "05-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "05-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0730",
-  "Date": "05-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
- },
- {
-  "Time": "0730",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2035"
- },
- {
-  "Time": "0735",
-  "Date": "05-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "0750",
-  "Date": "05-08-2026",
-  "Dest": "KYA",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1327"
- },
- {
-  "Time": "0750",
-  "Date": "05-08-2026",
-  "Dest": "TZX",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1341"
- },
- {
-  "Time": "0800",
-  "Date": "05-08-2026",
-  "Dest": "SMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9638"
- },
- {
-  "Time": "0805",
-  "Date": "05-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NP",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "NP  3491"
- },
- {
-  "Time": "0805",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0810",
-  "Date": "05-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9542"
- },
- {
-  "Time": "0815",
-  "Date": "05-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0825",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0825",
-  "Date": "05-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1329"
- },
- {
-  "Time": "0830",
-  "Date": "05-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0855",
-  "Date": "05-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1392"
- },
- {
-  "Time": "0900",
-  "Date": "05-08-2026",
-  "Dest": "SSH",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6752"
- },
- {
-  "Time": "0900",
-  "Date": "05-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   505"
- },
- {
-  "Time": "0905",
-  "Date": "05-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0925",
-  "Date": "05-08-2026",
-  "Dest": "OGU",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1331"
- },
- {
-  "Time": "0930",
-  "Date": "05-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   361"
- },
- {
-  "Time": "0930",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2005"
- },
- {
-  "Time": "0930",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0935",
-  "Date": "05-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "0940",
-  "Date": "05-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0945",
-  "Date": "05-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5306"
- },
- {
-  "Time": "0950",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9574"
- },
- {
-  "Time": "0950",
-  "Date": "05-08-2026",
-  "Dest": "VAR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9914"
- },
- {
-  "Time": "0950",
-  "Date": "05-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "0955",
-  "Date": "05-08-2026",
-  "Dest": "MLA",
-  "DestName": "",
-  "AirlineCode": "KM",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KM   353"
- },
- {
-  "Time": "1000",
-  "Date": "05-08-2026",
-  "Dest": "GWT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9008"
- },
- {
-  "Time": "1000",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5002"
- },
- {
-  "Time": "1000",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1000",
-  "Date": "05-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "1005",
-  "Date": "05-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1005",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2007"
- },
- {
-  "Time": "1015",
-  "Date": "05-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "1025",
-  "Date": "05-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1025",
-  "Date": "05-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "05-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9500"
- },
- {
-  "Time": "1030",
-  "Date": "05-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK  1630"
- },
- {
-  "Time": "1030",
-  "Date": "05-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1040",
-  "Date": "05-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9670"
- },
- {
-  "Time": "1040",
-  "Date": "05-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   073"
- },
- {
-  "Time": "1040",
-  "Date": "05-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1045",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "1050",
-  "Date": "05-08-2026",
-  "Dest": "BGO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9252"
- },
- {
-  "Time": "1100",
-  "Date": "05-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "1105",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1110",
-  "Date": "05-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "1115",
-  "Date": "05-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "05-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "1115",
-  "Date": "05-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1125",
-  "Date": "05-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1130",
-  "Date": "05-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "UD",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "UD  4438"
- },
- {
-  "Time": "1135",
-  "Date": "05-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1607"
- },
- {
-  "Time": "1150",
-  "Date": "05-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "1155",
-  "Date": "05-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   207"
- },
- {
-  "Time": "1155",
-  "Date": "05-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9442"
- },
- {
-  "Time": "1155",
-  "Date": "05-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1205",
-  "Date": "05-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "AT   697"
- },
- {
-  "Time": "1210",
-  "Date": "05-08-2026",
-  "Dest": "TIV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9918"
- },
- {
-  "Time": "1220",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9576"
- },
- {
-  "Time": "1225",
-  "Date": "05-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   312"
- },
- {
-  "Time": "1230",
-  "Date": "05-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1434"
- },
- {
-  "Time": "1230",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9582"
- },
- {
-  "Time": "1230",
-  "Date": "05-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9980"
- },
- {
-  "Time": "1240",
-  "Date": "05-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "05-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1614"
- },
- {
-  "Time": "1240",
-  "Date": "05-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1240",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9584"
- },
- {
-  "Time": "1245",
-  "Date": "05-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1250",
-  "Date": "05-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1250",
-  "Date": "05-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2116"
- },
- {
-  "Time": "1255",
-  "Date": "05-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   215"
- },
- {
-  "Time": "1305",
-  "Date": "05-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9518"
- },
- {
-  "Time": "1315",
-  "Date": "05-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   541"
- },
- {
-  "Time": "1330",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1335",
-  "Date": "05-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9422"
- },
- {
-  "Time": "1335",
-  "Date": "05-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9752"
- },
- {
-  "Time": "1340",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9460"
- },
- {
-  "Time": "1345",
-  "Date": "05-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1345",
-  "Date": "05-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1350",
-  "Date": "05-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1355",
-  "Date": "05-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   969"
- },
- {
-  "Time": "1400",
-  "Date": "05-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "DY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DY  1151"
- },
- {
-  "Time": "1405",
-  "Date": "05-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "1415",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9086"
- },
- {
-  "Time": "1415",
-  "Date": "05-08-2026",
-  "Dest": "KVA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9684"
- },
- {
-  "Time": "1430",
-  "Date": "05-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1430",
-  "Date": "05-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4588"
- },
- {
-  "Time": "1435",
-  "Date": "05-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1622"
- },
- {
-  "Time": "1435",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5992"
- },
- {
-  "Time": "1445",
-  "Date": "05-08-2026",
-  "Dest": "MAH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9504"
- },
- {
-  "Time": "1450",
-  "Date": "05-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9502"
- },
- {
-  "Time": "1450",
-  "Date": "05-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9642"
- },
- {
-  "Time": "1450",
-  "Date": "05-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1455",
-  "Date": "05-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9046"
- },
- {
-  "Time": "1455",
-  "Date": "05-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1500",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9588"
- },
- {
-  "Time": "1500",
-  "Date": "05-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4572"
- },
- {
-  "Time": "1505",
-  "Date": "05-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4675"
- },
- {
-  "Time": "1505",
-  "Date": "05-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1525",
-  "Date": "05-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1525",
-  "Date": "05-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   086"
- },
- {
-  "Time": "1530",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1530",
-  "Date": "05-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1530",
-  "Date": "05-08-2026",
-  "Dest": "VOL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9686"
- },
- {
-  "Time": "1530",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2017"
- },
- {
-  "Time": "1530",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   501"
- },
- {
-  "Time": "1540",
-  "Date": "05-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "1545",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1555",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1555",
-  "Date": "05-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "NE   721"
- },
- {
-  "Time": "1600",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1600",
-  "Date": "05-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1600",
-  "Date": "05-08-2026",
-  "Dest": "ERZ",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1381"
- },
- {
-  "Time": "1605",
-  "Date": "05-08-2026",
-  "Dest": "AMM",
-  "DestName": "",
-  "AirlineCode": "RJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "RJ   130"
- },
- {
-  "Time": "1615",
-  "Date": "05-08-2026",
-  "Dest": "SUF",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9852"
- },
- {
-  "Time": "1620",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1630",
-  "Date": "05-08-2026",
-  "Dest": "VAR",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  5354"
- },
- {
-  "Time": "1645",
-  "Date": "05-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9958"
- },
- {
-  "Time": "1645",
-  "Date": "05-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1650",
-  "Date": "05-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9754"
- },
- {
-  "Time": "1650",
-  "Date": "05-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1655",
-  "Date": "05-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9444"
- },
- {
-  "Time": "1700",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "1705",
-  "Date": "05-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9886"
- },
- {
-  "Time": "1710",
-  "Date": "05-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1720",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2019"
- },
- {
-  "Time": "1720",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   287"
- },
- {
-  "Time": "1720",
-  "Date": "05-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1725",
-  "Date": "05-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "1735",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5012"
- },
- {
-  "Time": "1740",
-  "Date": "05-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9784"
- },
- {
-  "Time": "1750",
-  "Date": "05-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "1755",
-  "Date": "05-08-2026",
-  "Dest": "GOT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9222"
- },
- {
-  "Time": "1755",
-  "Date": "05-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9764"
- },
- {
-  "Time": "1755",
-  "Date": "05-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1800",
-  "Date": "05-08-2026",
-  "Dest": "MRS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9424"
- },
- {
-  "Time": "1800",
-  "Date": "05-08-2026",
-  "Dest": "RJK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9962"
- },
- {
-  "Time": "1800",
-  "Date": "05-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "TU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TU   527"
- },
- {
-  "Time": "1815",
-  "Date": "05-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1825",
-  "Date": "05-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9038"
- },
- {
-  "Time": "1825",
-  "Date": "05-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9048"
- },
- {
-  "Time": "1825",
-  "Date": "05-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9344"
- },
- {
-  "Time": "1825",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9468"
- },
- {
-  "Time": "1825",
-  "Date": "05-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9846"
- },
- {
-  "Time": "1830",
-  "Date": "05-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   077"
- },
- {
-  "Time": "1835",
-  "Date": "05-08-2026",
-  "Dest": "VCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9810"
- },
- {
-  "Time": "1845",
-  "Date": "05-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "05-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   921"
- },
- {
-  "Time": "1845",
-  "Date": "05-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1850",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9088"
- },
- {
-  "Time": "1850",
-  "Date": "05-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9244"
- },
- {
-  "Time": "1850",
-  "Date": "05-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9334"
- },
- {
-  "Time": "1900",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1905",
-  "Date": "05-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9774"
- },
- {
-  "Time": "1905",
-  "Date": "05-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1025"
- },
- {
-  "Time": "1920",
-  "Date": "05-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
- },
- {
-  "Time": "1925",
-  "Date": "05-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2023"
- },
- {
-  "Time": "1930",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1940",
-  "Date": "05-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "1945",
-  "Date": "05-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "05-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB   756"
- },
- {
-  "Time": "1955",
-  "Date": "05-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   281"
- },
- {
-  "Time": "1955",
-  "Date": "05-08-2026",
-  "Dest": "MLX",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1387"
- },
- {
-  "Time": "2000",
-  "Date": "05-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   543"
- },
- {
-  "Time": "2000",
-  "Date": "05-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2005",
-  "Date": "05-08-2026",
-  "Dest": "RIX",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   234"
- },
- {
-  "Time": "2005",
-  "Date": "05-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2020",
-  "Date": "05-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4339"
- },
- {
-  "Time": "2020",
-  "Date": "05-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2025",
-  "Date": "05-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4677"
- },
- {
-  "Time": "2030",
-  "Date": "05-08-2026",
-  "Dest": "LGW",
-  "DestName": "",
-  "AirlineCode": "EZ",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EZY 8650"
- },
- {
-  "Time": "2030",
-  "Date": "05-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2027"
- },
- {
-  "Time": "2035",
-  "Date": "05-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1620"
- },
- {
-  "Time": "2035",
-  "Date": "05-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "2050",
-  "Date": "05-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1592"
- },
- {
-  "Time": "2050",
-  "Date": "05-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   267"
- },
- {
-  "Time": "2050",
-  "Date": "05-08-2026",
-  "Dest": "SZF",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   345"
- },
- {
-  "Time": "2050",
-  "Date": "05-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1321"
- },
- {
-  "Time": "2100",
-  "Date": "05-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3944"
- },
- {
-  "Time": "2105",
-  "Date": "05-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   699"
- },
- {
-  "Time": "2115",
-  "Date": "05-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "2130",
-  "Date": "05-08-2026",
-  "Dest": "CMN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9896"
- },
- {
-  "Time": "0550",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "0550",
-  "Date": "06-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "06-08-2026",
-  "Dest": "SMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1756"
- },
- {
-  "Time": "0550",
-  "Date": "06-08-2026",
-  "Dest": "MAH",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2404"
- },
- {
-  "Time": "0550",
-  "Date": "06-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4588"
- },
- {
-  "Time": "0555",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "0555",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0600",
-  "Date": "06-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0600",
-  "Date": "06-08-2026",
-  "Dest": "PVK",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1780"
- },
- {
-  "Time": "0600",
-  "Date": "06-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0600",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0600",
-  "Date": "06-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2914"
- },
- {
-  "Time": "0605",
-  "Date": "06-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2252"
- },
- {
-  "Time": "0605",
-  "Date": "06-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "0610",
-  "Date": "06-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0610",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0610",
-  "Date": "06-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9600"
- },
- {
-  "Time": "0620",
-  "Date": "06-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1434"
- },
- {
-  "Time": "0620",
-  "Date": "06-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "0620",
-  "Date": "06-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1326"
- },
- {
-  "Time": "0620",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0625",
-  "Date": "06-08-2026",
-  "Dest": "SUF",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9852"
- },
- {
-  "Time": "0625",
-  "Date": "06-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "06-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9670"
- },
- {
-  "Time": "0635",
-  "Date": "06-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "0635",
-  "Date": "06-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9782"
- },
- {
-  "Time": "0635",
-  "Date": "06-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "0635",
-  "Date": "06-08-2026",
-  "Dest": "TLV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9974"
- },
- {
-  "Time": "0640",
-  "Date": "06-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9330"
- },
- {
-  "Time": "0640",
-  "Date": "06-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9340"
- },
- {
-  "Time": "0640",
-  "Date": "06-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "0640",
-  "Date": "06-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "0640",
-  "Date": "06-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9642"
- },
- {
-  "Time": "0645",
-  "Date": "06-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9840"
- },
- {
-  "Time": "0650",
-  "Date": "06-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9040"
- },
- {
-  "Time": "0650",
-  "Date": "06-08-2026",
-  "Dest": "KVA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9684"
- },
- {
-  "Time": "0650",
-  "Date": "06-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "0650",
-  "Date": "06-08-2026",
-  "Dest": "PUY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9972"
- },
- {
-  "Time": "0655",
-  "Date": "06-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "06-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9760"
- },
- {
-  "Time": "0700",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9082"
- },
- {
-  "Time": "0700",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "06-08-2026",
-  "Dest": "MLA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9690"
- },
- {
-  "Time": "0700",
-  "Date": "06-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   291"
- },
- {
-  "Time": "0705",
-  "Date": "06-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9750"
- },
- {
-  "Time": "0705",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0710",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0710",
-  "Date": "06-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5702"
- },
- {
-  "Time": "0710",
-  "Date": "06-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9558"
- },
- {
-  "Time": "0710",
-  "Date": "06-08-2026",
-  "Dest": "VAR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9914"
- },
- {
-  "Time": "0715",
-  "Date": "06-08-2026",
-  "Dest": "FLR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9830"
- },
- {
-  "Time": "0720",
-  "Date": "06-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9546"
- },
- {
-  "Time": "0720",
-  "Date": "06-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0725",
-  "Date": "06-08-2026",
-  "Dest": "EDO",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1349"
- },
- {
-  "Time": "0730",
-  "Date": "06-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0730",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2035"
- },
- {
-  "Time": "0740",
-  "Date": "06-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9978"
- },
- {
-  "Time": "0800",
-  "Date": "06-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   450"
- },
- {
-  "Time": "0800",
-  "Date": "06-08-2026",
-  "Dest": "BJV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3181"
- },
- {
-  "Time": "0805",
-  "Date": "06-08-2026",
-  "Dest": "GWT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9008"
- },
- {
-  "Time": "0805",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0805",
-  "Date": "06-08-2026",
-  "Dest": "GZT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1391"
- },
- {
-  "Time": "0815",
-  "Date": "06-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  7061"
- },
- {
-  "Time": "0815",
-  "Date": "06-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0820",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0830",
-  "Date": "06-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9770"
- },
- {
-  "Time": "0830",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0845",
-  "Date": "06-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "5F",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "5F  5686"
- },
- {
-  "Time": "0845",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9574"
- },
- {
-  "Time": "0845",
-  "Date": "06-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6122"
- },
- {
-  "Time": "0855",
-  "Date": "06-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1392"
- },
- {
-  "Time": "0905",
-  "Date": "06-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0910",
-  "Date": "06-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3942"
- },
- {
-  "Time": "0920",
-  "Date": "06-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   088"
- },
- {
-  "Time": "0930",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2005"
- },
- {
-  "Time": "0930",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0935",
-  "Date": "06-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "0940",
-  "Date": "06-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0945",
-  "Date": "06-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "0950",
-  "Date": "06-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "1000",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9576"
- },
- {
-  "Time": "1000",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5002"
- },
- {
-  "Time": "1000",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1000",
-  "Date": "06-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   503"
- },
- {
-  "Time": "1010",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2007"
- },
- {
-  "Time": "1025",
-  "Date": "06-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1025",
-  "Date": "06-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9500"
- },
- {
-  "Time": "1025",
-  "Date": "06-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   919"
- },
- {
-  "Time": "1030",
-  "Date": "06-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "1030",
-  "Date": "06-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK  1630"
- },
- {
-  "Time": "1030",
-  "Date": "06-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1040",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1050",
-  "Date": "06-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9442"
- },
- {
-  "Time": "1055",
-  "Date": "06-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   207"
- },
- {
-  "Time": "1100",
-  "Date": "06-08-2026",
-  "Dest": "ZAD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9970"
- },
- {
-  "Time": "1100",
-  "Date": "06-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1105",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1110",
-  "Date": "06-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "1115",
-  "Date": "06-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "06-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1125",
-  "Date": "06-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1130",
-  "Date": "06-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "UD",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "UD   438"
- },
- {
-  "Time": "1135",
-  "Date": "06-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1607"
- },
- {
-  "Time": "1135",
-  "Date": "06-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   591"
- },
- {
-  "Time": "1145",
-  "Date": "06-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9518"
- },
- {
-  "Time": "1145",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9578"
- },
- {
-  "Time": "1145",
-  "Date": "06-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9960"
- },
- {
-  "Time": "1155",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "FH",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "FH  1194"
- },
- {
-  "Time": "1155",
-  "Date": "06-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1155",
-  "Date": "06-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3581"
- },
- {
-  "Time": "1200",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   496"
- },
- {
-  "Time": "1200",
-  "Date": "06-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4335"
- },
- {
-  "Time": "1205",
-  "Date": "06-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "AT   697"
- },
- {
-  "Time": "1210",
-  "Date": "06-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1215",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9580"
- },
- {
-  "Time": "1215",
-  "Date": "06-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2118"
- },
- {
-  "Time": "1225",
-  "Date": "06-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   412"
- },
- {
-  "Time": "1230",
-  "Date": "06-08-2026",
-  "Dest": "BZO",
-  "DestName": "",
-  "AirlineCode": "BQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BQ  1953"
- },
- {
-  "Time": "1240",
-  "Date": "06-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "06-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1456"
- },
- {
-  "Time": "1245",
-  "Date": "06-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9672"
- },
- {
-  "Time": "1245",
-  "Date": "06-08-2026",
-  "Dest": "LCA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9902"
- },
- {
-  "Time": "1250",
-  "Date": "06-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1255",
-  "Date": "06-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "1255",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9582"
- },
- {
-  "Time": "1255",
-  "Date": "06-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2116"
- },
- {
-  "Time": "1255",
-  "Date": "06-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2860"
- },
- {
-  "Time": "1300",
-  "Date": "06-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9752"
- },
- {
-  "Time": "1305",
-  "Date": "06-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9046"
- },
- {
-  "Time": "1310",
-  "Date": "06-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1310",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9584"
- },
- {
-  "Time": "1310",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1315",
-  "Date": "06-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1414"
- },
- {
-  "Time": "1315",
-  "Date": "06-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   541"
- },
- {
-  "Time": "1325",
-  "Date": "06-08-2026",
-  "Dest": "SUF",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1142"
- },
- {
-  "Time": "1330",
-  "Date": "06-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "1330",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1335",
-  "Date": "06-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1340",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9460"
- },
- {
-  "Time": "1345",
-  "Date": "06-08-2026",
-  "Dest": "ZTH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9626"
- },
- {
-  "Time": "1345",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1355",
-  "Date": "06-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "1355",
-  "Date": "06-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9762"
- },
- {
-  "Time": "1400",
-  "Date": "06-08-2026",
-  "Dest": "ZTH",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1148"
- },
- {
-  "Time": "1400",
-  "Date": "06-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9958"
- },
- {
-  "Time": "1410",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "1415",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9086"
- },
- {
-  "Time": "1425",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   921"
- },
- {
-  "Time": "1430",
-  "Date": "06-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1450",
-  "Date": "06-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1450",
-  "Date": "06-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "1455",
-  "Date": "06-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "1455",
-  "Date": "06-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "MS",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "MS   734"
- },
- {
-  "Time": "1455",
-  "Date": "06-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1455",
-  "Date": "06-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   439"
- },
- {
-  "Time": "1500",
-  "Date": "06-08-2026",
-  "Dest": "SVQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9568"
- },
- {
-  "Time": "1500",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9588"
- },
- {
-  "Time": "1505",
-  "Date": "06-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4675"
- },
- {
-  "Time": "1505",
-  "Date": "06-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "06-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1620"
- },
- {
-  "Time": "1510",
-  "Date": "06-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1510",
-  "Date": "06-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   075"
- },
- {
-  "Time": "1510",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1520",
-  "Date": "06-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  7067"
- },
- {
-  "Time": "1525",
-  "Date": "06-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1530",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1530",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2017"
- },
- {
-  "Time": "1530",
-  "Date": "06-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1535",
-  "Date": "06-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9532"
- },
- {
-  "Time": "1545",
-  "Date": "06-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9656"
- },
- {
-  "Time": "1545",
-  "Date": "06-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9814"
- },
- {
-  "Time": "1550",
-  "Date": "06-08-2026",
-  "Dest": "RMF",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2983"
- },
- {
-  "Time": "1600",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1605",
-  "Date": "06-08-2026",
-  "Dest": "VNO",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   934"
- },
- {
-  "Time": "1605",
-  "Date": "06-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9502"
- },
- {
-  "Time": "1605",
-  "Date": "06-08-2026",
-  "Dest": "AMM",
-  "DestName": "",
-  "AirlineCode": "RJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "RJ   130"
- },
- {
-  "Time": "1610",
-  "Date": "06-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   215"
- },
- {
-  "Time": "1610",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1615",
-  "Date": "06-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "1620",
-  "Date": "06-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1625",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1625",
-  "Date": "06-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1630",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2009"
- },
- {
-  "Time": "1640",
-  "Date": "06-08-2026",
-  "Dest": "TIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9916"
- },
- {
-  "Time": "1645",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1650",
-  "Date": "06-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9444"
- },
- {
-  "Time": "1650",
-  "Date": "06-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1655",
-  "Date": "06-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9754"
- },
- {
-  "Time": "1705",
-  "Date": "06-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9784"
- },
- {
-  "Time": "1710",
-  "Date": "06-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9886"
- },
- {
-  "Time": "1710",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1720",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2019"
- },
- {
-  "Time": "1735",
-  "Date": "06-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "1745",
-  "Date": "06-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "1755",
-  "Date": "06-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9764"
- },
- {
-  "Time": "1755",
-  "Date": "06-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "OU",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "OU   423"
- },
- {
-  "Time": "1815",
-  "Date": "06-08-2026",
-  "Dest": "GOT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9222"
- },
- {
-  "Time": "1815",
-  "Date": "06-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1820",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   285"
- },
- {
-  "Time": "1825",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9468"
- },
- {
-  "Time": "1825",
-  "Date": "06-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9846"
- },
- {
-  "Time": "1825",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   287"
- },
- {
-  "Time": "1830",
-  "Date": "06-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   923"
- },
- {
-  "Time": "1830",
-  "Date": "06-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   166"
- },
- {
-  "Time": "1830",
-  "Date": "06-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL   077"
- },
- {
-  "Time": "1835",
-  "Date": "06-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9344"
- },
- {
-  "Time": "1845",
-  "Date": "06-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "06-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9038"
- },
- {
-  "Time": "1845",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9088"
- },
- {
-  "Time": "1845",
-  "Date": "06-08-2026",
-  "Dest": "GRZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9726"
- },
- {
-  "Time": "1845",
-  "Date": "06-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1845",
-  "Date": "06-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1850",
-  "Date": "06-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9334"
- },
- {
-  "Time": "1900",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1905",
-  "Date": "06-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1025"
- },
- {
-  "Time": "1915",
-  "Date": "06-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4203"
- },
- {
-  "Time": "1915",
-  "Date": "06-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9244"
- },
- {
-  "Time": "1920",
-  "Date": "06-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
- },
- {
-  "Time": "1925",
-  "Date": "06-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2023"
- },
- {
-  "Time": "1930",
-  "Date": "06-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1935",
-  "Date": "06-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8047"
- },
- {
-  "Time": "1945",
-  "Date": "06-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "06-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB   756"
- },
- {
-  "Time": "2000",
-  "Date": "06-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2005",
-  "Date": "06-08-2026",
-  "Dest": "RIX",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   234"
- },
- {
-  "Time": "2005",
-  "Date": "06-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "2015",
-  "Date": "06-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   030"
- },
- {
-  "Time": "2020",
-  "Date": "06-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2020",
-  "Date": "06-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2025",
-  "Date": "06-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4677"
- },
- {
-  "Time": "2025",
-  "Date": "06-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   363"
- },
- {
-  "Time": "2030",
-  "Date": "06-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2027"
- },
- {
-  "Time": "2030",
-  "Date": "06-08-2026",
-  "Dest": "DIY",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1361"
- },
- {
-  "Time": "2035",
-  "Date": "06-08-2026",
-  "Dest": "GZT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1666"
- },
- {
-  "Time": "2040",
-  "Date": "06-08-2026",
-  "Dest": "GZP",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   245"
- },
- {
-  "Time": "2040",
-  "Date": "06-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1371"
- },
- {
-  "Time": "2050",
-  "Date": "06-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   265"
- },
- {
-  "Time": "2050",
-  "Date": "06-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR   701"
- },
- {
-  "Time": "2100",
-  "Date": "06-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3944"
- },
- {
-  "Time": "2100",
-  "Date": "06-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9716"
- },
- {
-  "Time": "2115",
-  "Date": "06-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "2125",
-  "Date": "06-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9890"
- },
- {
-  "Time": "0550",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "0550",
-  "Date": "07-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0550",
-  "Date": "07-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1614"
- },
- {
-  "Time": "0550",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0550",
-  "Date": "07-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4572"
- },
- {
-  "Time": "0600",
-  "Date": "07-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3   116"
- },
- {
-  "Time": "0600",
-  "Date": "07-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2116"
- },
- {
-  "Time": "0600",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0600",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "0605",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0610",
-  "Date": "07-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9500"
- },
- {
-  "Time": "0610",
-  "Date": "07-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "0610",
-  "Date": "07-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0610",
-  "Date": "07-08-2026",
-  "Dest": "TIV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9918"
- },
- {
-  "Time": "0610",
-  "Date": "07-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0615",
-  "Date": "07-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   868"
- },
- {
-  "Time": "0615",
-  "Date": "07-08-2026",
-  "Dest": "ACE",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1420"
- },
- {
-  "Time": "0620",
-  "Date": "07-08-2026",
-  "Dest": "MAH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9504"
- },
- {
-  "Time": "0620",
-  "Date": "07-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "0620",
-  "Date": "07-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9878"
- },
- {
-  "Time": "0620",
-  "Date": "07-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1326"
- },
- {
-  "Time": "0620",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0625",
-  "Date": "07-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "07-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0630",
-  "Date": "07-08-2026",
-  "Dest": "SUF",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9852"
- },
- {
-  "Time": "0640",
-  "Date": "07-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9330"
- },
- {
-  "Time": "0640",
-  "Date": "07-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9340"
- },
- {
-  "Time": "0640",
-  "Date": "07-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9570"
- },
- {
-  "Time": "0640",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0645",
-  "Date": "07-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9680"
- },
- {
-  "Time": "0645",
-  "Date": "07-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9840"
- },
- {
-  "Time": "0650",
-  "Date": "07-08-2026",
-  "Dest": "BUD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9782"
- },
- {
-  "Time": "0650",
-  "Date": "07-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "0655",
-  "Date": "07-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "07-08-2026",
-  "Dest": "JTR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9662"
- },
- {
-  "Time": "0655",
-  "Date": "07-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9760"
- },
- {
-  "Time": "0700",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9082"
- },
- {
-  "Time": "0700",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "07-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "0700",
-  "Date": "07-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9642"
- },
- {
-  "Time": "0700",
-  "Date": "07-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   291"
- },
- {
-  "Time": "0700",
-  "Date": "07-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR  6597"
- },
- {
-  "Time": "0705",
-  "Date": "07-08-2026",
-  "Dest": "KEF",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9280"
- },
- {
-  "Time": "0705",
-  "Date": "07-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9750"
- },
- {
-  "Time": "0710",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0710",
-  "Date": "07-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9242"
- },
- {
-  "Time": "0710",
-  "Date": "07-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9654"
- },
- {
-  "Time": "0710",
-  "Date": "07-08-2026",
-  "Dest": "VAR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9914"
- },
- {
-  "Time": "0715",
-  "Date": "07-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   406"
- },
- {
-  "Time": "0720",
-  "Date": "07-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5702"
- },
- {
-  "Time": "0720",
-  "Date": "07-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "0720",
-  "Date": "07-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "0720",
-  "Date": "07-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "0720",
-  "Date": "07-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0725",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9574"
- },
- {
-  "Time": "0725",
-  "Date": "07-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1329"
- },
- {
-  "Time": "0730",
-  "Date": "07-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8225"
- },
- {
-  "Time": "0730",
-  "Date": "07-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
- },
- {
-  "Time": "0730",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2035"
- },
- {
-  "Time": "0755",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0805",
-  "Date": "07-08-2026",
-  "Dest": "TLL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9738"
- },
- {
-  "Time": "0805",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0815",
-  "Date": "07-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0830",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0850",
-  "Date": "07-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3942"
- },
- {
-  "Time": "0850",
-  "Date": "07-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4335"
- },
- {
-  "Time": "0855",
-  "Date": "07-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1392"
- },
- {
-  "Time": "0900",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "0905",
-  "Date": "07-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0930",
-  "Date": "07-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   361"
- },
- {
-  "Time": "0930",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2005"
- },
- {
-  "Time": "0930",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0935",
-  "Date": "07-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "0940",
-  "Date": "07-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0945",
-  "Date": "07-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "0950",
-  "Date": "07-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "0955",
-  "Date": "07-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   207"
- },
- {
-  "Time": "0955",
-  "Date": "07-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   215"
- },
- {
-  "Time": "0955",
-  "Date": "07-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   969"
- },
- {
-  "Time": "1000",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1005",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9576"
- },
- {
-  "Time": "1010",
-  "Date": "07-08-2026",
-  "Dest": "RMF",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6642"
- },
- {
-  "Time": "1025",
-  "Date": "07-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2007"
- },
- {
-  "Time": "1030",
-  "Date": "07-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK  1630"
- },
- {
-  "Time": "1030",
-  "Date": "07-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1040",
-  "Date": "07-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   073"
- },
- {
-  "Time": "1040",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1045",
-  "Date": "07-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1055",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   919"
- },
- {
-  "Time": "1100",
-  "Date": "07-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9442"
- },
- {
-  "Time": "1100",
-  "Date": "07-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1105",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1115",
-  "Date": "07-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "07-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "1115",
-  "Date": "07-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1120",
-  "Date": "07-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8043"
- },
- {
-  "Time": "1125",
-  "Date": "07-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1125",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9580"
- },
- {
-  "Time": "1125",
-  "Date": "07-08-2026",
-  "Dest": "KVA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9684"
- },
- {
-  "Time": "1135",
-  "Date": "07-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1607"
- },
- {
-  "Time": "1135",
-  "Date": "07-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9502"
- },
- {
-  "Time": "1135",
-  "Date": "07-08-2026",
-  "Dest": "GZP",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   243"
- },
- {
-  "Time": "1150",
-  "Date": "07-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9532"
- },
- {
-  "Time": "1155",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "FH",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "FH  1194"
- },
- {
-  "Time": "1155",
-  "Date": "07-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1155",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5678"
- },
- {
-  "Time": "1200",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   107"
- },
- {
-  "Time": "1210",
-  "Date": "07-08-2026",
-  "Dest": "JMK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9660"
- },
- {
-  "Time": "1220",
-  "Date": "07-08-2026",
-  "Dest": "OUD",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "AT   687"
- },
- {
-  "Time": "1220",
-  "Date": "07-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1428"
- },
- {
-  "Time": "1220",
-  "Date": "07-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "1225",
-  "Date": "07-08-2026",
-  "Dest": "KRK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9732"
- },
- {
-  "Time": "1225",
-  "Date": "07-08-2026",
-  "Dest": "TIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9916"
- },
- {
-  "Time": "1225",
-  "Date": "07-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   512"
- },
- {
-  "Time": "1240",
-  "Date": "07-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "07-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2114"
- },
- {
-  "Time": "1245",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  5072"
- },
- {
-  "Time": "1245",
-  "Date": "07-08-2026",
-  "Dest": "CAG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9868"
- },
- {
-  "Time": "1250",
-  "Date": "07-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1255",
-  "Date": "07-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1456"
- },
- {
-  "Time": "1300",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9586"
- },
- {
-  "Time": "1300",
-  "Date": "07-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9752"
- },
- {
-  "Time": "1310",
-  "Date": "07-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "1310",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1315",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9588"
- },
- {
-  "Time": "1315",
-  "Date": "07-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9828"
- },
- {
-  "Time": "1325",
-  "Date": "07-08-2026",
-  "Dest": "HAM",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9036"
- },
- {
-  "Time": "1325",
-  "Date": "07-08-2026",
-  "Dest": "VCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9810"
- },
- {
-  "Time": "1325",
-  "Date": "07-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1688"
- },
- {
-  "Time": "1330",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1335",
-  "Date": "07-08-2026",
-  "Dest": "NCL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9338"
- },
- {
-  "Time": "1335",
-  "Date": "07-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1340",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9460"
- },
- {
-  "Time": "1340",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9672"
- },
- {
-  "Time": "1345",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1350",
-  "Date": "07-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "1355",
-  "Date": "07-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "1400",
-  "Date": "07-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "DY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DY  1151"
- },
- {
-  "Time": "1415",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9086"
- },
- {
-  "Time": "1415",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1430",
-  "Date": "07-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1430",
-  "Date": "07-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "NE   721"
- },
- {
-  "Time": "1435",
-  "Date": "07-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1622"
- },
- {
-  "Time": "1435",
-  "Date": "07-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9676"
- },
- {
-  "Time": "1445",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1445",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4968"
- },
- {
-  "Time": "1450",
-  "Date": "07-08-2026",
-  "Dest": "TLV",
-  "DestName": "",
-  "AirlineCode": "6H",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "6H   278"
- },
- {
-  "Time": "1450",
-  "Date": "07-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1455",
-  "Date": "07-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1500",
-  "Date": "07-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9644"
- },
- {
-  "Time": "1505",
-  "Date": "07-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4675"
- },
- {
-  "Time": "1505",
-  "Date": "07-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  8045"
- },
- {
-  "Time": "1505",
-  "Date": "07-08-2026",
-  "Dest": "GWT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9008"
- },
- {
-  "Time": "1505",
-  "Date": "07-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "1505",
-  "Date": "07-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   164"
- },
- {
-  "Time": "1505",
-  "Date": "07-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "07-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1510",
-  "Date": "07-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   075"
- },
- {
-  "Time": "1510",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1515",
-  "Date": "07-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "MS",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "MS   734"
- },
- {
-  "Time": "1520",
-  "Date": "07-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9816"
- },
- {
-  "Time": "1525",
-  "Date": "07-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1525",
-  "Date": "07-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   086"
- },
- {
-  "Time": "1525",
-  "Date": "07-08-2026",
-  "Dest": "GPA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4762"
- },
- {
-  "Time": "1530",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2017"
- },
- {
-  "Time": "1530",
-  "Date": "07-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1530",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   501"
- },
- {
-  "Time": "1555",
-  "Date": "07-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ  2341"
- },
- {
-  "Time": "1555",
-  "Date": "07-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9510"
- },
- {
-  "Time": "1600",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1605",
-  "Date": "07-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "H7",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "H7   404"
- },
- {
-  "Time": "1605",
-  "Date": "07-08-2026",
-  "Dest": "AMM",
-  "DestName": "",
-  "AirlineCode": "RJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "RJ   130"
- },
- {
-  "Time": "1615",
-  "Date": "07-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9960"
- },
- {
-  "Time": "1615",
-  "Date": "07-08-2026",
-  "Dest": "LGW",
-  "DestName": "",
-  "AirlineCode": "EZ",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EZY 8650"
- },
- {
-  "Time": "1620",
-  "Date": "07-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1625",
-  "Date": "07-08-2026",
-  "Dest": "GDN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9736"
- },
- {
-  "Time": "1635",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1645",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1650",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1650",
-  "Date": "07-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9754"
- },
- {
-  "Time": "1650",
-  "Date": "07-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1650",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "1655",
-  "Date": "07-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9444"
- },
- {
-  "Time": "1710",
-  "Date": "07-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "1710",
-  "Date": "07-08-2026",
-  "Dest": "BIO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9518"
- },
- {
-  "Time": "1710",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1715",
-  "Date": "07-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "1720",
-  "Date": "07-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9734"
- },
- {
-  "Time": "1720",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2019"
- },
- {
-  "Time": "1725",
-  "Date": "07-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9886"
- },
- {
-  "Time": "1745",
-  "Date": "07-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "1755",
-  "Date": "07-08-2026",
-  "Dest": "GOT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9222"
- },
- {
-  "Time": "1755",
-  "Date": "07-08-2026",
-  "Dest": "MRS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9424"
- },
- {
-  "Time": "1755",
-  "Date": "07-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9764"
- },
- {
-  "Time": "1755",
-  "Date": "07-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1800",
-  "Date": "07-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "TU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TU   527"
- },
- {
-  "Time": "1805",
-  "Date": "07-08-2026",
-  "Dest": "BER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9048"
- },
- {
-  "Time": "1805",
-  "Date": "07-08-2026",
-  "Dest": "MAN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9344"
- },
- {
-  "Time": "1815",
-  "Date": "07-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1820",
-  "Date": "07-08-2026",
-  "Dest": "BHX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9334"
- },
- {
-  "Time": "1820",
-  "Date": "07-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1825",
-  "Date": "07-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9468"
- },
- {
-  "Time": "1825",
-  "Date": "07-08-2026",
-  "Dest": "LIN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9846"
- },
- {
-  "Time": "1830",
-  "Date": "07-08-2026",
-  "Dest": "BLQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9834"
- },
- {
-  "Time": "1830",
-  "Date": "07-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL   077"
- },
- {
-  "Time": "1835",
-  "Date": "07-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1840",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5012"
- },
- {
-  "Time": "1845",
-  "Date": "07-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9088"
- },
- {
-  "Time": "1845",
-  "Date": "07-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1855",
-  "Date": "07-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9244"
- },
- {
-  "Time": "1855",
-  "Date": "07-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5306"
- },
- {
-  "Time": "1900",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1905",
-  "Date": "07-08-2026",
-  "Dest": "PRG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4205"
- },
- {
-  "Time": "1905",
-  "Date": "07-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1025"
- },
- {
-  "Time": "1920",
-  "Date": "07-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
- },
- {
-  "Time": "1920",
-  "Date": "07-08-2026",
-  "Dest": "BJV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3181"
- },
- {
-  "Time": "1925",
-  "Date": "07-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1935",
-  "Date": "07-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9716"
- },
- {
-  "Time": "1945",
-  "Date": "07-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "07-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB   756"
- },
- {
-  "Time": "1955",
-  "Date": "07-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   281"
- },
- {
-  "Time": "2000",
-  "Date": "07-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   543"
- },
- {
-  "Time": "2000",
-  "Date": "07-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2005",
-  "Date": "07-08-2026",
-  "Dest": "RIX",
-  "DestName": "",
-  "AirlineCode": "BT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BT   234"
- },
- {
-  "Time": "2005",
-  "Date": "07-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2005",
-  "Date": "07-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "2015",
-  "Date": "07-08-2026",
-  "Dest": "MJI",
-  "DestName": "",
-  "AirlineCode": "BM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BM   561"
- },
- {
-  "Time": "2015",
-  "Date": "07-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   030"
- },
- {
-  "Time": "2020",
-  "Date": "07-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2025",
-  "Date": "07-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4677"
- },
- {
-  "Time": "2030",
-  "Date": "07-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2027"
- },
- {
-  "Time": "2040",
-  "Date": "07-08-2026",
-  "Dest": "SZF",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1351"
- },
- {
-  "Time": "2045",
-  "Date": "07-08-2026",
-  "Dest": "TZX",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1654"
- },
- {
-  "Time": "2045",
-  "Date": "07-08-2026",
-  "Dest": "EZS",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1335"
- },
- {
-  "Time": "2050",
-  "Date": "07-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   265"
- },
- {
-  "Time": "2050",
-  "Date": "07-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   267"
- },
- {
-  "Time": "2100",
-  "Date": "07-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3944"
- },
- {
-  "Time": "2105",
-  "Date": "07-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   699"
- },
- {
-  "Time": "2115",
-  "Date": "07-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "2115",
-  "Date": "07-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9898"
- },
- {
-  "Time": "2130",
-  "Date": "07-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9674"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1514"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1616"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "PVK",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1780"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1826"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2312"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2322"
- },
- {
-  "Time": "0550",
-  "Date": "08-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4588"
- },
- {
-  "Time": "0600",
-  "Date": "08-08-2026",
-  "Dest": "LCA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE  1684"
- },
- {
-  "Time": "0600",
-  "Date": "08-08-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "08-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   079"
- },
- {
-  "Time": "0600",
-  "Date": "08-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2116"
- },
- {
-  "Time": "0605",
-  "Date": "08-08-2026",
-  "Dest": "CHQ",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1614"
- },
- {
-  "Time": "0605",
-  "Date": "08-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9420"
- },
- {
-  "Time": "0605",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9572"
- },
- {
-  "Time": "0605",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
- },
- {
-  "Time": "0610",
-  "Date": "08-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1612"
- },
- {
-  "Time": "0610",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1774"
- },
- {
-  "Time": "0610",
-  "Date": "08-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9530"
- },
- {
-  "Time": "0610",
-  "Date": "08-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0615",
-  "Date": "08-08-2026",
-  "Dest": "BIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9432"
- },
- {
-  "Time": "0620",
-  "Date": "08-08-2026",
-  "Dest": "FCO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9882"
- },
- {
-  "Time": "0620",
-  "Date": "08-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1326"
- },
- {
-  "Time": "0620",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2031"
- },
- {
-  "Time": "0625",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9576"
- },
- {
-  "Time": "0625",
-  "Date": "08-08-2026",
-  "Dest": "PDL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9608"
- },
- {
-  "Time": "0625",
-  "Date": "08-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1796"
- },
- {
-  "Time": "0630",
-  "Date": "08-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9440"
- },
- {
-  "Time": "0630",
-  "Date": "08-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9642"
- },
- {
-  "Time": "0630",
-  "Date": "08-08-2026",
-  "Dest": "SZG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9716"
- },
- {
-  "Time": "0630",
-  "Date": "08-08-2026",
-  "Dest": "SUF",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9852"
- },
- {
-  "Time": "0630",
-  "Date": "08-08-2026",
-  "Dest": "DBV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9952"
- },
- {
-  "Time": "0635",
-  "Date": "08-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "0640",
-  "Date": "08-08-2026",
-  "Dest": "NQY",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9346"
- },
- {
-  "Time": "0640",
-  "Date": "08-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9654"
- },
- {
-  "Time": "0645",
-  "Date": "08-08-2026",
-  "Dest": "VOL",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9686"
- },
- {
-  "Time": "0650",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1848"
- },
- {
-  "Time": "0655",
-  "Date": "08-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1107"
- },
- {
-  "Time": "0655",
-  "Date": "08-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9760"
- },
- {
-  "Time": "0655",
-  "Date": "08-08-2026",
-  "Dest": "BOJ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9910"
- },
- {
-  "Time": "0655",
-  "Date": "08-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2252"
- },
- {
-  "Time": "0700",
-  "Date": "08-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9462"
- },
- {
-  "Time": "0700",
-  "Date": "08-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4428"
- },
- {
-  "Time": "0700",
-  "Date": "08-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   405"
- },
- {
-  "Time": "0700",
-  "Date": "08-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR  6597"
- },
- {
-  "Time": "0705",
-  "Date": "08-08-2026",
-  "Dest": "JER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9378"
- },
- {
-  "Time": "0705",
-  "Date": "08-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9750"
- },
- {
-  "Time": "0710",
-  "Date": "08-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0710",
-  "Date": "08-08-2026",
-  "Dest": "GWT",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9008"
- },
- {
-  "Time": "0715",
-  "Date": "08-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9680"
- },
- {
-  "Time": "0715",
-  "Date": "08-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   406"
- },
- {
-  "Time": "0720",
-  "Date": "08-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8225"
- },
- {
-  "Time": "0720",
-  "Date": "08-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "08-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
- },
- {
-  "Time": "0730",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2035"
- },
- {
-  "Time": "0735",
-  "Date": "08-08-2026",
-  "Dest": "SMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9638"
- },
- {
-  "Time": "0750",
-  "Date": "08-08-2026",
-  "Dest": "TOS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9250"
- },
- {
-  "Time": "0750",
-  "Date": "08-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9394"
- },
- {
-  "Time": "0800",
-  "Date": "08-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9612"
- },
- {
-  "Time": "0805",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9578"
- },
- {
-  "Time": "0805",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   181"
- },
- {
-  "Time": "0805",
-  "Date": "08-08-2026",
-  "Dest": "GZT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1391"
- },
- {
-  "Time": "0815",
-  "Date": "08-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9636"
- },
- {
-  "Time": "0815",
-  "Date": "08-08-2026",
-  "Dest": "MLA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9690"
- },
- {
-  "Time": "0815",
-  "Date": "08-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1798"
- },
- {
-  "Time": "0820",
-  "Date": "08-08-2026",
-  "Dest": "BDS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9854"
- },
- {
-  "Time": "0830",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0835",
-  "Date": "08-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NP",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "NP  6491"
- },
- {
-  "Time": "0905",
-  "Date": "08-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EN",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ENT 6062"
- },
- {
-  "Time": "0920",
-  "Date": "08-08-2026",
-  "Dest": "DOH",
-  "DestName": "",
-  "AirlineCode": "QR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "QR   088"
- },
- {
-  "Time": "0920",
-  "Date": "08-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "0925",
-  "Date": "08-08-2026",
-  "Dest": "TIA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9916"
- },
- {
-  "Time": "0930",
-  "Date": "08-08-2026",
-  "Dest": "BEG",
-  "DestName": "",
-  "AirlineCode": "JU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "JU   361"
- },
- {
-  "Time": "0930",
-  "Date": "08-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "NP",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "NP   856"
- },
- {
-  "Time": "0930",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2005"
- },
- {
-  "Time": "0930",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   283"
- },
- {
-  "Time": "0935",
-  "Date": "08-08-2026",
-  "Dest": "ARN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  4673"
- },
- {
-  "Time": "0940",
-  "Date": "08-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   162"
- },
- {
-  "Time": "0945",
-  "Date": "08-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1897"
- },
- {
-  "Time": "0950",
-  "Date": "08-08-2026",
-  "Dest": "OLB",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9844"
- },
- {
-  "Time": "0950",
-  "Date": "08-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1017"
- },
- {
-  "Time": "0955",
-  "Date": "08-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   969"
- },
- {
-  "Time": "1000",
-  "Date": "08-08-2026",
-  "Dest": "GZP",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   243"
- },
- {
-  "Time": "1000",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   189"
- },
- {
-  "Time": "1005",
-  "Date": "08-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9814"
- },
- {
-  "Time": "1005",
-  "Date": "08-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9958"
- },
- {
-  "Time": "1010",
-  "Date": "08-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   073"
- },
- {
-  "Time": "1010",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  5002"
- },
- {
-  "Time": "1025",
-  "Date": "08-08-2026",
-  "Dest": "DUB",
-  "DestName": "",
-  "AirlineCode": "EI",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EI   693"
- },
- {
-  "Time": "1025",
-  "Date": "08-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   404"
- },
- {
-  "Time": "1030",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2007"
- },
- {
-  "Time": "1030",
-  "Date": "08-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "OU",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "OU   423"
- },
- {
-  "Time": "1030",
-  "Date": "08-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1524"
- },
- {
-  "Time": "1040",
-  "Date": "08-08-2026",
-  "Dest": "MXP",
-  "DestName": "",
-  "AirlineCode": "EJ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EJU 3942"
- },
- {
-  "Time": "1040",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1008"
- },
- {
-  "Time": "1050",
-  "Date": "08-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9444"
- },
- {
-  "Time": "1050",
-  "Date": "08-08-2026",
-  "Dest": "KZR",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1527"
- },
- {
-  "Time": "1100",
-  "Date": "08-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
- },
- {
-  "Time": "1105",
-  "Date": "08-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  5448"
- },
- {
-  "Time": "1105",
-  "Date": "08-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9464"
- },
- {
-  "Time": "1110",
-  "Date": "08-08-2026",
-  "Dest": "RMF",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5520"
- },
- {
-  "Time": "1115",
-  "Date": "08-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1394"
- },
- {
-  "Time": "1115",
-  "Date": "08-08-2026",
-  "Dest": "BEY",
-  "DestName": "",
-  "AirlineCode": "ME",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ME   248"
- },
- {
-  "Time": "1120",
-  "Date": "08-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  5702"
- },
- {
-  "Time": "1125",
-  "Date": "08-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "DE   068"
- },
- {
-  "Time": "1130",
-  "Date": "08-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9546"
- },
- {
-  "Time": "1130",
-  "Date": "08-08-2026",
-  "Dest": "EBL",
-  "DestName": "",
-  "AirlineCode": "UD",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "UD   438"
- },
- {
-  "Time": "1135",
-  "Date": "08-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   591"
- },
- {
-  "Time": "1145",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF  5043"
- },
- {
-  "Time": "1150",
-  "Date": "08-08-2026",
-  "Dest": "GOA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  3654"
- },
- {
-  "Time": "1155",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "FH",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "FH  1194"
- },
- {
-  "Time": "1155",
-  "Date": "08-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1320"
- },
- {
-  "Time": "1200",
-  "Date": "08-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ  2641"
- },
- {
-  "Time": "1200",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9582"
- },
- {
-  "Time": "1200",
-  "Date": "08-08-2026",
-  "Dest": "ZAD",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9970"
- },
- {
-  "Time": "1200",
-  "Date": "08-08-2026",
-  "Dest": "TLV",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9974"
- },
- {
-  "Time": "1200",
-  "Date": "08-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1321"
- },
- {
-  "Time": "1205",
-  "Date": "08-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "AT   697"
- },
- {
-  "Time": "1225",
-  "Date": "08-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9632"
- },
- {
-  "Time": "1225",
-  "Date": "08-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1800"
- },
- {
-  "Time": "1230",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "4M",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "4M   612"
- },
- {
-  "Time": "1230",
-  "Date": "08-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1434"
- },
- {
-  "Time": "1230",
-  "Date": "08-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2114"
- },
- {
-  "Time": "1235",
-  "Date": "08-08-2026",
-  "Dest": "TFS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2118"
- },
- {
-  "Time": "1240",
-  "Date": "08-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   541"
- },
- {
-  "Time": "1240",
-  "Date": "08-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9526"
- },
- {
-  "Time": "1250",
-  "Date": "08-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "A3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "A3   841"
- },
- {
-  "Time": "1255",
-  "Date": "08-08-2026",
-  "Dest": "EDI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9364"
- },
- {
-  "Time": "1300",
-  "Date": "08-08-2026",
-  "Dest": "LCA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9902"
- },
- {
-  "Time": "1305",
-  "Date": "08-08-2026",
-  "Dest": "EDO",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1349"
- },
- {
-  "Time": "1310",
-  "Date": "08-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1414"
- },
- {
-  "Time": "1310",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9584"
- },
- {
-  "Time": "1310",
-  "Date": "08-08-2026",
-  "Dest": "FNC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9600"
- },
- {
-  "Time": "1310",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   026"
- },
- {
-  "Time": "1325",
-  "Date": "08-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1620"
- },
- {
-  "Time": "1325",
-  "Date": "08-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9502"
- },
- {
-  "Time": "1330",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2015"
- },
- {
-  "Time": "1330",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1340",
-  "Date": "08-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8221"
- },
- {
-  "Time": "1345",
-  "Date": "08-08-2026",
-  "Dest": "FAO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9644"
- },
- {
-  "Time": "1345",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1002"
- },
- {
-  "Time": "1350",
-  "Date": "08-08-2026",
-  "Dest": "CTA",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9816"
- },
- {
-  "Time": "1355",
-  "Date": "08-08-2026",
-  "Dest": "KLX",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9668"
- },
- {
-  "Time": "1420",
-  "Date": "08-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9630"
- },
- {
-  "Time": "1420",
-  "Date": "08-08-2026",
-  "Dest": "KGS",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4572"
- },
- {
-  "Time": "1425",
-  "Date": "08-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1794"
- },
- {
-  "Time": "1430",
-  "Date": "08-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9672"
- },
- {
-  "Time": "1430",
-  "Date": "08-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1802"
- },
- {
-  "Time": "1450",
-  "Date": "08-08-2026",
-  "Dest": "ZRH",
-  "DestName": "",
-  "AirlineCode": "LX",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LX  1019"
- },
- {
-  "Time": "1450",
-  "Date": "08-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  4104"
- },
- {
-  "Time": "1455",
-  "Date": "08-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1526"
- },
- {
-  "Time": "1500",
-  "Date": "08-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9536"
- },
- {
-  "Time": "1500",
-  "Date": "08-08-2026",
-  "Dest": "DJE",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "X3  6568"
- },
- {
-  "Time": "1505",
-  "Date": "08-08-2026",
-  "Dest": "XRY",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1556"
- },
- {
-  "Time": "1505",
-  "Date": "08-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9602"
- },
- {
-  "Time": "1505",
-  "Date": "08-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   164"
- },
- {
-  "Time": "1505",
-  "Date": "08-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   959"
- },
- {
-  "Time": "1510",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   187"
- },
- {
-  "Time": "1515",
-  "Date": "08-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "MS",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "MS   734"
- },
- {
-  "Time": "1520",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9586"
- },
- {
-  "Time": "1520",
-  "Date": "08-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH   075"
- },
- {
-  "Time": "1525",
-  "Date": "08-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   056"
- },
- {
-  "Time": "1525",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9588"
- },
- {
-  "Time": "1530",
-  "Date": "08-08-2026",
-  "Dest": "MIR",
-  "DestName": "",
-  "AirlineCode": "BJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BJ   215"
- },
- {
-  "Time": "1530",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2017"
- },
- {
-  "Time": "1545",
-  "Date": "08-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9442"
- },
- {
-  "Time": "1545",
-  "Date": "08-08-2026",
-  "Dest": "SKG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9656"
- },
- {
-  "Time": "1545",
-  "Date": "08-08-2026",
-  "Dest": "SPU",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9960"
- },
- {
-  "Time": "1545",
-  "Date": "08-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   439"
- },
- {
-  "Time": "1550",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1516"
- },
- {
-  "Time": "1550",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9590"
- },
- {
-  "Time": "1555",
-  "Date": "08-08-2026",
-  "Dest": "PVK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9664"
- },
- {
-  "Time": "1600",
-  "Date": "08-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9466"
- },
- {
-  "Time": "1600",
-  "Date": "08-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   197"
- },
- {
-  "Time": "1605",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1010"
- },
- {
-  "Time": "1605",
-  "Date": "08-08-2026",
-  "Dest": "AMM",
-  "DestName": "",
-  "AirlineCode": "RJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "RJ   130"
- },
- {
-  "Time": "1615",
-  "Date": "08-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "1620",
-  "Date": "08-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3581"
- },
- {
-  "Time": "1625",
-  "Date": "08-08-2026",
-  "Dest": "ALC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9532"
- },
- {
-  "Time": "1640",
-  "Date": "08-08-2026",
-  "Dest": "IBZ",
-  "DestName": "",
-  "AirlineCode": "X3",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "X3  2914"
- },
- {
-  "Time": "1645",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9592"
- },
- {
-  "Time": "1645",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   028"
- },
- {
-  "Time": "1650",
-  "Date": "08-08-2026",
-  "Dest": "VLC",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9538"
- },
- {
-  "Time": "1650",
-  "Date": "08-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "SM",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "SM  2981"
- },
- {
-  "Time": "1655",
-  "Date": "08-08-2026",
-  "Dest": "BRI",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9872"
- },
- {
-  "Time": "1705",
-  "Date": "08-08-2026",
-  "Dest": "PMI",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  1778"
- },
- {
-  "Time": "1705",
-  "Date": "08-08-2026",
-  "Dest": "CAG",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9868"
- },
- {
-  "Time": "1710",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1004"
- },
- {
-  "Time": "1725",
-  "Date": "08-08-2026",
-  "Dest": "NCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9422"
- },
- {
-  "Time": "1730",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "LH",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LH  2019"
- },
- {
-  "Time": "1745",
-  "Date": "08-08-2026",
-  "Dest": "RJK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9962"
- },
- {
-  "Time": "1745",
-  "Date": "08-08-2026",
-  "Dest": "LIS",
-  "DestName": "",
-  "AirlineCode": "TP",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "TP   543"
- },
- {
-  "Time": "1755",
-  "Date": "08-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   006"
- },
- {
-  "Time": "1800",
-  "Date": "08-08-2026",
-  "Dest": "TUN",
-  "DestName": "",
-  "AirlineCode": "TU",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TU   527"
- },
- {
-  "Time": "1805",
-  "Date": "08-08-2026",
-  "Dest": "VCE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "EW  9810"
- },
- {
-  "Time": "1815",
-  "Date": "08-08-2026",
-  "Dest": "AMS",
-  "DestName": "",
-  "AirlineCode": "KL",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "KL  1804"
- },
- {
-  "Time": "1840",
-  "Date": "08-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL   077"
- },
- {
-  "Time": "1845",
-  "Date": "08-08-2026",
-  "Dest": "HEL",
-  "DestName": "",
-  "AirlineCode": "AY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AY  1396"
- },
- {
-  "Time": "1845",
-  "Date": "08-08-2026",
-  "Dest": "ATH",
-  "DestName": "",
-  "AirlineCode": "GQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "GQ   891"
- },
- {
-  "Time": "1845",
-  "Date": "08-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1528"
- },
- {
-  "Time": "1855",
-  "Date": "08-08-2026",
-  "Dest": "ADB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   989"
- },
- {
-  "Time": "1900",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   183"
- },
- {
-  "Time": "1920",
-  "Date": "08-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF  5143"
- },
- {
-  "Time": "1925",
-  "Date": "08-08-2026",
-  "Dest": "CDG",
-  "DestName": "",
-  "AirlineCode": "AF",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "AF  1007"
- },
- {
-  "Time": "1930",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
-  "Time": "1940",
-  "Date": "08-08-2026",
-  "Dest": "BZO",
-  "DestName": "",
-  "AirlineCode": "BQ",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "BQ  1953"
- },
- {
-  "Time": "1940",
-  "Date": "08-08-2026",
-  "Dest": "MUC",
-  "DestName": "",
-  "AirlineCode": "VL",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "VL  2023"
- },
- {
-  "Time": "1945",
-  "Date": "08-08-2026",
-  "Dest": "WAW",
-  "DestName": "",
-  "AirlineCode": "LO",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "LO   408"
- },
- {
-  "Time": "1955",
-  "Date": "08-08-2026",
-  "Dest": "MAD",
-  "DestName": "",
-  "AirlineCode": "IB",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "IB  1324"
- },
- {
-  "Time": "1955",
-  "Date": "08-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   281"
- },
- {
-  "Time": "2000",
-  "Date": "08-08-2026",
-  "Dest": "VIE",
-  "DestName": "",
-  "AirlineCode": "OS",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "OS   168"
- },
- {
-  "Time": "2000",
-  "Date": "08-08-2026",
-  "Dest": "OSL",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   817"
- },
- {
-  "Time": "2005",
-  "Date": "08-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8223"
- },
- {
-  "Time": "2005",
-  "Date": "08-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   795"
- },
- {
-  "Time": "2015",
-  "Date": "08-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "VF",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "VF   030"
- },
- {
-  "Time": "2020",
-  "Date": "08-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1522"
- },
- {
-  "Time": "2030",
-  "Date": "08-08-2026",
-  "Dest": "DIY",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1361"
- },
- {
-  "Time": "2035",
-  "Date": "08-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1620"
- },
- {
-  "Time": "2040",
-  "Date": "08-08-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1371"
- },
- {
-  "Time": "2050",
-  "Date": "08-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   265"
- },
- {
-  "Time": "2050",
-  "Date": "08-08-2026",
-  "Dest": "ESB",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   311"
- },
- {
-  "Time": "2055",
-  "Date": "08-08-2026",
-  "Dest": "DLM",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  3579"
- },
- {
-  "Time": "2100",
-  "Date": "08-08-2026",
-  "Dest": "BGY",
-  "DestName": "",
-  "AirlineCode": "ED",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ED  8111"
- },
- {
-  "Time": "2100",
-  "Date": "08-08-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1899"
- },
- {
-  "Time": "2115",
-  "Date": "08-08-2026",
-  "Dest": "DXB",
-  "DestName": "",
-  "AirlineCode": "EK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EK   058"
- },
- {
-  "Time": "2120",
-  "Date": "08-08-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9936"
- },
- {
-  "Time": "2125",
-  "Date": "08-08-2026",
-  "Dest": "NDR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9890"
- },
- {
-  "Time": "0550",
   "Date": "09-08-2026",
   "Dest": "ZTH",
   "DestName": "",
@@ -17372,146 +442,6 @@
  },
  {
   "Time": "0705",
-  "Date": "09-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
-  "Time": "0710",
-  "Date": "09-08-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9242"
- },
- {
-  "Time": "0710",
-  "Date": "09-08-2026",
-  "Dest": "ZTH",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9626"
- },
- {
-  "Time": "0715",
-  "Date": "09-08-2026",
-  "Dest": "SVQ",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9568"
- },
- {
-  "Time": "0715",
-  "Date": "09-08-2026",
-  "Dest": "FLR",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9830"
- },
- {
-  "Time": "0715",
-  "Date": "09-08-2026",
-  "Dest": "NAP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9860"
- },
- {
-  "Time": "0720",
-  "Date": "09-08-2026",
-  "Dest": "AGP",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9534"
- },
- {
-  "Time": "0720",
-  "Date": "09-08-2026",
-  "Dest": "OPO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9640"
- },
- {
-  "Time": "0720",
-  "Date": "09-08-2026",
-  "Dest": "KRK",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9732"
- },
- {
-  "Time": "0720",
-  "Date": "09-08-2026",
-  "Dest": "IST",
-  "DestName": "",
-  "AirlineCode": "TK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "TK  1530"
- },
- {
-  "Time": "0725",
-  "Date": "09-08-2026",
-  "Dest": "FUE",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "EW  9552"
- },
- {
-  "Time": "0725",
-  "Date": "09-08-2026",
-  "Dest": "ONQ",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ  1329"
- },
- {
-  "Time": "0730",
-  "Date": "09-08-2026",
-  "Dest": "LHR",
-  "DestName": "",
-  "AirlineCode": "BA",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "BA   925"
- },
- {
-  "Time": "0730",
-  "Date": "09-08-2026",
-  "Dest": "PRN",
-  "DestName": "",
-  "AirlineCode": "IV",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "IV  8225"
- },
- {
-  "Time": "0730",
   "Date": "09-08-2026",
   "Dest": "AMM",
   "DestName": "",
@@ -17521,6 +451,146 @@
   "Flight": "RJ   158"
  },
  {
+  "Time": "0705",
+  "Date": "09-08-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "0710",
+  "Date": "09-08-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9242"
+ },
+ {
+  "Time": "0710",
+  "Date": "09-08-2026",
+  "Dest": "ZTH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9626"
+ },
+ {
+  "Time": "0715",
+  "Date": "09-08-2026",
+  "Dest": "SVQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9568"
+ },
+ {
+  "Time": "0715",
+  "Date": "09-08-2026",
+  "Dest": "FLR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9830"
+ },
+ {
+  "Time": "0715",
+  "Date": "09-08-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0720",
+  "Date": "09-08-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0720",
+  "Date": "09-08-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "0720",
+  "Date": "09-08-2026",
+  "Dest": "KRK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9732"
+ },
+ {
+  "Time": "0720",
+  "Date": "09-08-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "09-08-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9552"
+ },
+ {
+  "Time": "0725",
+  "Date": "09-08-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1329"
+ },
+ {
+  "Time": "0730",
+  "Date": "09-08-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0730",
+  "Date": "09-08-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8225"
+ },
+ {
   "Time": "0800",
   "Date": "09-08-2026",
   "Dest": "CTA",
@@ -17773,6 +843,16 @@
  {
   "Time": "1005",
   "Date": "09-08-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1005",
+  "Date": "09-08-2026",
   "Dest": "DLM",
   "DestName": "",
   "AirlineCode": "XQ",
@@ -17869,16 +949,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EI   693"
- },
- {
-  "Time": "1100",
-  "Date": "09-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
  },
  {
   "Time": "1105",
@@ -19903,12 +2973,12 @@
  {
   "Time": "0730",
   "Date": "10-08-2026",
-  "Dest": "DAM",
+  "Dest": "ALP",
   "DestName": "",
   "AirlineCode": "KK",
   "Airline": "",
   "Terminal": "C",
-  "Flight": "KK   490"
+  "Flight": "KK   472"
  },
  {
   "Time": "0730",
@@ -20251,6 +3321,16 @@
   "Flight": "XR   403"
  },
  {
+  "Time": "1005",
+  "Date": "10-08-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
   "Time": "1010",
   "Date": "10-08-2026",
   "Dest": "CPH",
@@ -20399,16 +3479,6 @@
   "Airline": "",
   "Terminal": "B",
   "Flight": "EW  9844"
- },
- {
-  "Time": "1100",
-  "Date": "10-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
  },
  {
   "Time": "1105",
@@ -22333,6 +5403,16 @@
  {
   "Time": "0700",
   "Date": "11-08-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9978"
+ },
+ {
+  "Time": "0700",
+  "Date": "11-08-2026",
   "Dest": "HRG",
   "DestName": "",
   "AirlineCode": "XR",
@@ -22541,7 +5621,7 @@
   "Flight": "5F  5686"
  },
  {
-  "Time": "0825",
+  "Time": "0830",
   "Date": "11-08-2026",
   "Dest": "SAW",
   "DestName": "",
@@ -22551,14 +5631,14 @@
   "Flight": "PC  1006"
  },
  {
-  "Time": "0830",
+  "Time": "0835",
   "Date": "11-08-2026",
-  "Dest": "FDH",
+  "Dest": "RMO",
   "DestName": "",
-  "AirlineCode": "AT",
+  "AirlineCode": "H7",
   "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
+  "Terminal": "C",
+  "Flight": "H7   404"
  },
  {
   "Time": "0850",
@@ -22751,6 +5831,16 @@
   "Flight": "XR   401"
  },
  {
+  "Time": "1005",
+  "Date": "11-08-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
   "Time": "1010",
   "Date": "11-08-2026",
   "Dest": "CPH",
@@ -22879,16 +5969,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9364"
- },
- {
-  "Time": "1100",
-  "Date": "11-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
  },
  {
   "Time": "1100",
@@ -23463,16 +6543,6 @@
  {
   "Time": "1505",
   "Date": "11-08-2026",
-  "Dest": "CAI",
-  "DestName": "",
-  "AirlineCode": "MS",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "MS   734"
- },
- {
-  "Time": "1505",
-  "Date": "11-08-2026",
   "Dest": "ADB",
   "DestName": "",
   "AirlineCode": "XQ",
@@ -23489,6 +6559,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "LH   075"
+ },
+ {
+  "Time": "1510",
+  "Date": "11-08-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "MS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MS   734"
  },
  {
   "Time": "1510",
@@ -23519,6 +6599,16 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EK   056"
+ },
+ {
+  "Time": "1530",
+  "Date": "11-08-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  4791"
  },
  {
   "Time": "1530",
@@ -23619,16 +6709,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9466"
- },
- {
-  "Time": "1605",
-  "Date": "11-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "H7",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "H7   404"
  },
  {
   "Time": "1615",
@@ -23993,16 +7073,6 @@
  {
   "Time": "1900",
   "Date": "11-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
- },
- {
-  "Time": "1900",
-  "Date": "11-08-2026",
   "Dest": "AYT",
   "DestName": "",
   "AirlineCode": "XQ",
@@ -24299,16 +7369,6 @@
   "Airline": "",
   "Terminal": "B",
   "Flight": "DE  1774"
- },
- {
-  "Time": "0550",
-  "Date": "12-08-2026",
-  "Dest": "FRA",
-  "DestName": "",
-  "AirlineCode": "DE",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "DE  4789"
  },
  {
   "Time": "0550",
@@ -24923,16 +7983,6 @@
  {
   "Time": "0825",
   "Date": "12-08-2026",
-  "Dest": "SAW",
-  "DestName": "",
-  "AirlineCode": "PC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "PC  1006"
- },
- {
-  "Time": "0825",
-  "Date": "12-08-2026",
   "Dest": "ONQ",
   "DestName": "",
   "AirlineCode": "XQ",
@@ -24941,13 +7991,23 @@
   "Flight": "XQ  1329"
  },
  {
-  "Time": "0835",
+  "Time": "0830",
+  "Date": "12-08-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0840",
   "Date": "12-08-2026",
   "Dest": "HRG",
   "DestName": "",
   "AirlineCode": "NP",
   "Airline": "",
-  "Terminal": "B",
+  "Terminal": "C",
   "Flight": "NP  3491"
  },
  {
@@ -25153,6 +8213,16 @@
  {
   "Time": "1005",
   "Date": "12-08-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1005",
+  "Date": "12-08-2026",
   "Dest": "MUC",
   "DestName": "",
   "AirlineCode": "LH",
@@ -25289,16 +8359,6 @@
   "Airline": "",
   "Terminal": "B",
   "Flight": "EW  9612"
- },
- {
-  "Time": "1100",
-  "Date": "12-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
  },
  {
   "Time": "1105",
@@ -26923,12 +9983,12 @@
  {
   "Time": "0610",
   "Date": "13-08-2026",
-  "Dest": "AYT",
+  "Dest": "HER",
   "DestName": "",
-  "AirlineCode": "XC",
+  "AirlineCode": "XR",
   "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   101"
+  "Terminal": "B",
+  "Flight": "XR   401"
  },
  {
   "Time": "0620",
@@ -27191,16 +10251,6 @@
   "Flight": "EW  9750"
  },
  {
-  "Time": "0705",
-  "Date": "13-08-2026",
-  "Dest": "HER",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   401"
- },
- {
   "Time": "0710",
   "Date": "13-08-2026",
   "Dest": "LHR",
@@ -27239,6 +10289,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9914"
+ },
+ {
+  "Time": "0710",
+  "Date": "13-08-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
  },
  {
   "Time": "0715",
@@ -27581,6 +10641,16 @@
   "Flight": "XR   503"
  },
  {
+  "Time": "1005",
+  "Date": "13-08-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
   "Time": "1010",
   "Date": "13-08-2026",
   "Dest": "MUC",
@@ -27709,16 +10779,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9970"
- },
- {
-  "Time": "1100",
-  "Date": "13-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
  },
  {
   "Time": "1105",
@@ -28141,16 +11201,6 @@
   "Flight": "XC   103"
  },
  {
-  "Time": "1330",
-  "Date": "13-08-2026",
-  "Dest": "STN",
-  "DestName": "",
-  "AirlineCode": "ZT",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "ZT   933 W"
- },
- {
   "Time": "1335",
   "Date": "13-08-2026",
   "Dest": "PRN",
@@ -28261,6 +11311,16 @@
   "Flight": "EW  9086"
  },
  {
+  "Time": "1415",
+  "Date": "13-08-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   439"
+ },
+ {
   "Time": "1425",
   "Date": "13-08-2026",
   "Dest": "LHR",
@@ -28279,6 +11339,16 @@
   "Airline": "",
   "Terminal": "B",
   "Flight": "KL  1802"
+ },
+ {
+  "Time": "1430",
+  "Date": "13-08-2026",
+  "Dest": "STN",
+  "DestName": "",
+  "AirlineCode": "ZT",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ZT   933 W"
  },
  {
   "Time": "1450",
@@ -28499,16 +11569,6 @@
   "Airline": "",
   "Terminal": "B",
   "Flight": "EW  9814"
- },
- {
-  "Time": "1545",
-  "Date": "13-08-2026",
-  "Dest": "CFU",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   439"
  },
  {
   "Time": "1550",
@@ -29611,6 +12671,16 @@
   "Flight": "EW  9760"
  },
  {
+  "Time": "0655",
+  "Date": "14-08-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
   "Time": "0700",
   "Date": "14-08-2026",
   "Dest": "MUC",
@@ -29659,16 +12729,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "XC   291"
- },
- {
-  "Time": "0700",
-  "Date": "14-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR  6597"
  },
  {
   "Time": "0705",
@@ -30081,6 +13141,16 @@
   "Flight": "EW  9576"
  },
  {
+  "Time": "1005",
+  "Date": "14-08-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
   "Time": "1010",
   "Date": "14-08-2026",
   "Dest": "CPH",
@@ -30179,16 +13249,6 @@
   "Airline": "",
   "Terminal": "B",
   "Flight": "EW  9442"
- },
- {
-  "Time": "1100",
-  "Date": "14-08-2026",
-  "Dest": "AUH",
-  "DestName": "",
-  "AirlineCode": "EY",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EY   134"
  },
  {
   "Time": "1105",
@@ -31813,16 +14873,6 @@
  {
   "Time": "0600",
   "Date": "15-08-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "15-08-2026",
   "Dest": "FRA",
   "DestName": "",
   "AirlineCode": "LH",
@@ -31919,6 +14969,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "15-08-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
  },
  {
   "Time": "0610",
@@ -32163,16 +15223,6 @@
  {
   "Time": "0700",
   "Date": "15-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   405"
- },
- {
-  "Time": "0700",
-  "Date": "15-08-2026",
   "Dest": "HRG",
   "DestName": "",
   "AirlineCode": "XR",
@@ -32221,6 +15271,16 @@
   "Flight": "EW  9008"
  },
  {
+  "Time": "0710",
+  "Date": "15-08-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   405"
+ },
+ {
   "Time": "0715",
   "Date": "15-08-2026",
   "Dest": "ATH",
@@ -32259,16 +15319,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "15-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -34581,16 +17631,6 @@
   "Flight": "KK   450"
  },
  {
-  "Time": "0800",
-  "Date": "16-08-2026",
-  "Dest": "AMM",
-  "DestName": "",
-  "AirlineCode": "RJ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "RJ   158"
- },
- {
   "Time": "0805",
   "Date": "16-08-2026",
   "Dest": "AYT",
@@ -36989,16 +20029,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EW  5702"
- },
- {
-  "Time": "0730",
-  "Date": "17-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -39663,22 +22693,22 @@
  {
   "Time": "0830",
   "Date": "18-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
- },
- {
-  "Time": "0830",
-  "Date": "18-08-2026",
   "Dest": "SAW",
   "DestName": "",
   "AirlineCode": "PC",
   "Airline": "",
   "Terminal": "C",
   "Flight": "PC  1006"
+ },
+ {
+  "Time": "0835",
+  "Date": "18-08-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "H7",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "H7   404"
  },
  {
   "Time": "0850",
@@ -40761,16 +23791,6 @@
   "Flight": "EW  9466"
  },
  {
-  "Time": "1605",
-  "Date": "18-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "H7",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "H7   404"
- },
- {
   "Time": "1615",
   "Date": "18-08-2026",
   "Dest": "LHR",
@@ -41109,16 +24129,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9334"
- },
- {
-  "Time": "1900",
-  "Date": "18-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
  },
  {
   "Time": "1900",
@@ -46681,6 +29691,16 @@
   "Flight": "EW  9760"
  },
  {
+  "Time": "0655",
+  "Date": "21-08-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
   "Time": "0700",
   "Date": "21-08-2026",
   "Dest": "MUC",
@@ -46729,16 +29749,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "XC   291"
- },
- {
-  "Time": "0700",
-  "Date": "21-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR  6597"
  },
  {
   "Time": "0705",
@@ -47231,6 +30241,16 @@
   "Flight": "PC  1008"
  },
  {
+  "Time": "1040",
+  "Date": "21-08-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   289"
+ },
+ {
   "Time": "1045",
   "Date": "21-08-2026",
   "Dest": "DUB",
@@ -47239,16 +30259,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EI   693"
- },
- {
-  "Time": "1045",
-  "Date": "21-08-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XQ",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XQ   289"
  },
  {
   "Time": "1055",
@@ -48903,16 +31913,6 @@
  {
   "Time": "0600",
   "Date": "22-08-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "22-08-2026",
   "Dest": "FRA",
   "DestName": "",
   "AirlineCode": "LH",
@@ -49009,6 +32009,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "22-08-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
  },
  {
   "Time": "0610",
@@ -49253,16 +32263,6 @@
  {
   "Time": "0700",
   "Date": "22-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   405"
- },
- {
-  "Time": "0700",
-  "Date": "22-08-2026",
   "Dest": "HRG",
   "DestName": "",
   "AirlineCode": "XR",
@@ -49311,6 +32311,16 @@
   "Flight": "EW  9008"
  },
  {
+  "Time": "0710",
+  "Date": "22-08-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   405"
+ },
+ {
   "Time": "0715",
   "Date": "22-08-2026",
   "Dest": "ATH",
@@ -49349,16 +32359,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "22-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -51781,6 +34781,16 @@
   "Flight": "EJU 3942"
  },
  {
+  "Time": "0900",
+  "Date": "23-08-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  7058"
+ },
+ {
   "Time": "0905",
   "Date": "23-08-2026",
   "Dest": "PRN",
@@ -54119,16 +37129,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EW  5702"
- },
- {
-  "Time": "0730",
-  "Date": "24-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -56793,22 +39793,22 @@
  {
   "Time": "0830",
   "Date": "25-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
- },
- {
-  "Time": "0830",
-  "Date": "25-08-2026",
   "Dest": "SAW",
   "DestName": "",
   "AirlineCode": "PC",
   "Airline": "",
   "Terminal": "C",
   "Flight": "PC  1006"
+ },
+ {
+  "Time": "0835",
+  "Date": "25-08-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "H7",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "H7   404"
  },
  {
   "Time": "0850",
@@ -57881,16 +40881,6 @@
   "Flight": "EW  9466"
  },
  {
-  "Time": "1605",
-  "Date": "25-08-2026",
-  "Dest": "RMO",
-  "DestName": "",
-  "AirlineCode": "H7",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "H7   404"
- },
- {
   "Time": "1615",
   "Date": "25-08-2026",
   "Dest": "LHR",
@@ -58239,16 +41229,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9334"
- },
- {
-  "Time": "1900",
-  "Date": "25-08-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
  },
  {
   "Time": "1900",
@@ -63991,6 +46971,16 @@
   "Flight": "EW  9760"
  },
  {
+  "Time": "0655",
+  "Date": "28-08-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
   "Time": "0700",
   "Date": "28-08-2026",
   "Dest": "MUC",
@@ -64049,16 +47039,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "XC   291"
- },
- {
-  "Time": "0700",
-  "Date": "28-08-2026",
-  "Dest": "HRG",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XR  6597"
  },
  {
   "Time": "0705",
@@ -66243,16 +49223,6 @@
  {
   "Time": "0600",
   "Date": "29-08-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "29-08-2026",
   "Dest": "FRA",
   "DestName": "",
   "AirlineCode": "LH",
@@ -66349,6 +49319,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "29-08-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
  },
  {
   "Time": "0610",
@@ -66603,16 +49583,6 @@
  {
   "Time": "0700",
   "Date": "29-08-2026",
-  "Dest": "RHO",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   405"
- },
- {
-  "Time": "0700",
-  "Date": "29-08-2026",
   "Dest": "HRG",
   "DestName": "",
   "AirlineCode": "XR",
@@ -66661,6 +49631,16 @@
   "Flight": "BA   925"
  },
  {
+  "Time": "0710",
+  "Date": "29-08-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   405"
+ },
+ {
   "Time": "0715",
   "Date": "29-08-2026",
   "Dest": "ATH",
@@ -66699,16 +49679,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "29-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -68369,6 +51339,16 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "29-08-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   979"
  },
  {
   "Time": "2030",
@@ -71401,16 +54381,6 @@
   "Flight": "EW  9538"
  },
  {
-  "Time": "0700",
-  "Date": "31-08-2026",
-  "Dest": "LPA",
-  "DestName": "",
-  "AirlineCode": "XR",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "XR   503"
- },
- {
   "Time": "0705",
   "Date": "31-08-2026",
   "Dest": "VIE",
@@ -71449,6 +54419,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9830"
+ },
+ {
+  "Time": "0710",
+  "Date": "31-08-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   503"
  },
  {
   "Time": "0715",
@@ -71529,16 +54509,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EW  5702"
- },
- {
-  "Time": "0730",
-  "Date": "31-08-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -74313,16 +57283,6 @@
  {
   "Time": "0830",
   "Date": "01-09-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
- },
- {
-  "Time": "0830",
-  "Date": "01-09-2026",
   "Dest": "SAW",
   "DestName": "",
   "AirlineCode": "PC",
@@ -75819,16 +58779,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9334"
- },
- {
-  "Time": "1900",
-  "Date": "01-09-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
  },
  {
   "Time": "1900",
@@ -82441,16 +65391,6 @@
   "Flight": "LH  2015"
  },
  {
-  "Time": "1330",
-  "Date": "04-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
   "Time": "1335",
   "Date": "04-09-2026",
   "Dest": "PRN",
@@ -83753,16 +66693,6 @@
  {
   "Time": "0600",
   "Date": "05-09-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "05-09-2026",
   "Dest": "FRA",
   "DestName": "",
   "AirlineCode": "LH",
@@ -83869,6 +66799,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "05-09-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
  },
  {
   "Time": "0610",
@@ -84189,16 +67129,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "05-09-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -85789,16 +68719,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "VF   030"
- },
- {
-  "Time": "2020",
-  "Date": "05-09-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
  },
  {
   "Time": "2020",
@@ -87611,6 +70531,16 @@
   "Flight": "XC   197"
  },
  {
+  "Time": "1605",
+  "Date": "06-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
   "Time": "1610",
   "Date": "06-09-2026",
   "Dest": "PMI",
@@ -88889,16 +71819,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "XQ  1349"
- },
- {
-  "Time": "0730",
-  "Date": "07-09-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -90671,16 +73591,6 @@
   "Flight": "AF  1007"
  },
  {
-  "Time": "1930",
-  "Date": "07-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   105"
- },
- {
   "Time": "1945",
   "Date": "07-09-2026",
   "Dest": "WAW",
@@ -91353,6 +74263,16 @@
  {
   "Time": "0705",
   "Date": "08-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ  5158"
+ },
+ {
+  "Time": "0705",
+  "Date": "08-09-2026",
   "Dest": "PMI",
   "DestName": "",
   "AirlineCode": "XR",
@@ -91529,16 +74449,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "5F  5686"
- },
- {
-  "Time": "0830",
-  "Date": "08-09-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
  },
  {
   "Time": "0830",
@@ -92289,16 +75199,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "08-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
  },
  {
   "Time": "1335",
@@ -93109,16 +76009,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "BA   923"
- },
- {
-  "Time": "1900",
-  "Date": "08-09-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
  },
  {
   "Time": "1900",
@@ -94689,16 +77579,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "09-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
  },
  {
   "Time": "1340",
@@ -97253,16 +80133,6 @@
  {
   "Time": "1330",
   "Date": "10-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
- },
- {
-  "Time": "1330",
-  "Date": "10-09-2026",
   "Dest": "HER",
   "DestName": "",
   "AirlineCode": "XR",
@@ -99561,16 +82431,6 @@
   "Flight": "PC  5678"
  },
  {
-  "Time": "1200",
-  "Date": "11-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   107"
- },
- {
   "Time": "1205",
   "Date": "11-09-2026",
   "Dest": "NDR",
@@ -101103,16 +83963,6 @@
  {
   "Time": "0600",
   "Date": "12-09-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "12-09-2026",
   "Dest": "FRA",
   "DestName": "",
   "AirlineCode": "LH",
@@ -101219,6 +84069,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "12-09-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
  },
  {
   "Time": "0610",
@@ -101559,16 +84419,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "12-09-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -104941,6 +87791,16 @@
   "Flight": "XC   197"
  },
  {
+  "Time": "1605",
+  "Date": "13-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
   "Time": "1610",
   "Date": "13-09-2026",
   "Dest": "PMI",
@@ -106233,16 +89093,6 @@
  {
   "Time": "0730",
   "Date": "14-09-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
- },
- {
-  "Time": "0730",
-  "Date": "14-09-2026",
   "Dest": "MUC",
   "DestName": "",
   "AirlineCode": "LH",
@@ -107099,16 +89949,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "LH  2015"
- },
- {
-  "Time": "1330",
-  "Date": "14-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   103"
  },
  {
   "Time": "1335",
@@ -108193,16 +91033,6 @@
  {
   "Time": "2050",
   "Date": "14-09-2026",
-  "Dest": "COV",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   267"
- },
- {
-  "Time": "2050",
-  "Date": "14-09-2026",
   "Dest": "ASR",
   "DestName": "",
   "AirlineCode": "XQ",
@@ -108733,6 +91563,16 @@
  {
   "Time": "0705",
   "Date": "15-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ  5158"
+ },
+ {
+  "Time": "0705",
+  "Date": "15-09-2026",
   "Dest": "PMI",
   "DestName": "",
   "AirlineCode": "XR",
@@ -108899,16 +91739,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "5F  5686"
- },
- {
-  "Time": "0830",
-  "Date": "15-09-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  202"
  },
  {
   "Time": "0830",
@@ -109461,16 +92291,6 @@
   "Flight": "EW  9500"
  },
  {
-  "Time": "1200",
-  "Date": "15-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   107"
- },
- {
   "Time": "1205",
   "Date": "15-09-2026",
   "Dest": "TFS",
@@ -109893,6 +92713,16 @@
  {
   "Time": "1500",
   "Date": "15-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1895"
+ },
+ {
+  "Time": "1500",
+  "Date": "15-09-2026",
   "Dest": "GPA",
   "DestName": "",
   "AirlineCode": "X3",
@@ -109919,16 +92749,6 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "OS   164"
- },
- {
-  "Time": "1505",
-  "Date": "15-09-2026",
-  "Dest": "BCN",
-  "DestName": "",
-  "AirlineCode": "VY",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "VY  1895"
  },
  {
   "Time": "1505",
@@ -110523,16 +93343,6 @@
  {
   "Time": "1900",
   "Date": "15-09-2026",
-  "Dest": "FDH",
-  "DestName": "",
-  "AirlineCode": "AT",
-  "Airline": "",
-  "Terminal": "B",
-  "Flight": "ATV  204"
- },
- {
-  "Time": "1900",
-  "Date": "15-09-2026",
   "Dest": "AYT",
   "DestName": "",
   "AirlineCode": "XQ",
@@ -110783,7 +93593,7 @@
  {
   "Time": "2120",
   "Date": "15-09-2026",
-  "Dest": "MXP",
+  "Dest": "PMI",
   "DestName": "",
   "AirlineCode": "AP",
   "Airline": "",
@@ -113279,16 +96089,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "PC  1592"
- },
- {
-  "Time": "2050",
-  "Date": "16-09-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   265"
  },
  {
   "Time": "2050",
@@ -115861,16 +98661,6 @@
   "Flight": "XQ  1371"
  },
  {
-  "Time": "2050",
-  "Date": "17-09-2026",
-  "Dest": "ASR",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   265"
- },
- {
   "Time": "2100",
   "Date": "17-09-2026",
   "Dest": "MXP",
@@ -115909,16 +98699,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "EK   058"
- },
- {
-  "Time": "2135",
-  "Date": "17-09-2026",
-  "Dest": "ORK",
-  "DestName": "",
-  "AirlineCode": "AP",
-  "Airline": "",
-  "Terminal": "F",
-  "Flight": "AP   981 P"
  },
  {
   "Time": "0550",
@@ -117059,16 +99839,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "PC  5678"
- },
- {
-  "Time": "1200",
-  "Date": "18-09-2026",
-  "Dest": "AYT",
-  "DestName": "",
-  "AirlineCode": "XC",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "XC   107"
  },
  {
   "Time": "1205",
@@ -118633,16 +101403,6 @@
  {
   "Time": "0600",
   "Date": "19-09-2026",
-  "Dest": "OMO",
-  "DestName": "",
-  "AirlineCode": "EW",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "EW  9920"
- },
- {
-  "Time": "0600",
-  "Date": "19-09-2026",
   "Dest": "FRA",
   "DestName": "",
   "AirlineCode": "LH",
@@ -118749,6 +101509,16 @@
   "Airline": "",
   "Terminal": "A",
   "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "19-09-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
  },
  {
   "Time": "0610",
@@ -119079,16 +101849,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "TK  1530"
- },
- {
-  "Time": "0730",
-  "Date": "19-09-2026",
-  "Dest": "DAM",
-  "DestName": "",
-  "AirlineCode": "KK",
-  "Airline": "",
-  "Terminal": "C",
-  "Flight": "KK   490"
  },
  {
   "Time": "0730",
@@ -120669,16 +103429,6 @@
   "Airline": "",
   "Terminal": "C",
   "Flight": "VF   030"
- },
- {
-  "Time": "2020",
-  "Date": "19-09-2026",
-  "Dest": "CPH",
-  "DestName": "",
-  "AirlineCode": "SK",
-  "Airline": "",
-  "Terminal": "A",
-  "Flight": "SK   628"
  },
  {
   "Time": "2020",
@@ -122481,6 +105231,16 @@
   "Flight": "XC   197"
  },
  {
+  "Time": "1605",
+  "Date": "20-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
   "Time": "1610",
   "Date": "20-09-2026",
   "Dest": "PMI",
@@ -123173,6 +105933,17416 @@
  {
   "Time": "2115",
   "Date": "20-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "0550",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "0550",
+  "Date": "21-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1614"
+ },
+ {
+  "Time": "0550",
+  "Date": "21-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0550",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0550",
+  "Date": "21-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4588"
+ },
+ {
+  "Time": "0555",
+  "Date": "21-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0600",
+  "Date": "21-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1434"
+ },
+ {
+  "Time": "0600",
+  "Date": "21-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3   116"
+ },
+ {
+  "Time": "0600",
+  "Date": "21-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2252"
+ },
+ {
+  "Time": "0600",
+  "Date": "21-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2914"
+ },
+ {
+  "Time": "0605",
+  "Date": "21-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "0605",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0610",
+  "Date": "21-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0610",
+  "Date": "21-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "0610",
+  "Date": "21-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0610",
+  "Date": "21-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   620"
+ },
+ {
+  "Time": "0615",
+  "Date": "21-09-2026",
+  "Dest": "GRZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9724"
+ },
+ {
+  "Time": "0620",
+  "Date": "21-09-2026",
+  "Dest": "KVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9684"
+ },
+ {
+  "Time": "0620",
+  "Date": "21-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0625",
+  "Date": "21-09-2026",
+  "Dest": "DRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9028"
+ },
+ {
+  "Time": "0625",
+  "Date": "21-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0625",
+  "Date": "21-09-2026",
+  "Dest": "TLL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9738"
+ },
+ {
+  "Time": "0625",
+  "Date": "21-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0635",
+  "Date": "21-09-2026",
+  "Dest": "GOT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9220"
+ },
+ {
+  "Time": "0635",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "0635",
+  "Date": "21-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9782"
+ },
+ {
+  "Time": "0640",
+  "Date": "21-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9330"
+ },
+ {
+  "Time": "0640",
+  "Date": "21-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9340"
+ },
+ {
+  "Time": "0640",
+  "Date": "21-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9712"
+ },
+ {
+  "Time": "0640",
+  "Date": "21-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0645",
+  "Date": "21-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9040"
+ },
+ {
+  "Time": "0645",
+  "Date": "21-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9840"
+ },
+ {
+  "Time": "0650",
+  "Date": "21-09-2026",
+  "Dest": "LYS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9412"
+ },
+ {
+  "Time": "0650",
+  "Date": "21-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9516"
+ },
+ {
+  "Time": "0650",
+  "Date": "21-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9654"
+ },
+ {
+  "Time": "0655",
+  "Date": "21-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "21-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9030"
+ },
+ {
+  "Time": "0655",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9082"
+ },
+ {
+  "Time": "0655",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9760"
+ },
+ {
+  "Time": "0700",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0700",
+  "Date": "21-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9242"
+ },
+ {
+  "Time": "0700",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9462"
+ },
+ {
+  "Time": "0700",
+  "Date": "21-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "0700",
+  "Date": "21-09-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   291"
+ },
+ {
+  "Time": "0705",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9750"
+ },
+ {
+  "Time": "0705",
+  "Date": "21-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6568"
+ },
+ {
+  "Time": "0710",
+  "Date": "21-09-2026",
+  "Dest": "FLR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9830"
+ },
+ {
+  "Time": "0715",
+  "Date": "21-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   406"
+ },
+ {
+  "Time": "0720",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0720",
+  "Date": "21-09-2026",
+  "Dest": "GVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9742"
+ },
+ {
+  "Time": "0720",
+  "Date": "21-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "0720",
+  "Date": "21-09-2026",
+  "Dest": "CAG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9868"
+ },
+ {
+  "Time": "0720",
+  "Date": "21-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "21-09-2026",
+  "Dest": "EDO",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1349"
+ },
+ {
+  "Time": "0730",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2035"
+ },
+ {
+  "Time": "0750",
+  "Date": "21-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0800",
+  "Date": "21-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9500"
+ },
+ {
+  "Time": "0805",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0805",
+  "Date": "21-09-2026",
+  "Dest": "GZT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1391"
+ },
+ {
+  "Time": "0810",
+  "Date": "21-09-2026",
+  "Dest": "SZF",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1351"
+ },
+ {
+  "Time": "0815",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9578"
+ },
+ {
+  "Time": "0815",
+  "Date": "21-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0825",
+  "Date": "21-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7061"
+ },
+ {
+  "Time": "0830",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2001"
+ },
+ {
+  "Time": "0830",
+  "Date": "21-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0835",
+  "Date": "21-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8041"
+ },
+ {
+  "Time": "0855",
+  "Date": "21-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1392"
+ },
+ {
+  "Time": "0855",
+  "Date": "21-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4201"
+ },
+ {
+  "Time": "0900",
+  "Date": "21-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3942"
+ },
+ {
+  "Time": "0910",
+  "Date": "21-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0910",
+  "Date": "21-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9394"
+ },
+ {
+  "Time": "0925",
+  "Date": "21-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1307"
+ },
+ {
+  "Time": "0930",
+  "Date": "21-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   361"
+ },
+ {
+  "Time": "0930",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "21-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5306"
+ },
+ {
+  "Time": "0930",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0935",
+  "Date": "21-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "0935",
+  "Date": "21-09-2026",
+  "Dest": "LGW",
+  "DestName": "",
+  "AirlineCode": "EZ",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EZY 8650"
+ },
+ {
+  "Time": "0940",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0950",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "0950",
+  "Date": "21-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1897"
+ },
+ {
+  "Time": "0955",
+  "Date": "21-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9828"
+ },
+ {
+  "Time": "0955",
+  "Date": "21-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   969"
+ },
+ {
+  "Time": "1000",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  6895"
+ },
+ {
+  "Time": "1000",
+  "Date": "21-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9510"
+ },
+ {
+  "Time": "1000",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2009"
+ },
+ {
+  "Time": "1000",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5002"
+ },
+ {
+  "Time": "1000",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1000",
+  "Date": "21-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   403"
+ },
+ {
+  "Time": "1010",
+  "Date": "21-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1010",
+  "Date": "21-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "1020",
+  "Date": "21-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "1025",
+  "Date": "21-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "21-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1030",
+  "Date": "21-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "1030",
+  "Date": "21-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9960"
+ },
+ {
+  "Time": "1030",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2007"
+ },
+ {
+  "Time": "1030",
+  "Date": "21-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1030",
+  "Date": "21-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   503"
+ },
+ {
+  "Time": "1035",
+  "Date": "21-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1040",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   919"
+ },
+ {
+  "Time": "1040",
+  "Date": "21-09-2026",
+  "Dest": "KRK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9732"
+ },
+ {
+  "Time": "1040",
+  "Date": "21-09-2026",
+  "Dest": "BLQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9834"
+ },
+ {
+  "Time": "1050",
+  "Date": "21-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   207"
+ },
+ {
+  "Time": "1050",
+  "Date": "21-09-2026",
+  "Dest": "GWT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9008"
+ },
+ {
+  "Time": "1050",
+  "Date": "21-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1055",
+  "Date": "21-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "1100",
+  "Date": "21-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1105",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1110",
+  "Date": "21-09-2026",
+  "Dest": "MRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9424"
+ },
+ {
+  "Time": "1115",
+  "Date": "21-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9084"
+ },
+ {
+  "Time": "1115",
+  "Date": "21-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1120",
+  "Date": "21-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "UD",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "UD   838"
+ },
+ {
+  "Time": "1125",
+  "Date": "21-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1125",
+  "Date": "21-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1130",
+  "Date": "21-09-2026",
+  "Dest": "NCL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9338"
+ },
+ {
+  "Time": "1130",
+  "Date": "21-09-2026",
+  "Dest": "EDI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9364"
+ },
+ {
+  "Time": "1130",
+  "Date": "21-09-2026",
+  "Dest": "LCA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9902"
+ },
+ {
+  "Time": "1135",
+  "Date": "21-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1155",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "FH",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "FH  1194"
+ },
+ {
+  "Time": "1155",
+  "Date": "21-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1215",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9580"
+ },
+ {
+  "Time": "1225",
+  "Date": "21-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1230",
+  "Date": "21-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1428"
+ },
+ {
+  "Time": "1230",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9582"
+ },
+ {
+  "Time": "1240",
+  "Date": "21-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2013"
+ },
+ {
+  "Time": "1240",
+  "Date": "21-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2114"
+ },
+ {
+  "Time": "1245",
+  "Date": "21-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9600"
+ },
+ {
+  "Time": "1250",
+  "Date": "21-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1250",
+  "Date": "21-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2116"
+ },
+ {
+  "Time": "1300",
+  "Date": "21-09-2026",
+  "Dest": "LCA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE  1684"
+ },
+ {
+  "Time": "1300",
+  "Date": "21-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9672"
+ },
+ {
+  "Time": "1300",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9752"
+ },
+ {
+  "Time": "1310",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9588"
+ },
+ {
+  "Time": "1310",
+  "Date": "21-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1315",
+  "Date": "21-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   541"
+ },
+ {
+  "Time": "1320",
+  "Date": "21-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9734"
+ },
+ {
+  "Time": "1330",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1335",
+  "Date": "21-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1340",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9460"
+ },
+ {
+  "Time": "1345",
+  "Date": "21-09-2026",
+  "Dest": "SUF",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1142"
+ },
+ {
+  "Time": "1345",
+  "Date": "21-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1345",
+  "Date": "21-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   817"
+ },
+ {
+  "Time": "1350",
+  "Date": "21-09-2026",
+  "Dest": "AGA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   138"
+ },
+ {
+  "Time": "1350",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9762"
+ },
+ {
+  "Time": "1355",
+  "Date": "21-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9420"
+ },
+ {
+  "Time": "1400",
+  "Date": "21-09-2026",
+  "Dest": "SMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1756"
+ },
+ {
+  "Time": "1400",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "1405",
+  "Date": "21-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9342"
+ },
+ {
+  "Time": "1405",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9590"
+ },
+ {
+  "Time": "1410",
+  "Date": "21-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9630"
+ },
+ {
+  "Time": "1415",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   921"
+ },
+ {
+  "Time": "1415",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9086"
+ },
+ {
+  "Time": "1420",
+  "Date": "21-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9670"
+ },
+ {
+  "Time": "1425",
+  "Date": "21-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9442"
+ },
+ {
+  "Time": "1430",
+  "Date": "21-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9822"
+ },
+ {
+  "Time": "1430",
+  "Date": "21-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1435",
+  "Date": "21-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1507"
+ },
+ {
+  "Time": "1440",
+  "Date": "21-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9332"
+ },
+ {
+  "Time": "1440",
+  "Date": "21-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "1450",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1455",
+  "Date": "21-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1500",
+  "Date": "21-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "1500",
+  "Date": "21-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4572"
+ },
+ {
+  "Time": "1505",
+  "Date": "21-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4675"
+ },
+ {
+  "Time": "1505",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "21-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "21-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1510",
+  "Date": "21-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1895"
+ },
+ {
+  "Time": "1510",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1510",
+  "Date": "21-09-2026",
+  "Dest": "BJV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3181"
+ },
+ {
+  "Time": "1520",
+  "Date": "21-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "21-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1525",
+  "Date": "21-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  5518"
+ },
+ {
+  "Time": "1525",
+  "Date": "21-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9644"
+ },
+ {
+  "Time": "1525",
+  "Date": "21-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   086"
+ },
+ {
+  "Time": "1530",
+  "Date": "21-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1530",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2017"
+ },
+ {
+  "Time": "1530",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "1535",
+  "Date": "21-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9530"
+ },
+ {
+  "Time": "1540",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1545",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1550",
+  "Date": "21-09-2026",
+  "Dest": "RMF",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2983"
+ },
+ {
+  "Time": "1555",
+  "Date": "21-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2981"
+ },
+ {
+  "Time": "1600",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1600",
+  "Date": "21-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   197"
+ },
+ {
+  "Time": "1605",
+  "Date": "21-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9502"
+ },
+ {
+  "Time": "1605",
+  "Date": "21-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
+  "Time": "1620",
+  "Date": "21-09-2026",
+  "Dest": "OTP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9792"
+ },
+ {
+  "Time": "1620",
+  "Date": "21-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1635",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1645",
+  "Date": "21-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1407"
+ },
+ {
+  "Time": "1645",
+  "Date": "21-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "21-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9046"
+ },
+ {
+  "Time": "1650",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9754"
+ },
+ {
+  "Time": "1655",
+  "Date": "21-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "1655",
+  "Date": "21-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9444"
+ },
+ {
+  "Time": "1700",
+  "Date": "21-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9886"
+ },
+ {
+  "Time": "1705",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5012"
+ },
+ {
+  "Time": "1710",
+  "Date": "21-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1720",
+  "Date": "21-09-2026",
+  "Dest": "BZO",
+  "DestName": "",
+  "AirlineCode": "BQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BQ  1953"
+ },
+ {
+  "Time": "1735",
+  "Date": "21-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9518"
+ },
+ {
+  "Time": "1740",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9756"
+ },
+ {
+  "Time": "1740",
+  "Date": "21-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9784"
+ },
+ {
+  "Time": "1740",
+  "Date": "21-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "1755",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9764"
+ },
+ {
+  "Time": "1755",
+  "Date": "21-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1755",
+  "Date": "21-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "1800",
+  "Date": "21-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9048"
+ },
+ {
+  "Time": "1800",
+  "Date": "21-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "TU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TU   527"
+ },
+ {
+  "Time": "1815",
+  "Date": "21-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1825",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9468"
+ },
+ {
+  "Time": "1825",
+  "Date": "21-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9846"
+ },
+ {
+  "Time": "1830",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2021"
+ },
+ {
+  "Time": "1830",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   166"
+ },
+ {
+  "Time": "1835",
+  "Date": "21-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   923"
+ },
+ {
+  "Time": "1835",
+  "Date": "21-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9038"
+ },
+ {
+  "Time": "1835",
+  "Date": "21-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9344"
+ },
+ {
+  "Time": "1840",
+  "Date": "21-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ  2023"
+ },
+ {
+  "Time": "1840",
+  "Date": "21-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9774"
+ },
+ {
+  "Time": "1840",
+  "Date": "21-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL   077"
+ },
+ {
+  "Time": "1845",
+  "Date": "21-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1396"
+ },
+ {
+  "Time": "1845",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9088"
+ },
+ {
+  "Time": "1845",
+  "Date": "21-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9244"
+ },
+ {
+  "Time": "1845",
+  "Date": "21-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1850",
+  "Date": "21-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9334"
+ },
+ {
+  "Time": "1900",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1915",
+  "Date": "21-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1920",
+  "Date": "21-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   628"
+ },
+ {
+  "Time": "1925",
+  "Date": "21-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1007"
+ },
+ {
+  "Time": "1945",
+  "Date": "21-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "21-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1324"
+ },
+ {
+  "Time": "1955",
+  "Date": "21-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1027"
+ },
+ {
+  "Time": "1955",
+  "Date": "21-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   281"
+ },
+ {
+  "Time": "2000",
+  "Date": "21-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2000",
+  "Date": "21-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1899"
+ },
+ {
+  "Time": "2005",
+  "Date": "21-09-2026",
+  "Dest": "RIX",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   234"
+ },
+ {
+  "Time": "2005",
+  "Date": "21-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8223"
+ },
+ {
+  "Time": "2005",
+  "Date": "21-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2020",
+  "Date": "21-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "21-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4677"
+ },
+ {
+  "Time": "2030",
+  "Date": "21-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2027"
+ },
+ {
+  "Time": "2030",
+  "Date": "21-09-2026",
+  "Dest": "DIY",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1361"
+ },
+ {
+  "Time": "2035",
+  "Date": "21-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1620"
+ },
+ {
+  "Time": "2040",
+  "Date": "21-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   543"
+ },
+ {
+  "Time": "2050",
+  "Date": "21-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1321"
+ },
+ {
+  "Time": "2100",
+  "Date": "21-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3944"
+ },
+ {
+  "Time": "2105",
+  "Date": "21-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "DY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DY  1151"
+ },
+ {
+  "Time": "2105",
+  "Date": "21-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   699"
+ },
+ {
+  "Time": "2115",
+  "Date": "21-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "2120",
+  "Date": "21-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4339"
+ },
+ {
+  "Time": "2130",
+  "Date": "21-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9898"
+ },
+ {
+  "Time": "0550",
+  "Date": "22-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "22-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1620"
+ },
+ {
+  "Time": "0550",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0550",
+  "Date": "22-09-2026",
+  "Dest": "PVK",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1780"
+ },
+ {
+  "Time": "0550",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0550",
+  "Date": "22-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4588"
+ },
+ {
+  "Time": "0555",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "0600",
+  "Date": "22-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0600",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0600",
+  "Date": "22-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0600",
+  "Date": "22-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4428"
+ },
+ {
+  "Time": "0605",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0605",
+  "Date": "22-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "0610",
+  "Date": "22-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "22-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9958"
+ },
+ {
+  "Time": "0610",
+  "Date": "22-09-2026",
+  "Dest": "TLV",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9974"
+ },
+ {
+  "Time": "0610",
+  "Date": "22-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   620"
+ },
+ {
+  "Time": "0610",
+  "Date": "22-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "0615",
+  "Date": "22-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   868"
+ },
+ {
+  "Time": "0620",
+  "Date": "22-09-2026",
+  "Dest": "OTP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9792"
+ },
+ {
+  "Time": "0620",
+  "Date": "22-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0625",
+  "Date": "22-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0625",
+  "Date": "22-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9642"
+ },
+ {
+  "Time": "0625",
+  "Date": "22-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0630",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "0630",
+  "Date": "22-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9654"
+ },
+ {
+  "Time": "0635",
+  "Date": "22-09-2026",
+  "Dest": "SMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9638"
+ },
+ {
+  "Time": "0635",
+  "Date": "22-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9782"
+ },
+ {
+  "Time": "0640",
+  "Date": "22-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9330"
+ },
+ {
+  "Time": "0640",
+  "Date": "22-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9340"
+ },
+ {
+  "Time": "0640",
+  "Date": "22-09-2026",
+  "Dest": "PVK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9664"
+ },
+ {
+  "Time": "0640",
+  "Date": "22-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9712"
+ },
+ {
+  "Time": "0645",
+  "Date": "22-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  5702"
+ },
+ {
+  "Time": "0645",
+  "Date": "22-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9840"
+ },
+ {
+  "Time": "0650",
+  "Date": "22-09-2026",
+  "Dest": "DRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9028"
+ },
+ {
+  "Time": "0650",
+  "Date": "22-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9040"
+ },
+ {
+  "Time": "0650",
+  "Date": "22-09-2026",
+  "Dest": "LYS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9412"
+ },
+ {
+  "Time": "0650",
+  "Date": "22-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "0655",
+  "Date": "22-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9760"
+ },
+ {
+  "Time": "0700",
+  "Date": "22-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9030"
+ },
+ {
+  "Time": "0700",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9082"
+ },
+ {
+  "Time": "0700",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9462"
+ },
+ {
+  "Time": "0700",
+  "Date": "22-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9680"
+ },
+ {
+  "Time": "0705",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9750"
+ },
+ {
+  "Time": "0705",
+  "Date": "22-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ  5158"
+ },
+ {
+  "Time": "0705",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "0710",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0710",
+  "Date": "22-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9242"
+ },
+ {
+  "Time": "0715",
+  "Date": "22-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   406"
+ },
+ {
+  "Time": "0720",
+  "Date": "22-09-2026",
+  "Dest": "BRI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9872"
+ },
+ {
+  "Time": "0720",
+  "Date": "22-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "22-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "0725",
+  "Date": "22-09-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1329"
+ },
+ {
+  "Time": "0730",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2035"
+ },
+ {
+  "Time": "0730",
+  "Date": "22-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6122"
+ },
+ {
+  "Time": "0755",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0800",
+  "Date": "22-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0805",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0810",
+  "Date": "22-09-2026",
+  "Dest": "GRZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9724"
+ },
+ {
+  "Time": "0815",
+  "Date": "22-09-2026",
+  "Dest": "TIA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9916"
+ },
+ {
+  "Time": "0815",
+  "Date": "22-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0815",
+  "Date": "22-09-2026",
+  "Dest": "EZS",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1335"
+ },
+ {
+  "Time": "0820",
+  "Date": "22-09-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "5F",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "5F  5686"
+ },
+ {
+  "Time": "0830",
+  "Date": "22-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0850",
+  "Date": "22-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3942"
+ },
+ {
+  "Time": "0850",
+  "Date": "22-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7061"
+ },
+ {
+  "Time": "0855",
+  "Date": "22-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1392"
+ },
+ {
+  "Time": "0855",
+  "Date": "22-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8041"
+ },
+ {
+  "Time": "0900",
+  "Date": "22-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4201"
+ },
+ {
+  "Time": "0910",
+  "Date": "22-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0910",
+  "Date": "22-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9510"
+ },
+ {
+  "Time": "0920",
+  "Date": "22-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   088"
+ },
+ {
+  "Time": "0925",
+  "Date": "22-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1307"
+ },
+ {
+  "Time": "0930",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0935",
+  "Date": "22-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "0940",
+  "Date": "22-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "0940",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0945",
+  "Date": "22-09-2026",
+  "Dest": "JFK",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "DE  3784"
+ },
+ {
+  "Time": "0950",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "0950",
+  "Date": "22-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1897"
+ },
+ {
+  "Time": "1000",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5002"
+ },
+ {
+  "Time": "1000",
+  "Date": "22-09-2026",
+  "Dest": "GZP",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   243"
+ },
+ {
+  "Time": "1000",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1000",
+  "Date": "22-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
+  "Time": "1005",
+  "Date": "22-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9042"
+ },
+ {
+  "Time": "1010",
+  "Date": "22-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1010",
+  "Date": "22-09-2026",
+  "Dest": "RMF",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6642"
+ },
+ {
+  "Time": "1015",
+  "Date": "22-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9394"
+ },
+ {
+  "Time": "1015",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2007"
+ },
+ {
+  "Time": "1025",
+  "Date": "22-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "22-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "1025",
+  "Date": "22-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1030",
+  "Date": "22-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1035",
+  "Date": "22-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9420"
+ },
+ {
+  "Time": "1040",
+  "Date": "22-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1045",
+  "Date": "22-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1050",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   919"
+ },
+ {
+  "Time": "1050",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9578"
+ },
+ {
+  "Time": "1100",
+  "Date": "22-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1100",
+  "Date": "22-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1105",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1105",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9580"
+ },
+ {
+  "Time": "1115",
+  "Date": "22-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9084"
+ },
+ {
+  "Time": "1115",
+  "Date": "22-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "1115",
+  "Date": "22-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1125",
+  "Date": "22-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1125",
+  "Date": "22-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   417"
+ },
+ {
+  "Time": "1130",
+  "Date": "22-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "UD",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "UD   438"
+ },
+ {
+  "Time": "1135",
+  "Date": "22-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1135",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9582"
+ },
+ {
+  "Time": "1135",
+  "Date": "22-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   591"
+ },
+ {
+  "Time": "1145",
+  "Date": "22-09-2026",
+  "Dest": "EDI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9364"
+ },
+ {
+  "Time": "1150",
+  "Date": "22-09-2026",
+  "Dest": "KLX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9668"
+ },
+ {
+  "Time": "1155",
+  "Date": "22-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1200",
+  "Date": "22-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9500"
+ },
+ {
+  "Time": "1205",
+  "Date": "22-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9558"
+ },
+ {
+  "Time": "1210",
+  "Date": "22-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1220",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9584"
+ },
+ {
+  "Time": "1225",
+  "Date": "22-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1230",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "4M",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "4M   212"
+ },
+ {
+  "Time": "1230",
+  "Date": "22-09-2026",
+  "Dest": "BZO",
+  "DestName": "",
+  "AirlineCode": "BQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BQ  1953"
+ },
+ {
+  "Time": "1230",
+  "Date": "22-09-2026",
+  "Dest": "ACE",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1420"
+ },
+ {
+  "Time": "1230",
+  "Date": "22-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1456"
+ },
+ {
+  "Time": "1235",
+  "Date": "22-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2118"
+ },
+ {
+  "Time": "1240",
+  "Date": "22-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2013"
+ },
+ {
+  "Time": "1250",
+  "Date": "22-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1255",
+  "Date": "22-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "1300",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9752"
+ },
+ {
+  "Time": "1305",
+  "Date": "22-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9518"
+ },
+ {
+  "Time": "1310",
+  "Date": "22-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1315",
+  "Date": "22-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   541"
+ },
+ {
+  "Time": "1320",
+  "Date": "22-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9676"
+ },
+ {
+  "Time": "1320",
+  "Date": "22-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2852"
+ },
+ {
+  "Time": "1330",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1335",
+  "Date": "22-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1340",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9460"
+ },
+ {
+  "Time": "1345",
+  "Date": "22-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1345",
+  "Date": "22-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   817"
+ },
+ {
+  "Time": "1350",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9762"
+ },
+ {
+  "Time": "1400",
+  "Date": "22-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   403"
+ },
+ {
+  "Time": "1405",
+  "Date": "22-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9630"
+ },
+ {
+  "Time": "1410",
+  "Date": "22-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1556"
+ },
+ {
+  "Time": "1410",
+  "Date": "22-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9670"
+ },
+ {
+  "Time": "1415",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9086"
+ },
+ {
+  "Time": "1420",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9590"
+ },
+ {
+  "Time": "1430",
+  "Date": "22-09-2026",
+  "Dest": "AOK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9678"
+ },
+ {
+  "Time": "1430",
+  "Date": "22-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9822"
+ },
+ {
+  "Time": "1430",
+  "Date": "22-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1435",
+  "Date": "22-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1507"
+ },
+ {
+  "Time": "1435",
+  "Date": "22-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1622"
+ },
+ {
+  "Time": "1440",
+  "Date": "22-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9332"
+ },
+ {
+  "Time": "1445",
+  "Date": "22-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9532"
+ },
+ {
+  "Time": "1450",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1450",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1455",
+  "Date": "22-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1500",
+  "Date": "22-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9046"
+ },
+ {
+  "Time": "1500",
+  "Date": "22-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1895"
+ },
+ {
+  "Time": "1500",
+  "Date": "22-09-2026",
+  "Dest": "GPA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4762"
+ },
+ {
+  "Time": "1505",
+  "Date": "22-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "1505",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "22-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "22-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1510",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1515",
+  "Date": "22-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "MS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MS   734"
+ },
+ {
+  "Time": "1520",
+  "Date": "22-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9570"
+ },
+ {
+  "Time": "1520",
+  "Date": "22-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "22-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1525",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   507"
+ },
+ {
+  "Time": "1530",
+  "Date": "22-09-2026",
+  "Dest": "MLA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9690"
+ },
+ {
+  "Time": "1535",
+  "Date": "22-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1535",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1535",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "1545",
+  "Date": "22-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   439"
+ },
+ {
+  "Time": "1555",
+  "Date": "22-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   215"
+ },
+ {
+  "Time": "1600",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1600",
+  "Date": "22-09-2026",
+  "Dest": "LGW",
+  "DestName": "",
+  "AirlineCode": "EZ",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EZY 8650"
+ },
+ {
+  "Time": "1605",
+  "Date": "22-09-2026",
+  "Dest": "SUF",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9852"
+ },
+ {
+  "Time": "1605",
+  "Date": "22-09-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "H7",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "H7   404"
+ },
+ {
+  "Time": "1615",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   921"
+ },
+ {
+  "Time": "1615",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2017"
+ },
+ {
+  "Time": "1620",
+  "Date": "22-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9734"
+ },
+ {
+  "Time": "1620",
+  "Date": "22-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1640",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1645",
+  "Date": "22-09-2026",
+  "Dest": "BDS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9854"
+ },
+ {
+  "Time": "1645",
+  "Date": "22-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "22-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "1650",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9754"
+ },
+ {
+  "Time": "1650",
+  "Date": "22-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2981"
+ },
+ {
+  "Time": "1655",
+  "Date": "22-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9444"
+ },
+ {
+  "Time": "1705",
+  "Date": "22-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "1710",
+  "Date": "22-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1720",
+  "Date": "22-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9886"
+ },
+ {
+  "Time": "1720",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2019"
+ },
+ {
+  "Time": "1740",
+  "Date": "22-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "1740",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9756"
+ },
+ {
+  "Time": "1740",
+  "Date": "22-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "1745",
+  "Date": "22-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9784"
+ },
+ {
+  "Time": "1750",
+  "Date": "22-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9048"
+ },
+ {
+  "Time": "1755",
+  "Date": "22-09-2026",
+  "Dest": "GOT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9220"
+ },
+ {
+  "Time": "1755",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9764"
+ },
+ {
+  "Time": "1805",
+  "Date": "22-09-2026",
+  "Dest": "BLQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9834"
+ },
+ {
+  "Time": "1815",
+  "Date": "22-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1820",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5012"
+ },
+ {
+  "Time": "1825",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9468"
+ },
+ {
+  "Time": "1825",
+  "Date": "22-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9846"
+ },
+ {
+  "Time": "1830",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2021"
+ },
+ {
+  "Time": "1830",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   166"
+ },
+ {
+  "Time": "1835",
+  "Date": "22-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9344"
+ },
+ {
+  "Time": "1840",
+  "Date": "22-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4205"
+ },
+ {
+  "Time": "1840",
+  "Date": "22-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL   077"
+ },
+ {
+  "Time": "1845",
+  "Date": "22-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1396"
+ },
+ {
+  "Time": "1845",
+  "Date": "22-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9038"
+ },
+ {
+  "Time": "1845",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9088"
+ },
+ {
+  "Time": "1845",
+  "Date": "22-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1845",
+  "Date": "22-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1850",
+  "Date": "22-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9334"
+ },
+ {
+  "Time": "1850",
+  "Date": "22-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9716"
+ },
+ {
+  "Time": "1855",
+  "Date": "22-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   923"
+ },
+ {
+  "Time": "1900",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1910",
+  "Date": "22-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ  2345"
+ },
+ {
+  "Time": "1915",
+  "Date": "22-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "1920",
+  "Date": "22-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   628"
+ },
+ {
+  "Time": "1920",
+  "Date": "22-09-2026",
+  "Dest": "BJV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3181"
+ },
+ {
+  "Time": "1925",
+  "Date": "22-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1007"
+ },
+ {
+  "Time": "1930",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2023"
+ },
+ {
+  "Time": "1945",
+  "Date": "22-09-2026",
+  "Dest": "BEN",
+  "DestName": "",
+  "AirlineCode": "BM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BM   563"
+ },
+ {
+  "Time": "1945",
+  "Date": "22-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "22-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB   756"
+ },
+ {
+  "Time": "1955",
+  "Date": "22-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1027"
+ },
+ {
+  "Time": "1955",
+  "Date": "22-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   281"
+ },
+ {
+  "Time": "2000",
+  "Date": "22-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2005",
+  "Date": "22-09-2026",
+  "Dest": "RIX",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   234"
+ },
+ {
+  "Time": "2005",
+  "Date": "22-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2020",
+  "Date": "22-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "22-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4677"
+ },
+ {
+  "Time": "2025",
+  "Date": "22-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   363"
+ },
+ {
+  "Time": "2030",
+  "Date": "22-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2027"
+ },
+ {
+  "Time": "2035",
+  "Date": "22-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1688"
+ },
+ {
+  "Time": "2040",
+  "Date": "22-09-2026",
+  "Dest": "COV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1371"
+ },
+ {
+  "Time": "2040",
+  "Date": "22-09-2026",
+  "Dest": "HTY",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1425"
+ },
+ {
+  "Time": "2100",
+  "Date": "22-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3944"
+ },
+ {
+  "Time": "2100",
+  "Date": "22-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1899"
+ },
+ {
+  "Time": "2115",
+  "Date": "22-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "0550",
+  "Date": "23-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1614"
+ },
+ {
+  "Time": "0550",
+  "Date": "23-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0550",
+  "Date": "23-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2814"
+ },
+ {
+  "Time": "0550",
+  "Date": "23-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "0555",
+  "Date": "23-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0555",
+  "Date": "23-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1794"
+ },
+ {
+  "Time": "0600",
+  "Date": "23-09-2026",
+  "Dest": "LOS",
+  "DestName": "",
+  "AirlineCode": "EV",
+  "Airline": "",
+  "Terminal": "F",
+  "Flight": "EVE  635"
+ },
+ {
+  "Time": "0600",
+  "Date": "23-09-2026",
+  "Dest": "OTP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9792"
+ },
+ {
+  "Time": "0600",
+  "Date": "23-09-2026",
+  "Dest": "ACE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2292"
+ },
+ {
+  "Time": "0600",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0605",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0605",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0605",
+  "Date": "23-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   405"
+ },
+ {
+  "Time": "0610",
+  "Date": "23-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4201"
+ },
+ {
+  "Time": "0610",
+  "Date": "23-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "23-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9988"
+ },
+ {
+  "Time": "0610",
+  "Date": "23-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0610",
+  "Date": "23-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   620"
+ },
+ {
+  "Time": "0615",
+  "Date": "23-09-2026",
+  "Dest": "SPC",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1426"
+ },
+ {
+  "Time": "0620",
+  "Date": "23-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1428"
+ },
+ {
+  "Time": "0620",
+  "Date": "23-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "0620",
+  "Date": "23-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0620",
+  "Date": "23-09-2026",
+  "Dest": "SID",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  7102"
+ },
+ {
+  "Time": "0625",
+  "Date": "23-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0630",
+  "Date": "23-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9654"
+ },
+ {
+  "Time": "0630",
+  "Date": "23-09-2026",
+  "Dest": "CAG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9868"
+ },
+ {
+  "Time": "0635",
+  "Date": "23-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9420"
+ },
+ {
+  "Time": "0635",
+  "Date": "23-09-2026",
+  "Dest": "BIA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9432"
+ },
+ {
+  "Time": "0635",
+  "Date": "23-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9680"
+ },
+ {
+  "Time": "0640",
+  "Date": "23-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9330"
+ },
+ {
+  "Time": "0640",
+  "Date": "23-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9340"
+ },
+ {
+  "Time": "0640",
+  "Date": "23-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9570"
+ },
+ {
+  "Time": "0645",
+  "Date": "23-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "0645",
+  "Date": "23-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9840"
+ },
+ {
+  "Time": "0650",
+  "Date": "23-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9030"
+ },
+ {
+  "Time": "0650",
+  "Date": "23-09-2026",
+  "Dest": "SMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9638"
+ },
+ {
+  "Time": "0650",
+  "Date": "23-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0655",
+  "Date": "23-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "23-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "0655",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9760"
+ },
+ {
+  "Time": "0655",
+  "Date": "23-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "0700",
+  "Date": "23-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4335"
+ },
+ {
+  "Time": "0700",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9082"
+ },
+ {
+  "Time": "0700",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9462"
+ },
+ {
+  "Time": "0700",
+  "Date": "23-09-2026",
+  "Dest": "JMK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9660"
+ },
+ {
+  "Time": "0705",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9750"
+ },
+ {
+  "Time": "0710",
+  "Date": "23-09-2026",
+  "Dest": "GWT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9008"
+ },
+ {
+  "Time": "0710",
+  "Date": "23-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9242"
+ },
+ {
+  "Time": "0710",
+  "Date": "23-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0715",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0715",
+  "Date": "23-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   406"
+ },
+ {
+  "Time": "0720",
+  "Date": "23-09-2026",
+  "Dest": "BOJ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9910"
+ },
+ {
+  "Time": "0720",
+  "Date": "23-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "23-09-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1329"
+ },
+ {
+  "Time": "0730",
+  "Date": "23-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0730",
+  "Date": "23-09-2026",
+  "Dest": "DAM",
+  "DestName": "",
+  "AirlineCode": "KK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "KK   490"
+ },
+ {
+  "Time": "0730",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2035"
+ },
+ {
+  "Time": "0735",
+  "Date": "23-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "0750",
+  "Date": "23-09-2026",
+  "Dest": "TZX",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1341"
+ },
+ {
+  "Time": "0805",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0810",
+  "Date": "23-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9542"
+ },
+ {
+  "Time": "0815",
+  "Date": "23-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0825",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0830",
+  "Date": "23-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  3785 F"
+ },
+ {
+  "Time": "0830",
+  "Date": "23-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0840",
+  "Date": "23-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9040"
+ },
+ {
+  "Time": "0845",
+  "Date": "23-09-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "5F",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "5F  5686"
+ },
+ {
+  "Time": "0855",
+  "Date": "23-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1392"
+ },
+ {
+  "Time": "0900",
+  "Date": "23-09-2026",
+  "Dest": "SSH",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6752"
+ },
+ {
+  "Time": "0910",
+  "Date": "23-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0925",
+  "Date": "23-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1307"
+ },
+ {
+  "Time": "0925",
+  "Date": "23-09-2026",
+  "Dest": "OGU",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1331"
+ },
+ {
+  "Time": "0930",
+  "Date": "23-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   361"
+ },
+ {
+  "Time": "0930",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0935",
+  "Date": "23-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "0940",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0945",
+  "Date": "23-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5306"
+ },
+ {
+  "Time": "0950",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9574"
+ },
+ {
+  "Time": "0950",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "0955",
+  "Date": "23-09-2026",
+  "Dest": "MLA",
+  "DestName": "",
+  "AirlineCode": "KM",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KM   353"
+ },
+ {
+  "Time": "0955",
+  "Date": "23-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   969"
+ },
+ {
+  "Time": "1000",
+  "Date": "23-09-2026",
+  "Dest": "ZAD",
+  "DestName": "",
+  "AirlineCode": "CA",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "CAT  512"
+ },
+ {
+  "Time": "1000",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5002"
+ },
+ {
+  "Time": "1000",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1000",
+  "Date": "23-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "1000",
+  "Date": "23-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   505"
+ },
+ {
+  "Time": "1005",
+  "Date": "23-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "DY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DY  1151"
+ },
+ {
+  "Time": "1005",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2007"
+ },
+ {
+  "Time": "1010",
+  "Date": "23-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1025",
+  "Date": "23-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "23-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1030",
+  "Date": "23-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9500"
+ },
+ {
+  "Time": "1030",
+  "Date": "23-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1040",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   919"
+ },
+ {
+  "Time": "1040",
+  "Date": "23-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9042"
+ },
+ {
+  "Time": "1040",
+  "Date": "23-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9670"
+ },
+ {
+  "Time": "1040",
+  "Date": "23-09-2026",
+  "Dest": "TIA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9916"
+ },
+ {
+  "Time": "1040",
+  "Date": "23-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1040",
+  "Date": "23-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1045",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "1100",
+  "Date": "23-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "1100",
+  "Date": "23-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1105",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1115",
+  "Date": "23-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9084"
+ },
+ {
+  "Time": "1115",
+  "Date": "23-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1125",
+  "Date": "23-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1125",
+  "Date": "23-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1130",
+  "Date": "23-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "UD",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "UD  4438"
+ },
+ {
+  "Time": "1135",
+  "Date": "23-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1140",
+  "Date": "23-09-2026",
+  "Dest": "KRK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9732"
+ },
+ {
+  "Time": "1150",
+  "Date": "23-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9530"
+ },
+ {
+  "Time": "1155",
+  "Date": "23-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9442"
+ },
+ {
+  "Time": "1155",
+  "Date": "23-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1205",
+  "Date": "23-09-2026",
+  "Dest": "NDR",
+  "DestName": "",
+  "AirlineCode": "AT",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "AT   697"
+ },
+ {
+  "Time": "1220",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "1225",
+  "Date": "23-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1230",
+  "Date": "23-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1434"
+ },
+ {
+  "Time": "1230",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9582"
+ },
+ {
+  "Time": "1230",
+  "Date": "23-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9980"
+ },
+ {
+  "Time": "1240",
+  "Date": "23-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9584"
+ },
+ {
+  "Time": "1245",
+  "Date": "23-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1250",
+  "Date": "23-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1250",
+  "Date": "23-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2116"
+ },
+ {
+  "Time": "1255",
+  "Date": "23-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   215"
+ },
+ {
+  "Time": "1300",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9752"
+ },
+ {
+  "Time": "1305",
+  "Date": "23-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9518"
+ },
+ {
+  "Time": "1315",
+  "Date": "23-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   541"
+ },
+ {
+  "Time": "1330",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1340",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9460"
+ },
+ {
+  "Time": "1345",
+  "Date": "23-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1345",
+  "Date": "23-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1345",
+  "Date": "23-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   817"
+ },
+ {
+  "Time": "1350",
+  "Date": "23-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9510"
+ },
+ {
+  "Time": "1350",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9762"
+ },
+ {
+  "Time": "1350",
+  "Date": "23-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1405",
+  "Date": "23-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9342"
+ },
+ {
+  "Time": "1405",
+  "Date": "23-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9630"
+ },
+ {
+  "Time": "1415",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9086"
+ },
+ {
+  "Time": "1415",
+  "Date": "23-09-2026",
+  "Dest": "GVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9748"
+ },
+ {
+  "Time": "1415",
+  "Date": "23-09-2026",
+  "Dest": "ASW",
+  "DestName": "",
+  "AirlineCode": "MI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MI  4751"
+ },
+ {
+  "Time": "1425",
+  "Date": "23-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   417"
+ },
+ {
+  "Time": "1430",
+  "Date": "23-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9822"
+ },
+ {
+  "Time": "1430",
+  "Date": "23-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1430",
+  "Date": "23-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4588"
+ },
+ {
+  "Time": "1435",
+  "Date": "23-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1507"
+ },
+ {
+  "Time": "1435",
+  "Date": "23-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1622"
+ },
+ {
+  "Time": "1445",
+  "Date": "23-09-2026",
+  "Dest": "MAH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9504"
+ },
+ {
+  "Time": "1450",
+  "Date": "23-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9502"
+ },
+ {
+  "Time": "1450",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9590"
+ },
+ {
+  "Time": "1450",
+  "Date": "23-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9642"
+ },
+ {
+  "Time": "1450",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1455",
+  "Date": "23-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9046"
+ },
+ {
+  "Time": "1455",
+  "Date": "23-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1500",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9588"
+ },
+ {
+  "Time": "1500",
+  "Date": "23-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4572"
+ },
+ {
+  "Time": "1505",
+  "Date": "23-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4675"
+ },
+ {
+  "Time": "1505",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "23-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "23-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1895"
+ },
+ {
+  "Time": "1510",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1520",
+  "Date": "23-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1520",
+  "Date": "23-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "23-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1525",
+  "Date": "23-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   086"
+ },
+ {
+  "Time": "1530",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1530",
+  "Date": "23-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1530",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2017"
+ },
+ {
+  "Time": "1530",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "1540",
+  "Date": "23-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "1545",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1600",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1600",
+  "Date": "23-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   197"
+ },
+ {
+  "Time": "1605",
+  "Date": "23-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9036"
+ },
+ {
+  "Time": "1605",
+  "Date": "23-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
+  "Time": "1620",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1620",
+  "Date": "23-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9734"
+ },
+ {
+  "Time": "1620",
+  "Date": "23-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1630",
+  "Date": "23-09-2026",
+  "Dest": "VAR",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  5354"
+ },
+ {
+  "Time": "1645",
+  "Date": "23-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1407"
+ },
+ {
+  "Time": "1645",
+  "Date": "23-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9958"
+ },
+ {
+  "Time": "1645",
+  "Date": "23-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "23-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8045"
+ },
+ {
+  "Time": "1650",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9754"
+ },
+ {
+  "Time": "1650",
+  "Date": "23-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2981"
+ },
+ {
+  "Time": "1655",
+  "Date": "23-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9444"
+ },
+ {
+  "Time": "1700",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "1705",
+  "Date": "23-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7067"
+ },
+ {
+  "Time": "1705",
+  "Date": "23-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9886"
+ },
+ {
+  "Time": "1710",
+  "Date": "23-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1720",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2019"
+ },
+ {
+  "Time": "1725",
+  "Date": "23-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "1735",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5012"
+ },
+ {
+  "Time": "1740",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9756"
+ },
+ {
+  "Time": "1740",
+  "Date": "23-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9784"
+ },
+ {
+  "Time": "1750",
+  "Date": "23-09-2026",
+  "Dest": "BLQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9834"
+ },
+ {
+  "Time": "1750",
+  "Date": "23-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "1755",
+  "Date": "23-09-2026",
+  "Dest": "GOT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9222"
+ },
+ {
+  "Time": "1755",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9764"
+ },
+ {
+  "Time": "1755",
+  "Date": "23-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1800",
+  "Date": "23-09-2026",
+  "Dest": "RJK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9962"
+ },
+ {
+  "Time": "1800",
+  "Date": "23-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "TU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TU   527"
+ },
+ {
+  "Time": "1815",
+  "Date": "23-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1825",
+  "Date": "23-09-2026",
+  "Dest": "DRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9022"
+ },
+ {
+  "Time": "1825",
+  "Date": "23-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9038"
+ },
+ {
+  "Time": "1825",
+  "Date": "23-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9344"
+ },
+ {
+  "Time": "1825",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9468"
+ },
+ {
+  "Time": "1825",
+  "Date": "23-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9846"
+ },
+ {
+  "Time": "1830",
+  "Date": "23-09-2026",
+  "Dest": "LYS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9416"
+ },
+ {
+  "Time": "1830",
+  "Date": "23-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   077"
+ },
+ {
+  "Time": "1830",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2021"
+ },
+ {
+  "Time": "1830",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   166"
+ },
+ {
+  "Time": "1835",
+  "Date": "23-09-2026",
+  "Dest": "GRZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9726"
+ },
+ {
+  "Time": "1840",
+  "Date": "23-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9048"
+ },
+ {
+  "Time": "1845",
+  "Date": "23-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1396"
+ },
+ {
+  "Time": "1845",
+  "Date": "23-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   921"
+ },
+ {
+  "Time": "1845",
+  "Date": "23-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1850",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9088"
+ },
+ {
+  "Time": "1850",
+  "Date": "23-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9244"
+ },
+ {
+  "Time": "1850",
+  "Date": "23-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9334"
+ },
+ {
+  "Time": "1900",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "23-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9774"
+ },
+ {
+  "Time": "1905",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1920",
+  "Date": "23-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   628"
+ },
+ {
+  "Time": "1925",
+  "Date": "23-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1007"
+ },
+ {
+  "Time": "1930",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2023"
+ },
+ {
+  "Time": "1940",
+  "Date": "23-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "1945",
+  "Date": "23-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8047"
+ },
+ {
+  "Time": "1945",
+  "Date": "23-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "23-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB   756"
+ },
+ {
+  "Time": "1955",
+  "Date": "23-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1027"
+ },
+ {
+  "Time": "1955",
+  "Date": "23-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   281"
+ },
+ {
+  "Time": "1955",
+  "Date": "23-09-2026",
+  "Dest": "MLX",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1387"
+ },
+ {
+  "Time": "2000",
+  "Date": "23-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   543"
+ },
+ {
+  "Time": "2000",
+  "Date": "23-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2005",
+  "Date": "23-09-2026",
+  "Dest": "RIX",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   234"
+ },
+ {
+  "Time": "2005",
+  "Date": "23-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8223"
+ },
+ {
+  "Time": "2005",
+  "Date": "23-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2020",
+  "Date": "23-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4339"
+ },
+ {
+  "Time": "2020",
+  "Date": "23-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "23-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4677"
+ },
+ {
+  "Time": "2030",
+  "Date": "23-09-2026",
+  "Dest": "LGW",
+  "DestName": "",
+  "AirlineCode": "EZ",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EZY 8650"
+ },
+ {
+  "Time": "2030",
+  "Date": "23-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2027"
+ },
+ {
+  "Time": "2035",
+  "Date": "23-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1620"
+ },
+ {
+  "Time": "2035",
+  "Date": "23-09-2026",
+  "Dest": "KYA",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1327"
+ },
+ {
+  "Time": "2035",
+  "Date": "23-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "2050",
+  "Date": "23-09-2026",
+  "Dest": "COV",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1592"
+ },
+ {
+  "Time": "2050",
+  "Date": "23-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   265"
+ },
+ {
+  "Time": "2050",
+  "Date": "23-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1321"
+ },
+ {
+  "Time": "2100",
+  "Date": "23-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3944"
+ },
+ {
+  "Time": "2105",
+  "Date": "23-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   699"
+ },
+ {
+  "Time": "2115",
+  "Date": "23-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "0550",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "0550",
+  "Date": "24-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "24-09-2026",
+  "Dest": "SMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1756"
+ },
+ {
+  "Time": "0550",
+  "Date": "24-09-2026",
+  "Dest": "MAH",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2404"
+ },
+ {
+  "Time": "0550",
+  "Date": "24-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4588"
+ },
+ {
+  "Time": "0555",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "0555",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0600",
+  "Date": "24-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0600",
+  "Date": "24-09-2026",
+  "Dest": "PVK",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1780"
+ },
+ {
+  "Time": "0600",
+  "Date": "24-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0600",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0600",
+  "Date": "24-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2914"
+ },
+ {
+  "Time": "0605",
+  "Date": "24-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2252"
+ },
+ {
+  "Time": "0605",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0610",
+  "Date": "24-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0610",
+  "Date": "24-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9600"
+ },
+ {
+  "Time": "0610",
+  "Date": "24-09-2026",
+  "Dest": "LCA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9902"
+ },
+ {
+  "Time": "0610",
+  "Date": "24-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   620"
+ },
+ {
+  "Time": "0620",
+  "Date": "24-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1434"
+ },
+ {
+  "Time": "0620",
+  "Date": "24-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "0620",
+  "Date": "24-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0625",
+  "Date": "24-09-2026",
+  "Dest": "SUF",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9852"
+ },
+ {
+  "Time": "0625",
+  "Date": "24-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0630",
+  "Date": "24-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   439"
+ },
+ {
+  "Time": "0635",
+  "Date": "24-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "0635",
+  "Date": "24-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9782"
+ },
+ {
+  "Time": "0635",
+  "Date": "24-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0635",
+  "Date": "24-09-2026",
+  "Dest": "TLV",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9974"
+ },
+ {
+  "Time": "0640",
+  "Date": "24-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9330"
+ },
+ {
+  "Time": "0640",
+  "Date": "24-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9340"
+ },
+ {
+  "Time": "0640",
+  "Date": "24-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9530"
+ },
+ {
+  "Time": "0640",
+  "Date": "24-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9630"
+ },
+ {
+  "Time": "0640",
+  "Date": "24-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9642"
+ },
+ {
+  "Time": "0645",
+  "Date": "24-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9840"
+ },
+ {
+  "Time": "0650",
+  "Date": "24-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9040"
+ },
+ {
+  "Time": "0650",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9574"
+ },
+ {
+  "Time": "0650",
+  "Date": "24-09-2026",
+  "Dest": "KVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9684"
+ },
+ {
+  "Time": "0650",
+  "Date": "24-09-2026",
+  "Dest": "PUY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9972"
+ },
+ {
+  "Time": "0655",
+  "Date": "24-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "24-09-2026",
+  "Dest": "SVQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9568"
+ },
+ {
+  "Time": "0655",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9760"
+ },
+ {
+  "Time": "0700",
+  "Date": "24-09-2026",
+  "Dest": "GWT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9008"
+ },
+ {
+  "Time": "0700",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9082"
+ },
+ {
+  "Time": "0700",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9462"
+ },
+ {
+  "Time": "0700",
+  "Date": "24-09-2026",
+  "Dest": "MLA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9690"
+ },
+ {
+  "Time": "0705",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9750"
+ },
+ {
+  "Time": "0710",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0710",
+  "Date": "24-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9242"
+ },
+ {
+  "Time": "0710",
+  "Date": "24-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9558"
+ },
+ {
+  "Time": "0715",
+  "Date": "24-09-2026",
+  "Dest": "FLR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9830"
+ },
+ {
+  "Time": "0715",
+  "Date": "24-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   406"
+ },
+ {
+  "Time": "0720",
+  "Date": "24-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9546"
+ },
+ {
+  "Time": "0720",
+  "Date": "24-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "24-09-2026",
+  "Dest": "EDO",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1349"
+ },
+ {
+  "Time": "0730",
+  "Date": "24-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0730",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2035"
+ },
+ {
+  "Time": "0740",
+  "Date": "24-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9978"
+ },
+ {
+  "Time": "0750",
+  "Date": "24-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0800",
+  "Date": "24-09-2026",
+  "Dest": "BJV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3181"
+ },
+ {
+  "Time": "0800",
+  "Date": "24-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
+  "Time": "0805",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0805",
+  "Date": "24-09-2026",
+  "Dest": "GZT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1391"
+ },
+ {
+  "Time": "0815",
+  "Date": "24-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7061"
+ },
+ {
+  "Time": "0815",
+  "Date": "24-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0820",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0830",
+  "Date": "24-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9770"
+ },
+ {
+  "Time": "0830",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0845",
+  "Date": "24-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6122"
+ },
+ {
+  "Time": "0855",
+  "Date": "24-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1392"
+ },
+ {
+  "Time": "0910",
+  "Date": "24-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3942"
+ },
+ {
+  "Time": "0910",
+  "Date": "24-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0920",
+  "Date": "24-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   088"
+ },
+ {
+  "Time": "0925",
+  "Date": "24-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1307"
+ },
+ {
+  "Time": "0930",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0935",
+  "Date": "24-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "0940",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0945",
+  "Date": "24-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1897"
+ },
+ {
+  "Time": "0950",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "1000",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "1000",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5002"
+ },
+ {
+  "Time": "1000",
+  "Date": "24-09-2026",
+  "Dest": "GZP",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   243"
+ },
+ {
+  "Time": "1000",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1010",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2007"
+ },
+ {
+  "Time": "1010",
+  "Date": "24-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1020",
+  "Date": "24-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9820"
+ },
+ {
+  "Time": "1025",
+  "Date": "24-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "24-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9500"
+ },
+ {
+  "Time": "1025",
+  "Date": "24-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1030",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   919"
+ },
+ {
+  "Time": "1030",
+  "Date": "24-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "1030",
+  "Date": "24-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1030",
+  "Date": "24-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1030",
+  "Date": "24-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   503"
+ },
+ {
+  "Time": "1040",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1050",
+  "Date": "24-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9442"
+ },
+ {
+  "Time": "1055",
+  "Date": "24-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   207"
+ },
+ {
+  "Time": "1100",
+  "Date": "24-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1105",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1115",
+  "Date": "24-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9084"
+ },
+ {
+  "Time": "1115",
+  "Date": "24-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1125",
+  "Date": "24-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1130",
+  "Date": "24-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "UD",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "UD   438"
+ },
+ {
+  "Time": "1135",
+  "Date": "24-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1135",
+  "Date": "24-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   591"
+ },
+ {
+  "Time": "1140",
+  "Date": "24-09-2026",
+  "Dest": "KRK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9732"
+ },
+ {
+  "Time": "1145",
+  "Date": "24-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9518"
+ },
+ {
+  "Time": "1145",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9578"
+ },
+ {
+  "Time": "1155",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "FH",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "FH  1194"
+ },
+ {
+  "Time": "1155",
+  "Date": "24-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1155",
+  "Date": "24-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "1200",
+  "Date": "24-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4335"
+ },
+ {
+  "Time": "1210",
+  "Date": "24-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1215",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9580"
+ },
+ {
+  "Time": "1215",
+  "Date": "24-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2118"
+ },
+ {
+  "Time": "1225",
+  "Date": "24-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1230",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "4M",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "4M   412"
+ },
+ {
+  "Time": "1230",
+  "Date": "24-09-2026",
+  "Dest": "BZO",
+  "DestName": "",
+  "AirlineCode": "BQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BQ  1953"
+ },
+ {
+  "Time": "1240",
+  "Date": "24-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "24-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1456"
+ },
+ {
+  "Time": "1245",
+  "Date": "24-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9672"
+ },
+ {
+  "Time": "1250",
+  "Date": "24-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1255",
+  "Date": "24-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "1255",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9582"
+ },
+ {
+  "Time": "1255",
+  "Date": "24-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2116"
+ },
+ {
+  "Time": "1300",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9752"
+ },
+ {
+  "Time": "1310",
+  "Date": "24-09-2026",
+  "Dest": "EDI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9364"
+ },
+ {
+  "Time": "1310",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9584"
+ },
+ {
+  "Time": "1310",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1315",
+  "Date": "24-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1414"
+ },
+ {
+  "Time": "1315",
+  "Date": "24-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   541"
+ },
+ {
+  "Time": "1315",
+  "Date": "24-09-2026",
+  "Dest": "AGA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6242"
+ },
+ {
+  "Time": "1325",
+  "Date": "24-09-2026",
+  "Dest": "SUF",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1142"
+ },
+ {
+  "Time": "1330",
+  "Date": "24-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9394"
+ },
+ {
+  "Time": "1330",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1330",
+  "Date": "24-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "1335",
+  "Date": "24-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1340",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9460"
+ },
+ {
+  "Time": "1345",
+  "Date": "24-09-2026",
+  "Dest": "ZTH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9626"
+ },
+ {
+  "Time": "1345",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1345",
+  "Date": "24-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   817"
+ },
+ {
+  "Time": "1350",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9762"
+ },
+ {
+  "Time": "1355",
+  "Date": "24-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "1400",
+  "Date": "24-09-2026",
+  "Dest": "ZTH",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1148"
+ },
+ {
+  "Time": "1400",
+  "Date": "24-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9958"
+ },
+ {
+  "Time": "1405",
+  "Date": "24-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9342"
+ },
+ {
+  "Time": "1410",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "1415",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9086"
+ },
+ {
+  "Time": "1425",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   921"
+ },
+ {
+  "Time": "1430",
+  "Date": "24-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9822"
+ },
+ {
+  "Time": "1430",
+  "Date": "24-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1435",
+  "Date": "24-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1507"
+ },
+ {
+  "Time": "1435",
+  "Date": "24-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9332"
+ },
+ {
+  "Time": "1445",
+  "Date": "24-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9046"
+ },
+ {
+  "Time": "1450",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1450",
+  "Date": "24-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "1455",
+  "Date": "24-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "1455",
+  "Date": "24-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1505",
+  "Date": "24-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4675"
+ },
+ {
+  "Time": "1505",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "24-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "24-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1620"
+ },
+ {
+  "Time": "1510",
+  "Date": "24-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1510",
+  "Date": "24-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1510",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1515",
+  "Date": "24-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "MS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MS   734"
+ },
+ {
+  "Time": "1520",
+  "Date": "24-09-2026",
+  "Dest": "GRZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9726"
+ },
+ {
+  "Time": "1520",
+  "Date": "24-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "24-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1530",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1530",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2017"
+ },
+ {
+  "Time": "1545",
+  "Date": "24-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "1545",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "1550",
+  "Date": "24-09-2026",
+  "Dest": "RMF",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2983"
+ },
+ {
+  "Time": "1600",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1605",
+  "Date": "24-09-2026",
+  "Dest": "VNO",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   934"
+ },
+ {
+  "Time": "1605",
+  "Date": "24-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
+  "Time": "1610",
+  "Date": "24-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   215"
+ },
+ {
+  "Time": "1610",
+  "Date": "24-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9510"
+ },
+ {
+  "Time": "1610",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9590"
+ },
+ {
+  "Time": "1615",
+  "Date": "24-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "1620",
+  "Date": "24-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1625",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1625",
+  "Date": "24-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1630",
+  "Date": "24-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9734"
+ },
+ {
+  "Time": "1630",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2009"
+ },
+ {
+  "Time": "1645",
+  "Date": "24-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1407"
+ },
+ {
+  "Time": "1645",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "24-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9444"
+ },
+ {
+  "Time": "1650",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9754"
+ },
+ {
+  "Time": "1650",
+  "Date": "24-09-2026",
+  "Dest": "LGW",
+  "DestName": "",
+  "AirlineCode": "EZ",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EZY 8650"
+ },
+ {
+  "Time": "1700",
+  "Date": "24-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7067"
+ },
+ {
+  "Time": "1710",
+  "Date": "24-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9886"
+ },
+ {
+  "Time": "1710",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1715",
+  "Date": "24-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8045"
+ },
+ {
+  "Time": "1720",
+  "Date": "24-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1720",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2019"
+ },
+ {
+  "Time": "1725",
+  "Date": "24-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9422"
+ },
+ {
+  "Time": "1735",
+  "Date": "24-09-2026",
+  "Dest": "BLQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9834"
+ },
+ {
+  "Time": "1740",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9756"
+ },
+ {
+  "Time": "1745",
+  "Date": "24-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9784"
+ },
+ {
+  "Time": "1745",
+  "Date": "24-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "1755",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9764"
+ },
+ {
+  "Time": "1755",
+  "Date": "24-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "OU",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "OU   423"
+ },
+ {
+  "Time": "1805",
+  "Date": "24-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9038"
+ },
+ {
+  "Time": "1805",
+  "Date": "24-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1815",
+  "Date": "24-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9048"
+ },
+ {
+  "Time": "1815",
+  "Date": "24-09-2026",
+  "Dest": "GOT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9222"
+ },
+ {
+  "Time": "1820",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   285"
+ },
+ {
+  "Time": "1825",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   923"
+ },
+ {
+  "Time": "1825",
+  "Date": "24-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9468"
+ },
+ {
+  "Time": "1825",
+  "Date": "24-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9846"
+ },
+ {
+  "Time": "1830",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2021"
+ },
+ {
+  "Time": "1830",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   166"
+ },
+ {
+  "Time": "1830",
+  "Date": "24-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL   077"
+ },
+ {
+  "Time": "1835",
+  "Date": "24-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9344"
+ },
+ {
+  "Time": "1845",
+  "Date": "24-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1396"
+ },
+ {
+  "Time": "1845",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9088"
+ },
+ {
+  "Time": "1845",
+  "Date": "24-09-2026",
+  "Dest": "GVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9748"
+ },
+ {
+  "Time": "1845",
+  "Date": "24-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1845",
+  "Date": "24-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1850",
+  "Date": "24-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9334"
+ },
+ {
+  "Time": "1900",
+  "Date": "24-09-2026",
+  "Dest": "LYS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9416"
+ },
+ {
+  "Time": "1900",
+  "Date": "24-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1915",
+  "Date": "24-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4203"
+ },
+ {
+  "Time": "1915",
+  "Date": "24-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9244"
+ },
+ {
+  "Time": "1920",
+  "Date": "24-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   628"
+ },
+ {
+  "Time": "1925",
+  "Date": "24-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1007"
+ },
+ {
+  "Time": "1930",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2023"
+ },
+ {
+  "Time": "1935",
+  "Date": "24-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8047"
+ },
+ {
+  "Time": "1940",
+  "Date": "24-09-2026",
+  "Dest": "DRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9022"
+ },
+ {
+  "Time": "1945",
+  "Date": "24-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "24-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB   756"
+ },
+ {
+  "Time": "2000",
+  "Date": "24-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2005",
+  "Date": "24-09-2026",
+  "Dest": "RIX",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   234"
+ },
+ {
+  "Time": "2005",
+  "Date": "24-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2010",
+  "Date": "24-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   843"
+ },
+ {
+  "Time": "2015",
+  "Date": "24-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1027"
+ },
+ {
+  "Time": "2015",
+  "Date": "24-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   030"
+ },
+ {
+  "Time": "2020",
+  "Date": "24-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "24-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4677"
+ },
+ {
+  "Time": "2025",
+  "Date": "24-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   363"
+ },
+ {
+  "Time": "2030",
+  "Date": "24-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2027"
+ },
+ {
+  "Time": "2030",
+  "Date": "24-09-2026",
+  "Dest": "DIY",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1361"
+ },
+ {
+  "Time": "2035",
+  "Date": "24-09-2026",
+  "Dest": "GZT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1666"
+ },
+ {
+  "Time": "2040",
+  "Date": "24-09-2026",
+  "Dest": "COV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1371"
+ },
+ {
+  "Time": "2100",
+  "Date": "24-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3944"
+ },
+ {
+  "Time": "2100",
+  "Date": "24-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9716"
+ },
+ {
+  "Time": "2100",
+  "Date": "24-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1899"
+ },
+ {
+  "Time": "2115",
+  "Date": "24-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "2145",
+  "Date": "24-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EV",
+  "Airline": "",
+  "Terminal": "F",
+  "Flight": "EVE  137 P"
+ },
+ {
+  "Time": "0550",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "0550",
+  "Date": "25-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0550",
+  "Date": "25-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1614"
+ },
+ {
+  "Time": "0550",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0550",
+  "Date": "25-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4572"
+ },
+ {
+  "Time": "0600",
+  "Date": "25-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3   116"
+ },
+ {
+  "Time": "0600",
+  "Date": "25-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2116"
+ },
+ {
+  "Time": "0600",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0600",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "0605",
+  "Date": "25-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   620"
+ },
+ {
+  "Time": "0605",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0610",
+  "Date": "25-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9500"
+ },
+ {
+  "Time": "0610",
+  "Date": "25-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9530"
+ },
+ {
+  "Time": "0610",
+  "Date": "25-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "25-09-2026",
+  "Dest": "TIV",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9918"
+ },
+ {
+  "Time": "0610",
+  "Date": "25-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0615",
+  "Date": "25-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   868"
+ },
+ {
+  "Time": "0615",
+  "Date": "25-09-2026",
+  "Dest": "ACE",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1420"
+ },
+ {
+  "Time": "0620",
+  "Date": "25-09-2026",
+  "Dest": "MAH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9504"
+ },
+ {
+  "Time": "0620",
+  "Date": "25-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "0620",
+  "Date": "25-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9878"
+ },
+ {
+  "Time": "0620",
+  "Date": "25-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0625",
+  "Date": "25-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0630",
+  "Date": "25-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9040"
+ },
+ {
+  "Time": "0630",
+  "Date": "25-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0630",
+  "Date": "25-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9680"
+ },
+ {
+  "Time": "0635",
+  "Date": "25-09-2026",
+  "Dest": "MRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9424"
+ },
+ {
+  "Time": "0640",
+  "Date": "25-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9330"
+ },
+ {
+  "Time": "0640",
+  "Date": "25-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9340"
+ },
+ {
+  "Time": "0640",
+  "Date": "25-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9570"
+ },
+ {
+  "Time": "0640",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0645",
+  "Date": "25-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9840"
+ },
+ {
+  "Time": "0650",
+  "Date": "25-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9782"
+ },
+ {
+  "Time": "0650",
+  "Date": "25-09-2026",
+  "Dest": "BOJ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9910"
+ },
+ {
+  "Time": "0655",
+  "Date": "25-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "25-09-2026",
+  "Dest": "JTR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9662"
+ },
+ {
+  "Time": "0655",
+  "Date": "25-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9760"
+ },
+ {
+  "Time": "0700",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9082"
+ },
+ {
+  "Time": "0700",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9462"
+ },
+ {
+  "Time": "0700",
+  "Date": "25-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "0700",
+  "Date": "25-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9642"
+ },
+ {
+  "Time": "0700",
+  "Date": "25-09-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   291"
+ },
+ {
+  "Time": "0705",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9750"
+ },
+ {
+  "Time": "0710",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0710",
+  "Date": "25-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9242"
+ },
+ {
+  "Time": "0710",
+  "Date": "25-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9654"
+ },
+ {
+  "Time": "0715",
+  "Date": "25-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   406"
+ },
+ {
+  "Time": "0720",
+  "Date": "25-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9420"
+ },
+ {
+  "Time": "0720",
+  "Date": "25-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0720",
+  "Date": "25-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0720",
+  "Date": "25-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9574"
+ },
+ {
+  "Time": "0725",
+  "Date": "25-09-2026",
+  "Dest": "GDN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9736"
+ },
+ {
+  "Time": "0725",
+  "Date": "25-09-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1329"
+ },
+ {
+  "Time": "0730",
+  "Date": "25-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "0730",
+  "Date": "25-09-2026",
+  "Dest": "DAM",
+  "DestName": "",
+  "AirlineCode": "KK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "KK   490"
+ },
+ {
+  "Time": "0730",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2035"
+ },
+ {
+  "Time": "0755",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0800",
+  "Date": "25-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
+  "Time": "0805",
+  "Date": "25-09-2026",
+  "Dest": "TLL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9738"
+ },
+ {
+  "Time": "0805",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0815",
+  "Date": "25-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0825",
+  "Date": "25-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4201"
+ },
+ {
+  "Time": "0830",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0850",
+  "Date": "25-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3942"
+ },
+ {
+  "Time": "0850",
+  "Date": "25-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4335"
+ },
+ {
+  "Time": "0850",
+  "Date": "25-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9042"
+ },
+ {
+  "Time": "0855",
+  "Date": "25-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1392"
+ },
+ {
+  "Time": "0900",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "0905",
+  "Date": "25-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7061"
+ },
+ {
+  "Time": "0910",
+  "Date": "25-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0925",
+  "Date": "25-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1307"
+ },
+ {
+  "Time": "0930",
+  "Date": "25-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   361"
+ },
+ {
+  "Time": "0930",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0935",
+  "Date": "25-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "DY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DY  1151"
+ },
+ {
+  "Time": "0935",
+  "Date": "25-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "0940",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0945",
+  "Date": "25-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1897"
+ },
+ {
+  "Time": "0950",
+  "Date": "25-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "0955",
+  "Date": "25-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   207"
+ },
+ {
+  "Time": "0955",
+  "Date": "25-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   215"
+ },
+ {
+  "Time": "0955",
+  "Date": "25-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   969"
+ },
+ {
+  "Time": "1000",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1005",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "1010",
+  "Date": "25-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1010",
+  "Date": "25-09-2026",
+  "Dest": "RMF",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6642"
+ },
+ {
+  "Time": "1025",
+  "Date": "25-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "25-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1030",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2007"
+ },
+ {
+  "Time": "1030",
+  "Date": "25-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1040",
+  "Date": "25-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1040",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1045",
+  "Date": "25-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9828"
+ },
+ {
+  "Time": "1055",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   919"
+ },
+ {
+  "Time": "1100",
+  "Date": "25-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9442"
+ },
+ {
+  "Time": "1100",
+  "Date": "25-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1105",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1115",
+  "Date": "25-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "25-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "1115",
+  "Date": "25-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9884"
+ },
+ {
+  "Time": "1115",
+  "Date": "25-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1125",
+  "Date": "25-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1125",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9580"
+ },
+ {
+  "Time": "1125",
+  "Date": "25-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1135",
+  "Date": "25-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1135",
+  "Date": "25-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9502"
+ },
+ {
+  "Time": "1145",
+  "Date": "25-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9516"
+ },
+ {
+  "Time": "1150",
+  "Date": "25-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9532"
+ },
+ {
+  "Time": "1155",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "FH",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "FH  1194"
+ },
+ {
+  "Time": "1155",
+  "Date": "25-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1155",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5678"
+ },
+ {
+  "Time": "1205",
+  "Date": "25-09-2026",
+  "Dest": "NDR",
+  "DestName": "",
+  "AirlineCode": "AT",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "AT   697"
+ },
+ {
+  "Time": "1210",
+  "Date": "25-09-2026",
+  "Dest": "JMK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9660"
+ },
+ {
+  "Time": "1220",
+  "Date": "25-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1428"
+ },
+ {
+  "Time": "1220",
+  "Date": "25-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "1225",
+  "Date": "25-09-2026",
+  "Dest": "KRK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9732"
+ },
+ {
+  "Time": "1225",
+  "Date": "25-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1240",
+  "Date": "25-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2013"
+ },
+ {
+  "Time": "1240",
+  "Date": "25-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2114"
+ },
+ {
+  "Time": "1245",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  5072"
+ },
+ {
+  "Time": "1245",
+  "Date": "25-09-2026",
+  "Dest": "CAG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9868"
+ },
+ {
+  "Time": "1250",
+  "Date": "25-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1255",
+  "Date": "25-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1456"
+ },
+ {
+  "Time": "1300",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9586"
+ },
+ {
+  "Time": "1300",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9752"
+ },
+ {
+  "Time": "1310",
+  "Date": "25-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9394"
+ },
+ {
+  "Time": "1310",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1315",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9588"
+ },
+ {
+  "Time": "1315",
+  "Date": "25-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   541"
+ },
+ {
+  "Time": "1325",
+  "Date": "25-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1688"
+ },
+ {
+  "Time": "1330",
+  "Date": "25-09-2026",
+  "Dest": "NCL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9338"
+ },
+ {
+  "Time": "1330",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1335",
+  "Date": "25-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1340",
+  "Date": "25-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9036"
+ },
+ {
+  "Time": "1340",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9460"
+ },
+ {
+  "Time": "1340",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9672"
+ },
+ {
+  "Time": "1345",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1345",
+  "Date": "25-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   817"
+ },
+ {
+  "Time": "1350",
+  "Date": "25-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "1350",
+  "Date": "25-09-2026",
+  "Dest": "GRZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9726"
+ },
+ {
+  "Time": "1350",
+  "Date": "25-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9762"
+ },
+ {
+  "Time": "1415",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9086"
+ },
+ {
+  "Time": "1415",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9590"
+ },
+ {
+  "Time": "1430",
+  "Date": "25-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9822"
+ },
+ {
+  "Time": "1430",
+  "Date": "25-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1435",
+  "Date": "25-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1507"
+ },
+ {
+  "Time": "1435",
+  "Date": "25-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1622"
+ },
+ {
+  "Time": "1435",
+  "Date": "25-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9676"
+ },
+ {
+  "Time": "1440",
+  "Date": "25-09-2026",
+  "Dest": "LYS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9416"
+ },
+ {
+  "Time": "1445",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1445",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4968"
+ },
+ {
+  "Time": "1450",
+  "Date": "25-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1455",
+  "Date": "25-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1505",
+  "Date": "25-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4675"
+ },
+ {
+  "Time": "1505",
+  "Date": "25-09-2026",
+  "Dest": "GWT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9008"
+ },
+ {
+  "Time": "1505",
+  "Date": "25-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "1505",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "25-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "25-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1510",
+  "Date": "25-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1510",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1515",
+  "Date": "25-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "MS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MS   734"
+ },
+ {
+  "Time": "1520",
+  "Date": "25-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  7067"
+ },
+ {
+  "Time": "1520",
+  "Date": "25-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "25-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1525",
+  "Date": "25-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   086"
+ },
+ {
+  "Time": "1525",
+  "Date": "25-09-2026",
+  "Dest": "GPA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4762"
+ },
+ {
+  "Time": "1530",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2017"
+ },
+ {
+  "Time": "1530",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "1555",
+  "Date": "25-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ  2341"
+ },
+ {
+  "Time": "1555",
+  "Date": "25-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9510"
+ },
+ {
+  "Time": "1600",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1600",
+  "Date": "25-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   197"
+ },
+ {
+  "Time": "1605",
+  "Date": "25-09-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "H7",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "H7   404"
+ },
+ {
+  "Time": "1605",
+  "Date": "25-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
+  "Time": "1615",
+  "Date": "25-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8045"
+ },
+ {
+  "Time": "1615",
+  "Date": "25-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9960"
+ },
+ {
+  "Time": "1615",
+  "Date": "25-09-2026",
+  "Dest": "LGW",
+  "DestName": "",
+  "AirlineCode": "EZ",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EZY 8650"
+ },
+ {
+  "Time": "1620",
+  "Date": "25-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1635",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1645",
+  "Date": "25-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1407"
+ },
+ {
+  "Time": "1645",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1650",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9754"
+ },
+ {
+  "Time": "1650",
+  "Date": "25-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2981"
+ },
+ {
+  "Time": "1650",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "1655",
+  "Date": "25-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9444"
+ },
+ {
+  "Time": "1710",
+  "Date": "25-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "1710",
+  "Date": "25-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9518"
+ },
+ {
+  "Time": "1710",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1715",
+  "Date": "25-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "1720",
+  "Date": "25-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9734"
+ },
+ {
+  "Time": "1720",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2019"
+ },
+ {
+  "Time": "1725",
+  "Date": "25-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9886"
+ },
+ {
+  "Time": "1740",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9756"
+ },
+ {
+  "Time": "1745",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   923"
+ },
+ {
+  "Time": "1745",
+  "Date": "25-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9784"
+ },
+ {
+  "Time": "1745",
+  "Date": "25-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "1750",
+  "Date": "25-09-2026",
+  "Dest": "TLV",
+  "DestName": "",
+  "AirlineCode": "6H",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "6H   278"
+ },
+ {
+  "Time": "1755",
+  "Date": "25-09-2026",
+  "Dest": "GOT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9222"
+ },
+ {
+  "Time": "1755",
+  "Date": "25-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9764"
+ },
+ {
+  "Time": "1755",
+  "Date": "25-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1800",
+  "Date": "25-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "TU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TU   527"
+ },
+ {
+  "Time": "1805",
+  "Date": "25-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9048"
+ },
+ {
+  "Time": "1805",
+  "Date": "25-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9344"
+ },
+ {
+  "Time": "1815",
+  "Date": "25-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1820",
+  "Date": "25-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9334"
+ },
+ {
+  "Time": "1820",
+  "Date": "25-09-2026",
+  "Dest": "EDI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9364"
+ },
+ {
+  "Time": "1825",
+  "Date": "25-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9468"
+ },
+ {
+  "Time": "1825",
+  "Date": "25-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9846"
+ },
+ {
+  "Time": "1830",
+  "Date": "25-09-2026",
+  "Dest": "BLQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9834"
+ },
+ {
+  "Time": "1830",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   166"
+ },
+ {
+  "Time": "1830",
+  "Date": "25-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL   077"
+ },
+ {
+  "Time": "1835",
+  "Date": "25-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1840",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5012"
+ },
+ {
+  "Time": "1845",
+  "Date": "25-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1396"
+ },
+ {
+  "Time": "1845",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9088"
+ },
+ {
+  "Time": "1845",
+  "Date": "25-09-2026",
+  "Dest": "GVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9748"
+ },
+ {
+  "Time": "1845",
+  "Date": "25-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1855",
+  "Date": "25-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9244"
+ },
+ {
+  "Time": "1855",
+  "Date": "25-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5306"
+ },
+ {
+  "Time": "1900",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "25-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4205"
+ },
+ {
+  "Time": "1905",
+  "Date": "25-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1920",
+  "Date": "25-09-2026",
+  "Dest": "DRS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9022"
+ },
+ {
+  "Time": "1920",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2023"
+ },
+ {
+  "Time": "1920",
+  "Date": "25-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   628"
+ },
+ {
+  "Time": "1920",
+  "Date": "25-09-2026",
+  "Dest": "BJV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3181"
+ },
+ {
+  "Time": "1925",
+  "Date": "25-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1007"
+ },
+ {
+  "Time": "1935",
+  "Date": "25-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9716"
+ },
+ {
+  "Time": "1945",
+  "Date": "25-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "25-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB   756"
+ },
+ {
+  "Time": "1955",
+  "Date": "25-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   281"
+ },
+ {
+  "Time": "2000",
+  "Date": "25-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   543"
+ },
+ {
+  "Time": "2000",
+  "Date": "25-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2000",
+  "Date": "25-09-2026",
+  "Dest": "GZP",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   245"
+ },
+ {
+  "Time": "2005",
+  "Date": "25-09-2026",
+  "Dest": "RIX",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   234"
+ },
+ {
+  "Time": "2005",
+  "Date": "25-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8223"
+ },
+ {
+  "Time": "2005",
+  "Date": "25-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2015",
+  "Date": "25-09-2026",
+  "Dest": "MJI",
+  "DestName": "",
+  "AirlineCode": "BM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BM   561"
+ },
+ {
+  "Time": "2015",
+  "Date": "25-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   030"
+ },
+ {
+  "Time": "2020",
+  "Date": "25-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "25-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4677"
+ },
+ {
+  "Time": "2030",
+  "Date": "25-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2027"
+ },
+ {
+  "Time": "2040",
+  "Date": "25-09-2026",
+  "Dest": "BZO",
+  "DestName": "",
+  "AirlineCode": "BQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BQ  1953"
+ },
+ {
+  "Time": "2040",
+  "Date": "25-09-2026",
+  "Dest": "SZF",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1351"
+ },
+ {
+  "Time": "2045",
+  "Date": "25-09-2026",
+  "Dest": "TZX",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1654"
+ },
+ {
+  "Time": "2045",
+  "Date": "25-09-2026",
+  "Dest": "EZS",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1335"
+ },
+ {
+  "Time": "2050",
+  "Date": "25-09-2026",
+  "Dest": "COV",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   267"
+ },
+ {
+  "Time": "2050",
+  "Date": "25-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "2100",
+  "Date": "25-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3944"
+ },
+ {
+  "Time": "2100",
+  "Date": "25-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1899"
+ },
+ {
+  "Time": "2105",
+  "Date": "25-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   699"
+ },
+ {
+  "Time": "2115",
+  "Date": "25-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "2130",
+  "Date": "25-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9674"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "PVK",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1780"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "0550",
+  "Date": "26-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4588"
+ },
+ {
+  "Time": "0600",
+  "Date": "26-09-2026",
+  "Dest": "LCA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE  1684"
+ },
+ {
+  "Time": "0600",
+  "Date": "26-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0600",
+  "Date": "26-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2116"
+ },
+ {
+  "Time": "0605",
+  "Date": "26-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1614"
+ },
+ {
+  "Time": "0605",
+  "Date": "26-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9420"
+ },
+ {
+  "Time": "0605",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0605",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0605",
+  "Date": "26-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   405"
+ },
+ {
+  "Time": "0610",
+  "Date": "26-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0610",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0610",
+  "Date": "26-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9530"
+ },
+ {
+  "Time": "0610",
+  "Date": "26-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0610",
+  "Date": "26-09-2026",
+  "Dest": "OMO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9920"
+ },
+ {
+  "Time": "0610",
+  "Date": "26-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   620"
+ },
+ {
+  "Time": "0620",
+  "Date": "26-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9716"
+ },
+ {
+  "Time": "0620",
+  "Date": "26-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0625",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "0625",
+  "Date": "26-09-2026",
+  "Dest": "PDL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9608"
+ },
+ {
+  "Time": "0625",
+  "Date": "26-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0630",
+  "Date": "26-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0630",
+  "Date": "26-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9542"
+ },
+ {
+  "Time": "0630",
+  "Date": "26-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9642"
+ },
+ {
+  "Time": "0630",
+  "Date": "26-09-2026",
+  "Dest": "SUF",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9852"
+ },
+ {
+  "Time": "0630",
+  "Date": "26-09-2026",
+  "Dest": "DBV",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9952"
+ },
+ {
+  "Time": "0635",
+  "Date": "26-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0640",
+  "Date": "26-09-2026",
+  "Dest": "NQY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9346"
+ },
+ {
+  "Time": "0645",
+  "Date": "26-09-2026",
+  "Dest": "VOL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9686"
+ },
+ {
+  "Time": "0650",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0655",
+  "Date": "26-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "26-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9760"
+ },
+ {
+  "Time": "0655",
+  "Date": "26-09-2026",
+  "Dest": "BOJ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9910"
+ },
+ {
+  "Time": "0655",
+  "Date": "26-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2252"
+ },
+ {
+  "Time": "0700",
+  "Date": "26-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9330"
+ },
+ {
+  "Time": "0700",
+  "Date": "26-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9462"
+ },
+ {
+  "Time": "0700",
+  "Date": "26-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4428"
+ },
+ {
+  "Time": "0700",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "0705",
+  "Date": "26-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9750"
+ },
+ {
+  "Time": "0710",
+  "Date": "26-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0710",
+  "Date": "26-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9654"
+ },
+ {
+  "Time": "0710",
+  "Date": "26-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9680"
+ },
+ {
+  "Time": "0715",
+  "Date": "26-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   406"
+ },
+ {
+  "Time": "0720",
+  "Date": "26-09-2026",
+  "Dest": "GWT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9008"
+ },
+ {
+  "Time": "0720",
+  "Date": "26-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9770"
+ },
+ {
+  "Time": "0720",
+  "Date": "26-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0720",
+  "Date": "26-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0730",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2035"
+ },
+ {
+  "Time": "0735",
+  "Date": "26-09-2026",
+  "Dest": "SMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9638"
+ },
+ {
+  "Time": "0750",
+  "Date": "26-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9394"
+ },
+ {
+  "Time": "0800",
+  "Date": "26-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "0805",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9578"
+ },
+ {
+  "Time": "0805",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0805",
+  "Date": "26-09-2026",
+  "Dest": "GZT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1391"
+ },
+ {
+  "Time": "0815",
+  "Date": "26-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "0815",
+  "Date": "26-09-2026",
+  "Dest": "MLA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9690"
+ },
+ {
+  "Time": "0815",
+  "Date": "26-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0820",
+  "Date": "26-09-2026",
+  "Dest": "BDS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9854"
+ },
+ {
+  "Time": "0830",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0845",
+  "Date": "26-09-2026",
+  "Dest": "RMO",
+  "DestName": "",
+  "AirlineCode": "5F",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "5F  5686"
+ },
+ {
+  "Time": "0910",
+  "Date": "26-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0920",
+  "Date": "26-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   088"
+ },
+ {
+  "Time": "0930",
+  "Date": "26-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   361"
+ },
+ {
+  "Time": "0930",
+  "Date": "26-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "NP",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "NP   856"
+ },
+ {
+  "Time": "0930",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0935",
+  "Date": "26-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "0940",
+  "Date": "26-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0950",
+  "Date": "26-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "0950",
+  "Date": "26-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "0955",
+  "Date": "26-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1897"
+ },
+ {
+  "Time": "0955",
+  "Date": "26-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   969"
+ },
+ {
+  "Time": "1000",
+  "Date": "26-09-2026",
+  "Dest": "GZP",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   243"
+ },
+ {
+  "Time": "1000",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1000",
+  "Date": "26-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
+  "Time": "1005",
+  "Date": "26-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "1005",
+  "Date": "26-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9958"
+ },
+ {
+  "Time": "1010",
+  "Date": "26-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1010",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5002"
+ },
+ {
+  "Time": "1010",
+  "Date": "26-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1025",
+  "Date": "26-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "26-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1030",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2007"
+ },
+ {
+  "Time": "1030",
+  "Date": "26-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "OU",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "OU   423"
+ },
+ {
+  "Time": "1030",
+  "Date": "26-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1040",
+  "Date": "26-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3942"
+ },
+ {
+  "Time": "1040",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1050",
+  "Date": "26-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9442"
+ },
+ {
+  "Time": "1050",
+  "Date": "26-09-2026",
+  "Dest": "KZR",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1527"
+ },
+ {
+  "Time": "1100",
+  "Date": "26-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1105",
+  "Date": "26-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  5448"
+ },
+ {
+  "Time": "1105",
+  "Date": "26-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1110",
+  "Date": "26-09-2026",
+  "Dest": "RMF",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  5520"
+ },
+ {
+  "Time": "1115",
+  "Date": "26-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "26-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1120",
+  "Date": "26-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  5702"
+ },
+ {
+  "Time": "1125",
+  "Date": "26-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1125",
+  "Date": "26-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1130",
+  "Date": "26-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9546"
+ },
+ {
+  "Time": "1130",
+  "Date": "26-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "UD",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "UD   438"
+ },
+ {
+  "Time": "1135",
+  "Date": "26-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1135",
+  "Date": "26-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   591"
+ },
+ {
+  "Time": "1150",
+  "Date": "26-09-2026",
+  "Dest": "GOA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  3654"
+ },
+ {
+  "Time": "1150",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9582"
+ },
+ {
+  "Time": "1155",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "FH",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "FH  1194"
+ },
+ {
+  "Time": "1155",
+  "Date": "26-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1200",
+  "Date": "26-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ  2641"
+ },
+ {
+  "Time": "1200",
+  "Date": "26-09-2026",
+  "Dest": "TLV",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9974"
+ },
+ {
+  "Time": "1200",
+  "Date": "26-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1321"
+ },
+ {
+  "Time": "1225",
+  "Date": "26-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9632"
+ },
+ {
+  "Time": "1225",
+  "Date": "26-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1230",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "4M",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "4M   612"
+ },
+ {
+  "Time": "1230",
+  "Date": "26-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1434"
+ },
+ {
+  "Time": "1230",
+  "Date": "26-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2114"
+ },
+ {
+  "Time": "1235",
+  "Date": "26-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2118"
+ },
+ {
+  "Time": "1240",
+  "Date": "26-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "26-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9526"
+ },
+ {
+  "Time": "1250",
+  "Date": "26-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1255",
+  "Date": "26-09-2026",
+  "Dest": "EDI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9364"
+ },
+ {
+  "Time": "1300",
+  "Date": "26-09-2026",
+  "Dest": "LCA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9902"
+ },
+ {
+  "Time": "1310",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9584"
+ },
+ {
+  "Time": "1310",
+  "Date": "26-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9600"
+ },
+ {
+  "Time": "1310",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1310",
+  "Date": "26-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1895"
+ },
+ {
+  "Time": "1325",
+  "Date": "26-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1620"
+ },
+ {
+  "Time": "1325",
+  "Date": "26-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9502"
+ },
+ {
+  "Time": "1330",
+  "Date": "26-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1414"
+ },
+ {
+  "Time": "1330",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1340",
+  "Date": "26-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1345",
+  "Date": "26-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9644"
+ },
+ {
+  "Time": "1345",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1350",
+  "Date": "26-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9816"
+ },
+ {
+  "Time": "1355",
+  "Date": "26-09-2026",
+  "Dest": "KLX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9668"
+ },
+ {
+  "Time": "1400",
+  "Date": "26-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "1420",
+  "Date": "26-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9630"
+ },
+ {
+  "Time": "1420",
+  "Date": "26-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4572"
+ },
+ {
+  "Time": "1425",
+  "Date": "26-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1794"
+ },
+ {
+  "Time": "1430",
+  "Date": "26-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9672"
+ },
+ {
+  "Time": "1430",
+  "Date": "26-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1450",
+  "Date": "26-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1450",
+  "Date": "26-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "1455",
+  "Date": "26-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1500",
+  "Date": "26-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1500",
+  "Date": "26-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6568"
+ },
+ {
+  "Time": "1500",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   503"
+ },
+ {
+  "Time": "1505",
+  "Date": "26-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1556"
+ },
+ {
+  "Time": "1505",
+  "Date": "26-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "1505",
+  "Date": "26-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "26-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1515",
+  "Date": "26-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "MS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MS   734"
+ },
+ {
+  "Time": "1520",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9586"
+ },
+ {
+  "Time": "1520",
+  "Date": "26-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1520",
+  "Date": "26-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "26-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1525",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9588"
+ },
+ {
+  "Time": "1530",
+  "Date": "26-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   215"
+ },
+ {
+  "Time": "1530",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2017"
+ },
+ {
+  "Time": "1545",
+  "Date": "26-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9656"
+ },
+ {
+  "Time": "1545",
+  "Date": "26-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9960"
+ },
+ {
+  "Time": "1545",
+  "Date": "26-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   439"
+ },
+ {
+  "Time": "1550",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "1550",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9590"
+ },
+ {
+  "Time": "1555",
+  "Date": "26-09-2026",
+  "Dest": "PVK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9664"
+ },
+ {
+  "Time": "1600",
+  "Date": "26-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1605",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1605",
+  "Date": "26-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
+  "Time": "1615",
+  "Date": "26-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "1620",
+  "Date": "26-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "1625",
+  "Date": "26-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9532"
+ },
+ {
+  "Time": "1640",
+  "Date": "26-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2914"
+ },
+ {
+  "Time": "1645",
+  "Date": "26-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1407"
+ },
+ {
+  "Time": "1645",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1645",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "26-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "1650",
+  "Date": "26-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "SM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "SM  2981"
+ },
+ {
+  "Time": "1655",
+  "Date": "26-09-2026",
+  "Dest": "BRI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9872"
+ },
+ {
+  "Time": "1700",
+  "Date": "26-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "RS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RSX 8566"
+ },
+ {
+  "Time": "1705",
+  "Date": "26-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1705",
+  "Date": "26-09-2026",
+  "Dest": "CAG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9868"
+ },
+ {
+  "Time": "1710",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1720",
+  "Date": "26-09-2026",
+  "Dest": "ZAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9970"
+ },
+ {
+  "Time": "1725",
+  "Date": "26-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9422"
+ },
+ {
+  "Time": "1730",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2019"
+ },
+ {
+  "Time": "1745",
+  "Date": "26-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "1750",
+  "Date": "26-09-2026",
+  "Dest": "BIA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9432"
+ },
+ {
+  "Time": "1755",
+  "Date": "26-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1800",
+  "Date": "26-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "TU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TU   527"
+ },
+ {
+  "Time": "1810",
+  "Date": "26-09-2026",
+  "Dest": "RJK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9962"
+ },
+ {
+  "Time": "1815",
+  "Date": "26-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1840",
+  "Date": "26-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL   077"
+ },
+ {
+  "Time": "1845",
+  "Date": "26-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1396"
+ },
+ {
+  "Time": "1845",
+  "Date": "26-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1845",
+  "Date": "26-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1855",
+  "Date": "26-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1900",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "26-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1940",
+  "Date": "26-09-2026",
+  "Dest": "BZO",
+  "DestName": "",
+  "AirlineCode": "BQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BQ  1953"
+ },
+ {
+  "Time": "1940",
+  "Date": "26-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2023"
+ },
+ {
+  "Time": "1945",
+  "Date": "26-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "26-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB   756"
+ },
+ {
+  "Time": "1955",
+  "Date": "26-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   281"
+ },
+ {
+  "Time": "2000",
+  "Date": "26-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2005",
+  "Date": "26-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8223"
+ },
+ {
+  "Time": "2005",
+  "Date": "26-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2015",
+  "Date": "26-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   030"
+ },
+ {
+  "Time": "2020",
+  "Date": "26-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   628"
+ },
+ {
+  "Time": "2020",
+  "Date": "26-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2030",
+  "Date": "26-09-2026",
+  "Dest": "DIY",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1361"
+ },
+ {
+  "Time": "2040",
+  "Date": "26-09-2026",
+  "Dest": "COV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1371"
+ },
+ {
+  "Time": "2100",
+  "Date": "26-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1899"
+ },
+ {
+  "Time": "2115",
+  "Date": "26-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   058"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "ZTH",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1148"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1514"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1616"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1622"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1774"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2312"
+ },
+ {
+  "Time": "0550",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2322"
+ },
+ {
+  "Time": "0600",
+  "Date": "27-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1612"
+ },
+ {
+  "Time": "0600",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9572"
+ },
+ {
+  "Time": "0600",
+  "Date": "27-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2814"
+ },
+ {
+  "Time": "0600",
+  "Date": "27-09-2026",
+  "Dest": "SID",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  7102"
+ },
+ {
+  "Time": "0605",
+  "Date": "27-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1826"
+ },
+ {
+  "Time": "0605",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   101"
+ },
+ {
+  "Time": "0605",
+  "Date": "27-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   401"
+ },
+ {
+  "Time": "0610",
+  "Date": "27-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9500"
+ },
+ {
+  "Time": "0610",
+  "Date": "27-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9558"
+ },
+ {
+  "Time": "0610",
+  "Date": "27-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9772"
+ },
+ {
+  "Time": "0610",
+  "Date": "27-09-2026",
+  "Dest": "SPU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9958"
+ },
+ {
+  "Time": "0610",
+  "Date": "27-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   079"
+ },
+ {
+  "Time": "0610",
+  "Date": "27-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  4104"
+ },
+ {
+  "Time": "0615",
+  "Date": "27-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   868"
+ },
+ {
+  "Time": "0620",
+  "Date": "27-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9440"
+ },
+ {
+  "Time": "0620",
+  "Date": "27-09-2026",
+  "Dest": "VLC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9538"
+ },
+ {
+  "Time": "0620",
+  "Date": "27-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1326"
+ },
+ {
+  "Time": "0620",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2031"
+ },
+ {
+  "Time": "0625",
+  "Date": "27-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1796"
+ },
+ {
+  "Time": "0630",
+  "Date": "27-09-2026",
+  "Dest": "XRY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9570"
+ },
+ {
+  "Time": "0630",
+  "Date": "27-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9654"
+ },
+ {
+  "Time": "0630",
+  "Date": "27-09-2026",
+  "Dest": "TIA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9916"
+ },
+ {
+  "Time": "0630",
+  "Date": "27-09-2026",
+  "Dest": "TIV",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9918"
+ },
+ {
+  "Time": "0630",
+  "Date": "27-09-2026",
+  "Dest": "PUY",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9972"
+ },
+ {
+  "Time": "0640",
+  "Date": "27-09-2026",
+  "Dest": "ALC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9530"
+ },
+ {
+  "Time": "0640",
+  "Date": "27-09-2026",
+  "Dest": "FAO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9644"
+ },
+ {
+  "Time": "0645",
+  "Date": "27-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9752"
+ },
+ {
+  "Time": "0650",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9574"
+ },
+ {
+  "Time": "0650",
+  "Date": "27-09-2026",
+  "Dest": "KVA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9684"
+ },
+ {
+  "Time": "0650",
+  "Date": "27-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9882"
+ },
+ {
+  "Time": "0655",
+  "Date": "27-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1107"
+ },
+ {
+  "Time": "0655",
+  "Date": "27-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9542"
+ },
+ {
+  "Time": "0655",
+  "Date": "27-09-2026",
+  "Dest": "JTR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9662"
+ },
+ {
+  "Time": "0655",
+  "Date": "27-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9680"
+ },
+ {
+  "Time": "0700",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9576"
+ },
+ {
+  "Time": "0700",
+  "Date": "27-09-2026",
+  "Dest": "OTP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9792"
+ },
+ {
+  "Time": "0705",
+  "Date": "27-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  5702"
+ },
+ {
+  "Time": "0705",
+  "Date": "27-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9670"
+ },
+ {
+  "Time": "0705",
+  "Date": "27-09-2026",
+  "Dest": "TRS",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2724"
+ },
+ {
+  "Time": "0710",
+  "Date": "27-09-2026",
+  "Dest": "ZTH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9626"
+ },
+ {
+  "Time": "0710",
+  "Date": "27-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9988"
+ },
+ {
+  "Time": "0715",
+  "Date": "27-09-2026",
+  "Dest": "FLR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9830"
+ },
+ {
+  "Time": "0715",
+  "Date": "27-09-2026",
+  "Dest": "NAP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9860"
+ },
+ {
+  "Time": "0720",
+  "Date": "27-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9534"
+ },
+ {
+  "Time": "0720",
+  "Date": "27-09-2026",
+  "Dest": "OPO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9640"
+ },
+ {
+  "Time": "0720",
+  "Date": "27-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1530"
+ },
+ {
+  "Time": "0725",
+  "Date": "27-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9552"
+ },
+ {
+  "Time": "0725",
+  "Date": "27-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EW  9978"
+ },
+ {
+  "Time": "0725",
+  "Date": "27-09-2026",
+  "Dest": "ONQ",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1329"
+ },
+ {
+  "Time": "0730",
+  "Date": "27-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   925"
+ },
+ {
+  "Time": "0735",
+  "Date": "27-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9814"
+ },
+ {
+  "Time": "0800",
+  "Date": "27-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XR  6597"
+ },
+ {
+  "Time": "0805",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   181"
+ },
+ {
+  "Time": "0815",
+  "Date": "27-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1798"
+ },
+ {
+  "Time": "0830",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2001"
+ },
+ {
+  "Time": "0830",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1006"
+ },
+ {
+  "Time": "0835",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9578"
+ },
+ {
+  "Time": "0845",
+  "Date": "27-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9676"
+ },
+ {
+  "Time": "0855",
+  "Date": "27-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1392"
+ },
+ {
+  "Time": "0855",
+  "Date": "27-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3942"
+ },
+ {
+  "Time": "0910",
+  "Date": "27-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "EN",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ENT 6062"
+ },
+ {
+  "Time": "0925",
+  "Date": "27-09-2026",
+  "Dest": "VNO",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   934"
+ },
+ {
+  "Time": "0930",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2005"
+ },
+ {
+  "Time": "0930",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   283"
+ },
+ {
+  "Time": "0940",
+  "Date": "27-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   162"
+ },
+ {
+  "Time": "0950",
+  "Date": "27-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1017"
+ },
+ {
+  "Time": "0950",
+  "Date": "27-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1897"
+ },
+ {
+  "Time": "0955",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1848"
+ },
+ {
+  "Time": "0955",
+  "Date": "27-09-2026",
+  "Dest": "CFU",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9612"
+ },
+ {
+  "Time": "0955",
+  "Date": "27-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   969"
+ },
+ {
+  "Time": "1000",
+  "Date": "27-09-2026",
+  "Dest": "MLA",
+  "DestName": "",
+  "AirlineCode": "KM",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KM   353"
+ },
+ {
+  "Time": "1000",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5678"
+ },
+ {
+  "Time": "1000",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2007"
+ },
+ {
+  "Time": "1000",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   189"
+ },
+ {
+  "Time": "1000",
+  "Date": "27-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   505"
+ },
+ {
+  "Time": "1005",
+  "Date": "27-09-2026",
+  "Dest": "DLM",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3581"
+ },
+ {
+  "Time": "1010",
+  "Date": "27-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1630"
+ },
+ {
+  "Time": "1025",
+  "Date": "27-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   693"
+ },
+ {
+  "Time": "1025",
+  "Date": "27-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   404"
+ },
+ {
+  "Time": "1025",
+  "Date": "27-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   403"
+ },
+ {
+  "Time": "1030",
+  "Date": "27-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4673"
+ },
+ {
+  "Time": "1030",
+  "Date": "27-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1524"
+ },
+ {
+  "Time": "1035",
+  "Date": "27-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   073"
+ },
+ {
+  "Time": "1040",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1008"
+ },
+ {
+  "Time": "1100",
+  "Date": "27-09-2026",
+  "Dest": "AUH",
+  "DestName": "",
+  "AirlineCode": "EY",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EY   134"
+ },
+ {
+  "Time": "1105",
+  "Date": "27-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9464"
+ },
+ {
+  "Time": "1115",
+  "Date": "27-09-2026",
+  "Dest": "HEL",
+  "DestName": "",
+  "AirlineCode": "AY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AY  1394"
+ },
+ {
+  "Time": "1115",
+  "Date": "27-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "GQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "GQ   891"
+ },
+ {
+  "Time": "1115",
+  "Date": "27-09-2026",
+  "Dest": "BEY",
+  "DestName": "",
+  "AirlineCode": "ME",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "ME   248"
+ },
+ {
+  "Time": "1120",
+  "Date": "27-09-2026",
+  "Dest": "KRK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9732"
+ },
+ {
+  "Time": "1125",
+  "Date": "27-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "DE   068"
+ },
+ {
+  "Time": "1130",
+  "Date": "27-09-2026",
+  "Dest": "EBL",
+  "DestName": "",
+  "AirlineCode": "UD",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "UD   438"
+ },
+ {
+  "Time": "1135",
+  "Date": "27-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1607"
+ },
+ {
+  "Time": "1135",
+  "Date": "27-09-2026",
+  "Dest": "CTA",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9816"
+ },
+ {
+  "Time": "1155",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "FH",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "FH  1194"
+ },
+ {
+  "Time": "1155",
+  "Date": "27-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB  1320"
+ },
+ {
+  "Time": "1205",
+  "Date": "27-09-2026",
+  "Dest": "SSH",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  6752"
+ },
+ {
+  "Time": "1210",
+  "Date": "27-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   207"
+ },
+ {
+  "Time": "1210",
+  "Date": "27-09-2026",
+  "Dest": "MIR",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ   215"
+ },
+ {
+  "Time": "1210",
+  "Date": "27-09-2026",
+  "Dest": "FUE",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1456"
+ },
+ {
+  "Time": "1220",
+  "Date": "27-09-2026",
+  "Dest": "JMK",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9660"
+ },
+ {
+  "Time": "1225",
+  "Date": "27-09-2026",
+  "Dest": "TFS",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1428"
+ },
+ {
+  "Time": "1225",
+  "Date": "27-09-2026",
+  "Dest": "SPC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  5522"
+ },
+ {
+  "Time": "1225",
+  "Date": "27-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1800"
+ },
+ {
+  "Time": "1230",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "4M",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "4M   712"
+ },
+ {
+  "Time": "1230",
+  "Date": "27-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8043"
+ },
+ {
+  "Time": "1235",
+  "Date": "27-09-2026",
+  "Dest": "MAH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9504"
+ },
+ {
+  "Time": "1235",
+  "Date": "27-09-2026",
+  "Dest": "OLB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9844"
+ },
+ {
+  "Time": "1235",
+  "Date": "27-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK   817"
+ },
+ {
+  "Time": "1240",
+  "Date": "27-09-2026",
+  "Dest": "SKG",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   541"
+ },
+ {
+  "Time": "1240",
+  "Date": "27-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9526"
+ },
+ {
+  "Time": "1240",
+  "Date": "27-09-2026",
+  "Dest": "LPA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2114"
+ },
+ {
+  "Time": "1250",
+  "Date": "27-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   841"
+ },
+ {
+  "Time": "1250",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9582"
+ },
+ {
+  "Time": "1250",
+  "Date": "27-09-2026",
+  "Dest": "ACE",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2292"
+ },
+ {
+  "Time": "1300",
+  "Date": "27-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9442"
+ },
+ {
+  "Time": "1305",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9584"
+ },
+ {
+  "Time": "1305",
+  "Date": "27-09-2026",
+  "Dest": "KGS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9636"
+ },
+ {
+  "Time": "1310",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   026"
+ },
+ {
+  "Time": "1315",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9586"
+ },
+ {
+  "Time": "1315",
+  "Date": "27-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   541"
+ },
+ {
+  "Time": "1320",
+  "Date": "27-09-2026",
+  "Dest": "HER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9672"
+ },
+ {
+  "Time": "1320",
+  "Date": "27-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9734"
+ },
+ {
+  "Time": "1325",
+  "Date": "27-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9394"
+ },
+ {
+  "Time": "1330",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL  2015"
+ },
+ {
+  "Time": "1330",
+  "Date": "27-09-2026",
+  "Dest": "LCA",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "X3  4552"
+ },
+ {
+  "Time": "1330",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   103"
+ },
+ {
+  "Time": "1335",
+  "Date": "27-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1414"
+ },
+ {
+  "Time": "1335",
+  "Date": "27-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8221"
+ },
+ {
+  "Time": "1340",
+  "Date": "27-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9460"
+ },
+ {
+  "Time": "1345",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1002"
+ },
+ {
+  "Time": "1350",
+  "Date": "27-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9762"
+ },
+ {
+  "Time": "1410",
+  "Date": "27-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "BA",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BA   921"
+ },
+ {
+  "Time": "1415",
+  "Date": "27-09-2026",
+  "Dest": "MJI",
+  "DestName": "",
+  "AirlineCode": "BM",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BM   561"
+ },
+ {
+  "Time": "1415",
+  "Date": "27-09-2026",
+  "Dest": "CHQ",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1614"
+ },
+ {
+  "Time": "1415",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9086"
+ },
+ {
+  "Time": "1430",
+  "Date": "27-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1802"
+ },
+ {
+  "Time": "1435",
+  "Date": "27-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1507"
+ },
+ {
+  "Time": "1440",
+  "Date": "27-09-2026",
+  "Dest": "RHO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9630"
+ },
+ {
+  "Time": "1450",
+  "Date": "27-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1019"
+ },
+ {
+  "Time": "1455",
+  "Date": "27-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9048"
+ },
+ {
+  "Time": "1455",
+  "Date": "27-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1526"
+ },
+ {
+  "Time": "1455",
+  "Date": "27-09-2026",
+  "Dest": "FNC",
+  "DestName": "",
+  "AirlineCode": "X3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "X3  2852"
+ },
+ {
+  "Time": "1500",
+  "Date": "27-09-2026",
+  "Dest": "IBZ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9502"
+ },
+ {
+  "Time": "1505",
+  "Date": "27-09-2026",
+  "Dest": "GWT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9008"
+ },
+ {
+  "Time": "1505",
+  "Date": "27-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   164"
+ },
+ {
+  "Time": "1505",
+  "Date": "27-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   959"
+ },
+ {
+  "Time": "1510",
+  "Date": "27-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9602"
+ },
+ {
+  "Time": "1510",
+  "Date": "27-09-2026",
+  "Dest": "HRG",
+  "DestName": "",
+  "AirlineCode": "NE",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "NE   721"
+ },
+ {
+  "Time": "1510",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   187"
+ },
+ {
+  "Time": "1515",
+  "Date": "27-09-2026",
+  "Dest": "AGP",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9536"
+ },
+ {
+  "Time": "1515",
+  "Date": "27-09-2026",
+  "Dest": "CAI",
+  "DestName": "",
+  "AirlineCode": "MS",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "MS   734"
+ },
+ {
+  "Time": "1520",
+  "Date": "27-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "SK",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "SK  1622"
+ },
+ {
+  "Time": "1525",
+  "Date": "27-09-2026",
+  "Dest": "DXB",
+  "DestName": "",
+  "AirlineCode": "EK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EK   056"
+ },
+ {
+  "Time": "1525",
+  "Date": "27-09-2026",
+  "Dest": "SVQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9568"
+ },
+ {
+  "Time": "1525",
+  "Date": "27-09-2026",
+  "Dest": "DOH",
+  "DestName": "",
+  "AirlineCode": "QR",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "QR   086"
+ },
+ {
+  "Time": "1530",
+  "Date": "27-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH   075"
+ },
+ {
+  "Time": "1530",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2017"
+ },
+ {
+  "Time": "1530",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "XR",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "XR   501"
+ },
+ {
+  "Time": "1550",
+  "Date": "27-09-2026",
+  "Dest": "DJE",
+  "DestName": "",
+  "AirlineCode": "BJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "BJ  2973"
+ },
+ {
+  "Time": "1550",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9588"
+ },
+ {
+  "Time": "1555",
+  "Date": "27-09-2026",
+  "Dest": "OSL",
+  "DestName": "",
+  "AirlineCode": "DY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DY  1151"
+ },
+ {
+  "Time": "1555",
+  "Date": "27-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9510"
+ },
+ {
+  "Time": "1600",
+  "Date": "27-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9466"
+ },
+ {
+  "Time": "1600",
+  "Date": "27-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   197"
+ },
+ {
+  "Time": "1605",
+  "Date": "27-09-2026",
+  "Dest": "AMM",
+  "DestName": "",
+  "AirlineCode": "RJ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "RJ   130"
+ },
+ {
+  "Time": "1610",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1010"
+ },
+ {
+  "Time": "1610",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   281"
+ },
+ {
+  "Time": "1615",
+  "Date": "27-09-2026",
+  "Dest": "BER",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  8045"
+ },
+ {
+  "Time": "1620",
+  "Date": "27-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9444"
+ },
+ {
+  "Time": "1620",
+  "Date": "27-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   989"
+ },
+ {
+  "Time": "1640",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1778"
+ },
+ {
+  "Time": "1640",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9592"
+ },
+ {
+  "Time": "1645",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   028"
+ },
+ {
+  "Time": "1650",
+  "Date": "27-09-2026",
+  "Dest": "PMI",
+  "DestName": "",
+  "AirlineCode": "DE",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "DE  1516"
+ },
+ {
+  "Time": "1700",
+  "Date": "27-09-2026",
+  "Dest": "BIO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9518"
+ },
+ {
+  "Time": "1705",
+  "Date": "27-09-2026",
+  "Dest": "FCO",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9886"
+ },
+ {
+  "Time": "1710",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1004"
+ },
+ {
+  "Time": "1740",
+  "Date": "27-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9756"
+ },
+ {
+  "Time": "1745",
+  "Date": "27-09-2026",
+  "Dest": "NCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9420"
+ },
+ {
+  "Time": "1750",
+  "Date": "27-09-2026",
+  "Dest": "BUD",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9784"
+ },
+ {
+  "Time": "1755",
+  "Date": "27-09-2026",
+  "Dest": "EDI",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9364"
+ },
+ {
+  "Time": "1755",
+  "Date": "27-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9764"
+ },
+ {
+  "Time": "1755",
+  "Date": "27-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   006"
+ },
+ {
+  "Time": "1800",
+  "Date": "27-09-2026",
+  "Dest": "MAN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9344"
+ },
+ {
+  "Time": "1800",
+  "Date": "27-09-2026",
+  "Dest": "TUN",
+  "DestName": "",
+  "AirlineCode": "TU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TU   527"
+ },
+ {
+  "Time": "1810",
+  "Date": "27-09-2026",
+  "Dest": "GDN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9736"
+ },
+ {
+  "Time": "1815",
+  "Date": "27-09-2026",
+  "Dest": "AMS",
+  "DestName": "",
+  "AirlineCode": "KL",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "KL  1804"
+ },
+ {
+  "Time": "1825",
+  "Date": "27-09-2026",
+  "Dest": "LHR",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9468"
+ },
+ {
+  "Time": "1825",
+  "Date": "27-09-2026",
+  "Dest": "LIN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9846"
+ },
+ {
+  "Time": "1825",
+  "Date": "27-09-2026",
+  "Dest": "ADB",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5306"
+ },
+ {
+  "Time": "1830",
+  "Date": "27-09-2026",
+  "Dest": "BHX",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9334"
+ },
+ {
+  "Time": "1830",
+  "Date": "27-09-2026",
+  "Dest": "VCE",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9810"
+ },
+ {
+  "Time": "1830",
+  "Date": "27-09-2026",
+  "Dest": "BLQ",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EW  9834"
+ },
+ {
+  "Time": "1830",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2021"
+ },
+ {
+  "Time": "1830",
+  "Date": "27-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   166"
+ },
+ {
+  "Time": "1835",
+  "Date": "27-09-2026",
+  "Dest": "FRA",
+  "DestName": "",
+  "AirlineCode": "VL",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "VL   077"
+ },
+ {
+  "Time": "1840",
+  "Date": "27-09-2026",
+  "Dest": "GOT",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9220"
+ },
+ {
+  "Time": "1840",
+  "Date": "27-09-2026",
+  "Dest": "PRG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9774"
+ },
+ {
+  "Time": "1845",
+  "Date": "27-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1528"
+ },
+ {
+  "Time": "1850",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9088"
+ },
+ {
+  "Time": "1850",
+  "Date": "27-09-2026",
+  "Dest": "CPH",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9244"
+ },
+ {
+  "Time": "1900",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   183"
+ },
+ {
+  "Time": "1905",
+  "Date": "27-09-2026",
+  "Dest": "ZRH",
+  "DestName": "",
+  "AirlineCode": "LX",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LX  1025"
+ },
+ {
+  "Time": "1910",
+  "Date": "27-09-2026",
+  "Dest": "HAM",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  9038"
+ },
+ {
+  "Time": "1920",
+  "Date": "27-09-2026",
+  "Dest": "BJV",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  3181"
+ },
+ {
+  "Time": "1925",
+  "Date": "27-09-2026",
+  "Dest": "CDG",
+  "DestName": "",
+  "AirlineCode": "AF",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "AF  1007"
+ },
+ {
+  "Time": "1930",
+  "Date": "27-09-2026",
+  "Dest": "SZG",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4339"
+ },
+ {
+  "Time": "1930",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "XC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XC   105"
+ },
+ {
+  "Time": "1945",
+  "Date": "27-09-2026",
+  "Dest": "WAW",
+  "DestName": "",
+  "AirlineCode": "LO",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LO   408"
+ },
+ {
+  "Time": "1955",
+  "Date": "27-09-2026",
+  "Dest": "MAD",
+  "DestName": "",
+  "AirlineCode": "IB",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "IB   756"
+ },
+ {
+  "Time": "2000",
+  "Date": "27-09-2026",
+  "Dest": "BZO",
+  "DestName": "",
+  "AirlineCode": "BQ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BQ  1953"
+ },
+ {
+  "Time": "2005",
+  "Date": "27-09-2026",
+  "Dest": "RIX",
+  "DestName": "",
+  "AirlineCode": "BT",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "BT   234"
+ },
+ {
+  "Time": "2005",
+  "Date": "27-09-2026",
+  "Dest": "PRN",
+  "DestName": "",
+  "AirlineCode": "IV",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "IV  8223"
+ },
+ {
+  "Time": "2005",
+  "Date": "27-09-2026",
+  "Dest": "ESB",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ   795"
+ },
+ {
+  "Time": "2010",
+  "Date": "27-09-2026",
+  "Dest": "ATH",
+  "DestName": "",
+  "AirlineCode": "A3",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "A3   843"
+ },
+ {
+  "Time": "2015",
+  "Date": "27-09-2026",
+  "Dest": "SAW",
+  "DestName": "",
+  "AirlineCode": "VF",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "VF   030"
+ },
+ {
+  "Time": "2020",
+  "Date": "27-09-2026",
+  "Dest": "LGW",
+  "DestName": "",
+  "AirlineCode": "EZ",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EZY 8650"
+ },
+ {
+  "Time": "2020",
+  "Date": "27-09-2026",
+  "Dest": "IST",
+  "DestName": "",
+  "AirlineCode": "TK",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "TK  1522"
+ },
+ {
+  "Time": "2025",
+  "Date": "27-09-2026",
+  "Dest": "ARN",
+  "DestName": "",
+  "AirlineCode": "EW",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "EW  4677"
+ },
+ {
+  "Time": "2025",
+  "Date": "27-09-2026",
+  "Dest": "BEG",
+  "DestName": "",
+  "AirlineCode": "JU",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "JU   363"
+ },
+ {
+  "Time": "2025",
+  "Date": "27-09-2026",
+  "Dest": "VIE",
+  "DestName": "",
+  "AirlineCode": "OS",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "OS   168"
+ },
+ {
+  "Time": "2025",
+  "Date": "27-09-2026",
+  "Dest": "AYT",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  5012"
+ },
+ {
+  "Time": "2030",
+  "Date": "27-09-2026",
+  "Dest": "MUC",
+  "DestName": "",
+  "AirlineCode": "LH",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "LH  2027"
+ },
+ {
+  "Time": "2035",
+  "Date": "27-09-2026",
+  "Dest": "OGU",
+  "DestName": "",
+  "AirlineCode": "PC",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "PC  1648"
+ },
+ {
+  "Time": "2040",
+  "Date": "27-09-2026",
+  "Dest": "BCN",
+  "DestName": "",
+  "AirlineCode": "VY",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "VY  1899"
+ },
+ {
+  "Time": "2040",
+  "Date": "27-09-2026",
+  "Dest": "SZF",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1351"
+ },
+ {
+  "Time": "2045",
+  "Date": "27-09-2026",
+  "Dest": "LIS",
+  "DestName": "",
+  "AirlineCode": "TP",
+  "Airline": "",
+  "Terminal": "A",
+  "Flight": "TP   543"
+ },
+ {
+  "Time": "2045",
+  "Date": "27-09-2026",
+  "Dest": "TZX",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1341"
+ },
+ {
+  "Time": "2050",
+  "Date": "27-09-2026",
+  "Dest": "ASR",
+  "DestName": "",
+  "AirlineCode": "XQ",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "XQ  1321"
+ },
+ {
+  "Time": "2100",
+  "Date": "27-09-2026",
+  "Dest": "MXP",
+  "DestName": "",
+  "AirlineCode": "EJ",
+  "Airline": "",
+  "Terminal": "B",
+  "Flight": "EJU 3944"
+ },
+ {
+  "Time": "2105",
+  "Date": "27-09-2026",
+  "Dest": "DUB",
+  "DestName": "",
+  "AirlineCode": "EI",
+  "Airline": "",
+  "Terminal": "C",
+  "Flight": "EI   699"
+ },
+ {
+  "Time": "2115",
+  "Date": "27-09-2026",
   "Dest": "DXB",
   "DestName": "",
   "AirlineCode": "EK",
